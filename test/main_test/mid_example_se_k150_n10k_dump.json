@@ -1,0 +1,409 @@
+{
+    "Statistics": {
+        "unique_mapped_reads": 10000,
+        "ambiguous_mapped_reads": 0,
+        "unmapped_reads": 0
+    },
+    "Summary": {
+        "MGYG000002614_62|kraken:taxid|3633": {
+            "unique_reads": 96,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003745_295|kraken:taxid|4891": {
+            "unique_reads": 102,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003745_332|kraken:taxid|4891": {
+            "unique_reads": 88,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002793_155|kraken:taxid|3833": {
+            "unique_reads": 115,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003883_339|kraken:taxid|5041": {
+            "unique_reads": 95,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002560_58|kraken:taxid|3581": {
+            "unique_reads": 104,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001568_210|kraken:taxid|2408": {
+            "unique_reads": 94,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000578_15|kraken:taxid|1106": {
+            "unique_reads": 120,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001779_158|kraken:taxid|2656": {
+            "unique_reads": 87,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000864_22|kraken:taxid|1476": {
+            "unique_reads": 104,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003490_113|kraken:taxid|4589": {
+            "unique_reads": 85,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003273_121|kraken:taxid|4348": {
+            "unique_reads": 89,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002075_175|kraken:taxid|3004": {
+            "unique_reads": 103,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001743_218|kraken:taxid|2613": {
+            "unique_reads": 94,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004077_299|kraken:taxid|5246": {
+            "unique_reads": 103,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002753_25|kraken:taxid|3791": {
+            "unique_reads": 112,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001124_13|kraken:taxid|1778": {
+            "unique_reads": 99,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001806_124|kraken:taxid|2686": {
+            "unique_reads": 103,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001833_23|kraken:taxid|2718": {
+            "unique_reads": 89,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004804_18|kraken:taxid|6023": {
+            "unique_reads": 82,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001004_41|kraken:taxid|1633": {
+            "unique_reads": 112,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002896_89|kraken:taxid|3940": {
+            "unique_reads": 93,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001290_128|kraken:taxid|1979": {
+            "unique_reads": 93,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002693_21|kraken:taxid|3725": {
+            "unique_reads": 87,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002732_11|kraken:taxid|3770": {
+            "unique_reads": 115,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004516_30|kraken:taxid|5720": {
+            "unique_reads": 108,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000593_275|kraken:taxid|1128": {
+            "unique_reads": 108,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002067_247|kraken:taxid|2996": {
+            "unique_reads": 88,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003076_654|kraken:taxid|4125": {
+            "unique_reads": 102,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000166_23|kraken:taxid|406": {
+            "unique_reads": 103,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003332_61|kraken:taxid|4411": {
+            "unique_reads": 102,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002342_340|kraken:taxid|3314": {
+            "unique_reads": 82,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004851_213|kraken:taxid|6069": {
+            "unique_reads": 102,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004301_162|kraken:taxid|5495": {
+            "unique_reads": 101,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001192_88|kraken:taxid|1850": {
+            "unique_reads": 103,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003442_142|kraken:taxid|4535": {
+            "unique_reads": 104,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002604_551|kraken:taxid|3623": {
+            "unique_reads": 105,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003792_229|kraken:taxid|4945": {
+            "unique_reads": 98,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002828_187|kraken:taxid|3872": {
+            "unique_reads": 113,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004517_74|kraken:taxid|5721": {
+            "unique_reads": 104,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001792_638|kraken:taxid|2672": {
+            "unique_reads": 99,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004091_137|kraken:taxid|5265": {
+            "unique_reads": 97,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004160_79|kraken:taxid|5343": {
+            "unique_reads": 106,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004160_159|kraken:taxid|5343": {
+            "unique_reads": 122,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003337_395|kraken:taxid|4414": {
+            "unique_reads": 100,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004057_150|kraken:taxid|5222": {
+            "unique_reads": 109,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003712_165|kraken:taxid|4849": {
+            "unique_reads": 104,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002077_20|kraken:taxid|3006": {
+            "unique_reads": 97,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002616_12|kraken:taxid|3634": {
+            "unique_reads": 103,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003438_46|kraken:taxid|4532": {
+            "unique_reads": 89,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003438_695|kraken:taxid|4532": {
+            "unique_reads": 106,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001238_103|kraken:taxid|1902": {
+            "unique_reads": 86,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002105_58|kraken:taxid|3036": {
+            "unique_reads": 103,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004838_443|kraken:taxid|6056": {
+            "unique_reads": 102,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003510_202|kraken:taxid|4608": {
+            "unique_reads": 111,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000665_122|kraken:taxid|1224": {
+            "unique_reads": 80,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001058_207|kraken:taxid|1698": {
+            "unique_reads": 100,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003136_6|kraken:taxid|4183": {
+            "unique_reads": 99,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002142_87|kraken:taxid|3013": {
+            "unique_reads": 117,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004358_212|kraken:taxid|5552": {
+            "unique_reads": 84,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003593_189|kraken:taxid|4709": {
+            "unique_reads": 121,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003787_101|kraken:taxid|4940": {
+            "unique_reads": 90,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002946_31|kraken:taxid|3999": {
+            "unique_reads": 84,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003323_407|kraken:taxid|4403": {
+            "unique_reads": 96,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004315_19|kraken:taxid|5509": {
+            "unique_reads": 112,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004315_68|kraken:taxid|5509": {
+            "unique_reads": 106,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003402_1567|kraken:taxid|4484": {
+            "unique_reads": 98,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004365_25|kraken:taxid|5560": {
+            "unique_reads": 93,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003067_101|kraken:taxid|4115": {
+            "unique_reads": 98,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002738_114|kraken:taxid|3776": {
+            "unique_reads": 101,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003492_205|kraken:taxid|4592": {
+            "unique_reads": 89,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003762_420|kraken:taxid|4912": {
+            "unique_reads": 86,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004556_601|kraken:taxid|5765": {
+            "unique_reads": 111,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001443_10|kraken:taxid|2213": {
+            "unique_reads": 90,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002513_242|kraken:taxid|3523": {
+            "unique_reads": 93,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004513_284|kraken:taxid|5717": {
+            "unique_reads": 110,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003258_138|kraken:taxid|4327": {
+            "unique_reads": 93,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004903_136|kraken:taxid|6124": {
+            "unique_reads": 101,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003773_160|kraken:taxid|4924": {
+            "unique_reads": 93,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000748_33|kraken:taxid|1345": {
+            "unique_reads": 96,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002169_28|kraken:taxid|3102": {
+            "unique_reads": 101,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004748_30|kraken:taxid|5964": {
+            "unique_reads": 117,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000645_35|kraken:taxid|1200": {
+            "unique_reads": 97,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000588_217|kraken:taxid|1120": {
+            "unique_reads": 125,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003223_268|kraken:taxid|4289": {
+            "unique_reads": 89,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001174_23|kraken:taxid|1828": {
+            "unique_reads": 105,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001684_99|kraken:taxid|2544": {
+            "unique_reads": 98,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003241_96|kraken:taxid|4309": {
+            "unique_reads": 88,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002141_121|kraken:taxid|3077": {
+            "unique_reads": 94,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004674_94|kraken:taxid|5885": {
+            "unique_reads": 105,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004383_99|kraken:taxid|5579": {
+            "unique_reads": 105,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002785_238|kraken:taxid|3823": {
+            "unique_reads": 110,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004456_14|kraken:taxid|5656": {
+            "unique_reads": 106,
+            "ambiguous_reads": 0
+        },
+        "MGYG000004211_9|kraken:taxid|5399": {
+            "unique_reads": 85,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000302_45|kraken:taxid|604": {
+            "unique_reads": 109,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000136_164|kraken:taxid|362": {
+            "unique_reads": 107,
+            "ambiguous_reads": 0
+        },
+        "MGYG000000932_35|kraken:taxid|1552": {
+            "unique_reads": 84,
+            "ambiguous_reads": 0
+        },
+        "MGYG000003165_210|kraken:taxid|4215": {
+            "unique_reads": 102,
+            "ambiguous_reads": 0
+        },
+        "MGYG000001091_740|kraken:taxid|1740": {
+            "unique_reads": 99,
+            "ambiguous_reads": 0
+        },
+        "MGYG000002694_393|kraken:taxid|3727": {
+            "unique_reads": 112,
+            "ambiguous_reads": 0
+        }
+    }
+}

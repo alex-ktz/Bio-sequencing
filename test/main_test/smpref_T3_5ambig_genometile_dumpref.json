@@ -1,0 +1,29 @@
+{
+  "Statistics": {
+    "unique_mapped_reads": 600,
+    "ambiguous_mapped_reads": 0,
+    "unmapped_reads": 4090
+  },
+  "Summary": {
+    "genome1_ambig": {
+      "unique_reads": 0,
+      "ambiguous_reads": 0
+    },
+    "genome2_ambig": {
+      "unique_reads": 0,
+      "ambiguous_reads": 0
+    },
+    "genome3_ambig": {
+      "unique_reads": 0,
+      "ambiguous_reads": 0
+    },
+    "genome4_ambig": {
+      "unique_reads": 0,
+      "ambiguous_reads": 0
+    },
+    "genome5_part_ambig": {
+      "unique_reads": 600,
+      "ambiguous_reads": 0
+    }
+  }
+}

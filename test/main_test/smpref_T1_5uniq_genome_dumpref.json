@@ -1,0 +1,9281 @@
+{
+  "Kmers": {
+    "TGGTGGGAGACCGTGCAGGTTCAAGTCCTGT": {
+      "genome1_unique": [
+        0
+      ]
+    },
+    "GGTGGGAGACCGTGCAGGTTCAAGTCCTGTT": {
+      "genome1_unique": [
+        1
+      ]
+    },
+    "GTGGGAGACCGTGCAGGTTCAAGTCCTGTTA": {
+      "genome1_unique": [
+        2
+      ]
+    },
+    "TGGGAGACCGTGCAGGTTCAAGTCCTGTTAA": {
+      "genome1_unique": [
+        3
+      ]
+    },
+    "GGGAGACCGTGCAGGTTCAAGTCCTGTTAAC": {
+      "genome1_unique": [
+        4
+      ]
+    },
+    "GGAGACCGTGCAGGTTCAAGTCCTGTTAACC": {
+      "genome1_unique": [
+        5
+      ]
+    },
+    "GAGACCGTGCAGGTTCAAGTCCTGTTAACCG": {
+      "genome1_unique": [
+        6
+      ]
+    },
+    "AGACCGTGCAGGTTCAAGTCCTGTTAACCGC": {
+      "genome1_unique": [
+        7
+      ]
+    },
+    "GACCGTGCAGGTTCAAGTCCTGTTAACCGCA": {
+      "genome1_unique": [
+        8
+      ]
+    },
+    "ACCGTGCAGGTTCAAGTCCTGTTAACCGCAG": {
+      "genome1_unique": [
+        9
+      ]
+    },
+    "CCGTGCAGGTTCAAGTCCTGTTAACCGCAGT": {
+      "genome1_unique": [
+        10
+      ]
+    },
+    "CGTGCAGGTTCAAGTCCTGTTAACCGCAGTA": {
+      "genome1_unique": [
+        11
+      ]
+    },
+    "GTGCAGGTTCAAGTCCTGTTAACCGCAGTAA": {
+      "genome1_unique": [
+        12
+      ]
+    },
+    "TGCAGGTTCAAGTCCTGTTAACCGCAGTAAA": {
+      "genome1_unique": [
+        13
+      ]
+    },
+    "GCAGGTTCAAGTCCTGTTAACCGCAGTAAAT": {
+      "genome1_unique": [
+        14
+      ]
+    },
+    "CAGGTTCAAGTCCTGTTAACCGCAGTAAATT": {
+      "genome1_unique": [
+        15
+      ]
+    },
+    "AGGTTCAAGTCCTGTTAACCGCAGTAAATTG": {
+      "genome1_unique": [
+        16
+      ]
+    },
+    "GGTTCAAGTCCTGTTAACCGCAGTAAATTGT": {
+      "genome1_unique": [
+        17
+      ]
+    },
+    "GTTCAAGTCCTGTTAACCGCAGTAAATTGTG": {
+      "genome1_unique": [
+        18
+      ]
+    },
+    "TTCAAGTCCTGTTAACCGCAGTAAATTGTGA": {
+      "genome1_unique": [
+        19
+      ]
+    },
+    "TCAAGTCCTGTTAACCGCAGTAAATTGTGAA": {
+      "genome1_unique": [
+        20
+      ]
+    },
+    "CAAGTCCTGTTAACCGCAGTAAATTGTGAAA": {
+      "genome1_unique": [
+        21
+      ]
+    },
+    "AAGTCCTGTTAACCGCAGTAAATTGTGAAAA": {
+      "genome1_unique": [
+        22
+      ]
+    },
+    "AGTCCTGTTAACCGCAGTAAATTGTGAAAAA": {
+      "genome1_unique": [
+        23
+      ]
+    },
+    "GTCCTGTTAACCGCAGTAAATTGTGAAAAAG": {
+      "genome1_unique": [
+        24
+      ]
+    },
+    "TCCTGTTAACCGCAGTAAATTGTGAAAAAGT": {
+      "genome1_unique": [
+        25
+      ]
+    },
+    "CCTGTTAACCGCAGTAAATTGTGAAAAAGTG": {
+      "genome1_unique": [
+        26
+      ]
+    },
+    "CTGTTAACCGCAGTAAATTGTGAAAAAGTGG": {
+      "genome1_unique": [
+        27
+      ]
+    },
+    "TGTTAACCGCAGTAAATTGTGAAAAAGTGGC": {
+      "genome1_unique": [
+        28
+      ]
+    },
+    "GTTAACCGCAGTAAATTGTGAAAAAGTGGCG": {
+      "genome1_unique": [
+        29
+      ]
+    },
+    "TTAACCGCAGTAAATTGTGAAAAAGTGGCGG": {
+      "genome1_unique": [
+        30
+      ]
+    },
+    "TAACCGCAGTAAATTGTGAAAAAGTGGCGGT": {
+      "genome1_unique": [
+        31
+      ]
+    },
+    "AACCGCAGTAAATTGTGAAAAAGTGGCGGTA": {
+      "genome1_unique": [
+        32
+      ]
+    },
+    "ACCGCAGTAAATTGTGAAAAAGTGGCGGTAT": {
+      "genome1_unique": [
+        33
+      ]
+    },
+    "CCGCAGTAAATTGTGAAAAAGTGGCGGTATC": {
+      "genome1_unique": [
+        34
+      ]
+    },
+    "CGCAGTAAATTGTGAAAAAGTGGCGGTATCG": {
+      "genome1_unique": [
+        35
+      ]
+    },
+    "GCAGTAAATTGTGAAAAAGTGGCGGTATCGT": {
+      "genome1_unique": [
+        36
+      ]
+    },
+    "CAGTAAATTGTGAAAAAGTGGCGGTATCGTG": {
+      "genome1_unique": [
+        37
+      ]
+    },
+    "AGTAAATTGTGAAAAAGTGGCGGTATCGTGA": {
+      "genome1_unique": [
+        38
+      ]
+    },
+    "GTAAATTGTGAAAAAGTGGCGGTATCGTGAA": {
+      "genome1_unique": [
+        39
+      ]
+    },
+    "TAAATTGTGAAAAAGTGGCGGTATCGTGAAT": {
+      "genome1_unique": [
+        40
+      ]
+    },
+    "AAATTGTGAAAAAGTGGCGGTATCGTGAATG": {
+      "genome1_unique": [
+        41
+      ]
+    },
+    "AATTGTGAAAAAGTGGCGGTATCGTGAATGA": {
+      "genome1_unique": [
+        42
+      ]
+    },
+    "ATTGTGAAAAAGTGGCGGTATCGTGAATGAT": {
+      "genome1_unique": [
+        43
+      ]
+    },
+    "TTGTGAAAAAGTGGCGGTATCGTGAATGATA": {
+      "genome1_unique": [
+        44
+      ]
+    },
+    "TGTGAAAAAGTGGCGGTATCGTGAATGATAC": {
+      "genome1_unique": [
+        45
+      ]
+    },
+    "GTGAAAAAGTGGCGGTATCGTGAATGATACC": {
+      "genome1_unique": [
+        46
+      ]
+    },
+    "TGAAAAAGTGGCGGTATCGTGAATGATACCG": {
+      "genome1_unique": [
+        47
+      ]
+    },
+    "GAAAAAGTGGCGGTATCGTGAATGATACCGT": {
+      "genome1_unique": [
+        48
+      ]
+    },
+    "AAAAAGTGGCGGTATCGTGAATGATACCGTC": {
+      "genome1_unique": [
+        49
+      ]
+    },
+    "AAAAGTGGCGGTATCGTGAATGATACCGTCA": {
+      "genome1_unique": [
+        50
+      ]
+    },
+    "AAAGTGGCGGTATCGTGAATGATACCGTCAC": {
+      "genome1_unique": [
+        51
+      ]
+    },
+    "AAGTGGCGGTATCGTGAATGATACCGTCACT": {
+      "genome1_unique": [
+        52
+      ]
+    },
+    "AGTGGCGGTATCGTGAATGATACCGTCACTT": {
+      "genome1_unique": [
+        53
+      ]
+    },
+    "GTGGCGGTATCGTGAATGATACCGTCACTTT": {
+      "genome1_unique": [
+        54
+      ]
+    },
+    "TGGCGGTATCGTGAATGATACCGTCACTTTT": {
+      "genome1_unique": [
+        55
+      ]
+    },
+    "GGCGGTATCGTGAATGATACCGTCACTTTTT": {
+      "genome1_unique": [
+        56
+      ]
+    },
+    "GCGGTATCGTGAATGATACCGTCACTTTTTT": {
+      "genome1_unique": [
+        57
+      ]
+    },
+    "CGGTATCGTGAATGATACCGTCACTTTTTTC": {
+      "genome1_unique": [
+        58
+      ]
+    },
+    "GGTATCGTGAATGATACCGTCACTTTTTTCG": {
+      "genome1_unique": [
+        59
+      ]
+    },
+    "GTATCGTGAATGATACCGTCACTTTTTTCGT": {
+      "genome1_unique": [
+        60
+      ]
+    },
+    "TATCGTGAATGATACCGTCACTTTTTTCGTA": {
+      "genome1_unique": [
+        61
+      ]
+    },
+    "ATCGTGAATGATACCGTCACTTTTTTCGTAT": {
+      "genome1_unique": [
+        62
+      ]
+    },
+    "TCGTGAATGATACCGTCACTTTTTTCGTATA": {
+      "genome1_unique": [
+        63
+      ]
+    },
+    "CGTGAATGATACCGTCACTTTTTTCGTATAC": {
+      "genome1_unique": [
+        64
+      ]
+    },
+    "GTGAATGATACCGTCACTTTTTTCGTATACC": {
+      "genome1_unique": [
+        65
+      ]
+    },
+    "TGAATGATACCGTCACTTTTTTCGTATACCT": {
+      "genome1_unique": [
+        66
+      ]
+    },
+    "GAATGATACCGTCACTTTTTTCGTATACCTT": {
+      "genome1_unique": [
+        67
+      ]
+    },
+    "AATGATACCGTCACTTTTTTCGTATACCTTT": {
+      "genome1_unique": [
+        68
+      ]
+    },
+    "ATGATACCGTCACTTTTTTCGTATACCTTTT": {
+      "genome1_unique": [
+        69
+      ]
+    },
+    "TGATACCGTCACTTTTTTCGTATACCTTTTT": {
+      "genome1_unique": [
+        70
+      ]
+    },
+    "GATACCGTCACTTTTTTCGTATACCTTTTTG": {
+      "genome1_unique": [
+        71
+      ]
+    },
+    "ATACCGTCACTTTTTTCGTATACCTTTTTGT": {
+      "genome1_unique": [
+        72
+      ]
+    },
+    "TACCGTCACTTTTTTCGTATACCTTTTTGTC": {
+      "genome1_unique": [
+        73
+      ]
+    },
+    "ACCGTCACTTTTTTCGTATACCTTTTTGTCC": {
+      "genome1_unique": [
+        74
+      ]
+    },
+    "CCGTCACTTTTTTCGTATACCTTTTTGTCCG": {
+      "genome1_unique": [
+        75
+      ]
+    },
+    "CGTCACTTTTTTCGTATACCTTTTTGTCCGG": {
+      "genome1_unique": [
+        76
+      ]
+    },
+    "GTCACTTTTTTCGTATACCTTTTTGTCCGGT": {
+      "genome1_unique": [
+        77
+      ]
+    },
+    "TCACTTTTTTCGTATACCTTTTTGTCCGGTT": {
+      "genome1_unique": [
+        78
+      ]
+    },
+    "CACTTTTTTCGTATACCTTTTTGTCCGGTTC": {
+      "genome1_unique": [
+        79
+      ]
+    },
+    "ACTTTTTTCGTATACCTTTTTGTCCGGTTCT": {
+      "genome1_unique": [
+        80
+      ]
+    },
+    "CTTTTTTCGTATACCTTTTTGTCCGGTTCTT": {
+      "genome1_unique": [
+        81
+      ]
+    },
+    "TTTTTTCGTATACCTTTTTGTCCGGTTCTTG": {
+      "genome1_unique": [
+        82
+      ]
+    },
+    "TTTTTCGTATACCTTTTTGTCCGGTTCTTGG": {
+      "genome1_unique": [
+        83
+      ]
+    },
+    "TTTTCGTATACCTTTTTGTCCGGTTCTTGGT": {
+      "genome1_unique": [
+        84
+      ]
+    },
+    "TTTCGTATACCTTTTTGTCCGGTTCTTGGTT": {
+      "genome1_unique": [
+        85
+      ]
+    },
+    "TTCGTATACCTTTTTGTCCGGTTCTTGGTTA": {
+      "genome1_unique": [
+        86
+      ]
+    },
+    "TCGTATACCTTTTTGTCCGGTTCTTGGTTAA": {
+      "genome1_unique": [
+        87
+      ]
+    },
+    "CGTATACCTTTTTGTCCGGTTCTTGGTTAAG": {
+      "genome1_unique": [
+        88
+      ]
+    },
+    "GTATACCTTTTTGTCCGGTTCTTGGTTAAGT": {
+      "genome1_unique": [
+        89
+      ]
+    },
+    "TATACCTTTTTGTCCGGTTCTTGGTTAAGTT": {
+      "genome1_unique": [
+        90
+      ]
+    },
+    "ATACCTTTTTGTCCGGTTCTTGGTTAAGTTG": {
+      "genome1_unique": [
+        91
+      ]
+    },
+    "TACCTTTTTGTCCGGTTCTTGGTTAAGTTGG": {
+      "genome1_unique": [
+        92
+      ]
+    },
+    "ACCTTTTTGTCCGGTTCTTGGTTAAGTTGGA": {
+      "genome1_unique": [
+        93
+      ]
+    },
+    "CCTTTTTGTCCGGTTCTTGGTTAAGTTGGAT": {
+      "genome1_unique": [
+        94
+      ]
+    },
+    "CTTTTTGTCCGGTTCTTGGTTAAGTTGGATT": {
+      "genome1_unique": [
+        95
+      ]
+    },
+    "TTTTTGTCCGGTTCTTGGTTAAGTTGGATTG": {
+      "genome1_unique": [
+        96
+      ]
+    },
+    "TTTTGTCCGGTTCTTGGTTAAGTTGGATTGG": {
+      "genome1_unique": [
+        97
+      ]
+    },
+    "TTTGTCCGGTTCTTGGTTAAGTTGGATTGGC": {
+      "genome1_unique": [
+        98
+      ]
+    },
+    "TTGTCCGGTTCTTGGTTAAGTTGGATTGGCA": {
+      "genome1_unique": [
+        99
+      ]
+    },
+    "TGTCCGGTTCTTGGTTAAGTTGGATTGGCAG": {
+      "genome1_unique": [
+        100
+      ]
+    },
+    "GTCCGGTTCTTGGTTAAGTTGGATTGGCAGA": {
+      "genome1_unique": [
+        101
+      ]
+    },
+    "TCCGGTTCTTGGTTAAGTTGGATTGGCAGAG": {
+      "genome1_unique": [
+        102
+      ]
+    },
+    "CCGGTTCTTGGTTAAGTTGGATTGGCAGAGG": {
+      "genome1_unique": [
+        103
+      ]
+    },
+    "CGGTTCTTGGTTAAGTTGGATTGGCAGAGGG": {
+      "genome1_unique": [
+        104
+      ]
+    },
+    "GGTTCTTGGTTAAGTTGGATTGGCAGAGGGC": {
+      "genome1_unique": [
+        105
+      ]
+    },
+    "GTTCTTGGTTAAGTTGGATTGGCAGAGGGCT": {
+      "genome1_unique": [
+        106
+      ]
+    },
+    "TTCTTGGTTAAGTTGGATTGGCAGAGGGCTT": {
+      "genome1_unique": [
+        107
+      ]
+    },
+    "TCTTGGTTAAGTTGGATTGGCAGAGGGCTTG": {
+      "genome1_unique": [
+        108
+      ]
+    },
+    "CTTGGTTAAGTTGGATTGGCAGAGGGCTTGT": {
+      "genome1_unique": [
+        109
+      ]
+    },
+    "TTGGTTAAGTTGGATTGGCAGAGGGCTTGTA": {
+      "genome1_unique": [
+        110
+      ]
+    },
+    "TGGTTAAGTTGGATTGGCAGAGGGCTTGTAT": {
+      "genome1_unique": [
+        111
+      ]
+    },
+    "GGTTAAGTTGGATTGGCAGAGGGCTTGTATA": {
+      "genome1_unique": [
+        112
+      ]
+    },
+    "GTTAAGTTGGATTGGCAGAGGGCTTGTATAT": {
+      "genome1_unique": [
+        113
+      ]
+    },
+    "TTAAGTTGGATTGGCAGAGGGCTTGTATATA": {
+      "genome1_unique": [
+        114
+      ]
+    },
+    "TAAGTTGGATTGGCAGAGGGCTTGTATATAG": {
+      "genome1_unique": [
+        115
+      ]
+    },
+    "AAGTTGGATTGGCAGAGGGCTTGTATATAGA": {
+      "genome1_unique": [
+        116
+      ]
+    },
+    "AGTTGGATTGGCAGAGGGCTTGTATATAGAA": {
+      "genome1_unique": [
+        117
+      ]
+    },
+    "GTTGGATTGGCAGAGGGCTTGTATATAGAAG": {
+      "genome1_unique": [
+        118
+      ]
+    },
+    "TTGGATTGGCAGAGGGCTTGTATATAGAAGC": {
+      "genome1_unique": [
+        119
+      ]
+    },
+    "TGGATTGGCAGAGGGCTTGTATATAGAAGCT": {
+      "genome1_unique": [
+        120
+      ]
+    },
+    "GGATTGGCAGAGGGCTTGTATATAGAAGCTT": {
+      "genome1_unique": [
+        121
+      ]
+    },
+    "GATTGGCAGAGGGCTTGTATATAGAAGCTTT": {
+      "genome1_unique": [
+        122
+      ]
+    },
+    "ATTGGCAGAGGGCTTGTATATAGAAGCTTTG": {
+      "genome1_unique": [
+        123
+      ]
+    },
+    "TTGGCAGAGGGCTTGTATATAGAAGCTTTGC": {
+      "genome1_unique": [
+        124
+      ]
+    },
+    "TGGCAGAGGGCTTGTATATAGAAGCTTTGCA": {
+      "genome1_unique": [
+        125
+      ]
+    },
+    "GGCAGAGGGCTTGTATATAGAAGCTTTGCAA": {
+      "genome1_unique": [
+        126
+      ]
+    },
+    "GCAGAGGGCTTGTATATAGAAGCTTTGCAAC": {
+      "genome1_unique": [
+        127
+      ]
+    },
+    "CAGAGGGCTTGTATATAGAAGCTTTGCAACG": {
+      "genome1_unique": [
+        128
+      ]
+    },
+    "AGAGGGCTTGTATATAGAAGCTTTGCAACGA": {
+      "genome1_unique": [
+        129
+      ]
+    },
+    "GAGGGCTTGTATATAGAAGCTTTGCAACGAT": {
+      "genome1_unique": [
+        130
+      ]
+    },
+    "AGGGCTTGTATATAGAAGCTTTGCAACGATA": {
+      "genome1_unique": [
+        131
+      ]
+    },
+    "GGGCTTGTATATAGAAGCTTTGCAACGATAC": {
+      "genome1_unique": [
+        132
+      ]
+    },
+    "GGCTTGTATATAGAAGCTTTGCAACGATACG": {
+      "genome1_unique": [
+        133
+      ]
+    },
+    "GCTTGTATATAGAAGCTTTGCAACGATACGT": {
+      "genome1_unique": [
+        134
+      ]
+    },
+    "CTTGTATATAGAAGCTTTGCAACGATACGTT": {
+      "genome1_unique": [
+        135
+      ]
+    },
+    "TTGTATATAGAAGCTTTGCAACGATACGTTG": {
+      "genome1_unique": [
+        136
+      ]
+    },
+    "TGTATATAGAAGCTTTGCAACGATACGTTGC": {
+      "genome1_unique": [
+        137
+      ]
+    },
+    "GTATATAGAAGCTTTGCAACGATACGTTGCG": {
+      "genome1_unique": [
+        138
+      ]
+    },
+    "TATATAGAAGCTTTGCAACGATACGTTGCGC": {
+      "genome1_unique": [
+        139
+      ]
+    },
+    "ATATAGAAGCTTTGCAACGATACGTTGCGCA": {
+      "genome1_unique": [
+        140
+      ]
+    },
+    "TATAGAAGCTTTGCAACGATACGTTGCGCAG": {
+      "genome1_unique": [
+        141
+      ]
+    },
+    "ATAGAAGCTTTGCAACGATACGTTGCGCAGA": {
+      "genome1_unique": [
+        142
+      ]
+    },
+    "TAGAAGCTTTGCAACGATACGTTGCGCAGAT": {
+      "genome1_unique": [
+        143
+      ]
+    },
+    "AGAAGCTTTGCAACGATACGTTGCGCAGATT": {
+      "genome1_unique": [
+        144
+      ]
+    },
+    "GAAGCTTTGCAACGATACGTTGCGCAGATTC": {
+      "genome1_unique": [
+        145
+      ]
+    },
+    "AAGCTTTGCAACGATACGTTGCGCAGATTCC": {
+      "genome1_unique": [
+        146
+      ]
+    },
+    "AGCTTTGCAACGATACGTTGCGCAGATTCCT": {
+      "genome1_unique": [
+        147
+      ]
+    },
+    "GCTTTGCAACGATACGTTGCGCAGATTCCTA": {
+      "genome1_unique": [
+        148
+      ]
+    },
+    "CTTTGCAACGATACGTTGCGCAGATTCCTAC": {
+      "genome1_unique": [
+        149
+      ]
+    },
+    "TTTGCAACGATACGTTGCGCAGATTCCTACA": {
+      "genome1_unique": [
+        150
+      ]
+    },
+    "TTGCAACGATACGTTGCGCAGATTCCTACAT": {
+      "genome1_unique": [
+        151
+      ]
+    },
+    "TGCAACGATACGTTGCGCAGATTCCTACATG": {
+      "genome1_unique": [
+        152
+      ]
+    },
+    "GCAACGATACGTTGCGCAGATTCCTACATGG": {
+      "genome1_unique": [
+        153
+      ]
+    },
+    "CAACGATACGTTGCGCAGATTCCTACATGGG": {
+      "genome1_unique": [
+        154
+      ]
+    },
+    "AACGATACGTTGCGCAGATTCCTACATGGGC": {
+      "genome1_unique": [
+        155
+      ]
+    },
+    "ACGATACGTTGCGCAGATTCCTACATGGGCT": {
+      "genome1_unique": [
+        156
+      ]
+    },
+    "CGATACGTTGCGCAGATTCCTACATGGGCTG": {
+      "genome1_unique": [
+        157
+      ]
+    },
+    "GATACGTTGCGCAGATTCCTACATGGGCTGG": {
+      "genome1_unique": [
+        158
+      ]
+    },
+    "ATACGTTGCGCAGATTCCTACATGGGCTGGT": {
+      "genome1_unique": [
+        159
+      ]
+    },
+    "TACGTTGCGCAGATTCCTACATGGGCTGGTA": {
+      "genome1_unique": [
+        160
+      ]
+    },
+    "ACGTTGCGCAGATTCCTACATGGGCTGGTAG": {
+      "genome1_unique": [
+        161
+      ]
+    },
+    "CGTTGCGCAGATTCCTACATGGGCTGGTAGA": {
+      "genome1_unique": [
+        162
+      ]
+    },
+    "GTTGCGCAGATTCCTACATGGGCTGGTAGAT": {
+      "genome1_unique": [
+        163
+      ]
+    },
+    "TTGCGCAGATTCCTACATGGGCTGGTAGATG": {
+      "genome1_unique": [
+        164
+      ]
+    },
+    "TGCGCAGATTCCTACATGGGCTGGTAGATGT": {
+      "genome1_unique": [
+        165
+      ]
+    },
+    "GCGCAGATTCCTACATGGGCTGGTAGATGTG": {
+      "genome1_unique": [
+        166
+      ]
+    },
+    "CGCAGATTCCTACATGGGCTGGTAGATGTGA": {
+      "genome1_unique": [
+        167
+      ]
+    },
+    "GCAGATTCCTACATGGGCTGGTAGATGTGAA": {
+      "genome1_unique": [
+        168
+      ]
+    },
+    "CAGATTCCTACATGGGCTGGTAGATGTGAAA": {
+      "genome1_unique": [
+        169
+      ]
+    },
+    "CCACATGCGGGCGGCCTGGGTGGGCTGGCCC": {
+      "genome2_unique": [
+        0
+      ]
+    },
+    "CACATGCGGGCGGCCTGGGTGGGCTGGCCCT": {
+      "genome2_unique": [
+        1
+      ]
+    },
+    "ACATGCGGGCGGCCTGGGTGGGCTGGCCCTG": {
+      "genome2_unique": [
+        2
+      ]
+    },
+    "CATGCGGGCGGCCTGGGTGGGCTGGCCCTGG": {
+      "genome2_unique": [
+        3
+      ]
+    },
+    "ATGCGGGCGGCCTGGGTGGGCTGGCCCTGGT": {
+      "genome2_unique": [
+        4
+      ]
+    },
+    "TGCGGGCGGCCTGGGTGGGCTGGCCCTGGTC": {
+      "genome2_unique": [
+        5
+      ]
+    },
+    "GCGGGCGGCCTGGGTGGGCTGGCCCTGGTCA": {
+      "genome2_unique": [
+        6
+      ]
+    },
+    "CGGGCGGCCTGGGTGGGCTGGCCCTGGTCAT": {
+      "genome2_unique": [
+        7
+      ]
+    },
+    "GGGCGGCCTGGGTGGGCTGGCCCTGGTCATC": {
+      "genome2_unique": [
+        8
+      ]
+    },
+    "GGCGGCCTGGGTGGGCTGGCCCTGGTCATCC": {
+      "genome2_unique": [
+        9
+      ]
+    },
+    "GCGGCCTGGGTGGGCTGGCCCTGGTCATCCA": {
+      "genome2_unique": [
+        10
+      ]
+    },
+    "CGGCCTGGGTGGGCTGGCCCTGGTCATCCAG": {
+      "genome2_unique": [
+        11
+      ]
+    },
+    "GGCCTGGGTGGGCTGGCCCTGGTCATCCAGC": {
+      "genome2_unique": [
+        12
+      ]
+    },
+    "GCCTGGGTGGGCTGGCCCTGGTCATCCAGCA": {
+      "genome2_unique": [
+        13
+      ]
+    },
+    "CCTGGGTGGGCTGGCCCTGGTCATCCAGCAG": {
+      "genome2_unique": [
+        14
+      ]
+    },
+    "CTGGGTGGGCTGGCCCTGGTCATCCAGCAGC": {
+      "genome2_unique": [
+        15
+      ]
+    },
+    "TGGGTGGGCTGGCCCTGGTCATCCAGCAGCA": {
+      "genome2_unique": [
+        16
+      ]
+    },
+    "GGGTGGGCTGGCCCTGGTCATCCAGCAGCAG": {
+      "genome2_unique": [
+        17
+      ]
+    },
+    "GGTGGGCTGGCCCTGGTCATCCAGCAGCAGC": {
+      "genome2_unique": [
+        18
+      ]
+    },
+    "GTGGGCTGGCCCTGGTCATCCAGCAGCAGCT": {
+      "genome2_unique": [
+        19
+      ]
+    },
+    "TGGGCTGGCCCTGGTCATCCAGCAGCAGCTT": {
+      "genome2_unique": [
+        20
+      ]
+    },
+    "GGGCTGGCCCTGGTCATCCAGCAGCAGCTTC": {
+      "genome2_unique": [
+        21
+      ]
+    },
+    "GGCTGGCCCTGGTCATCCAGCAGCAGCTTCA": {
+      "genome2_unique": [
+        22
+      ]
+    },
+    "GCTGGCCCTGGTCATCCAGCAGCAGCTTCAC": {
+      "genome2_unique": [
+        23
+      ]
+    },
+    "CTGGCCCTGGTCATCCAGCAGCAGCTTCACC": {
+      "genome2_unique": [
+        24
+      ]
+    },
+    "TGGCCCTGGTCATCCAGCAGCAGCTTCACCG": {
+      "genome2_unique": [
+        25
+      ]
+    },
+    "GGCCCTGGTCATCCAGCAGCAGCTTCACCGT": {
+      "genome2_unique": [
+        26
+      ]
+    },
+    "GCCCTGGTCATCCAGCAGCAGCTTCACCGTC": {
+      "genome2_unique": [
+        27
+      ]
+    },
+    "CCCTGGTCATCCAGCAGCAGCTTCACCGTCA": {
+      "genome2_unique": [
+        28
+      ]
+    },
+    "CCTGGTCATCCAGCAGCAGCTTCACCGTCAG": {
+      "genome2_unique": [
+        29
+      ]
+    },
+    "CTGGTCATCCAGCAGCAGCTTCACCGTCAGG": {
+      "genome2_unique": [
+        30
+      ]
+    },
+    "TGGTCATCCAGCAGCAGCTTCACCGTCAGGT": {
+      "genome2_unique": [
+        31
+      ]
+    },
+    "GGTCATCCAGCAGCAGCTTCACCGTCAGGTG": {
+      "genome2_unique": [
+        32
+      ]
+    },
+    "GTCATCCAGCAGCAGCTTCACCGTCAGGTGC": {
+      "genome2_unique": [
+        33
+      ]
+    },
+    "TCATCCAGCAGCAGCTTCACCGTCAGGTGCT": {
+      "genome2_unique": [
+        34
+      ]
+    },
+    "CATCCAGCAGCAGCTTCACCGTCAGGTGCTC": {
+      "genome2_unique": [
+        35
+      ]
+    },
+    "ATCCAGCAGCAGCTTCACCGTCAGGTGCTCC": {
+      "genome2_unique": [
+        36
+      ]
+    },
+    "TCCAGCAGCAGCTTCACCGTCAGGTGCTCCA": {
+      "genome2_unique": [
+        37
+      ]
+    },
+    "CCAGCAGCAGCTTCACCGTCAGGTGCTCCAG": {
+      "genome2_unique": [
+        38
+      ]
+    },
+    "CAGCAGCAGCTTCACCGTCAGGTGCTCCAGG": {
+      "genome2_unique": [
+        39
+      ]
+    },
+    "AGCAGCAGCTTCACCGTCAGGTGCTCCAGGT": {
+      "genome2_unique": [
+        40
+      ]
+    },
+    "GCAGCAGCTTCACCGTCAGGTGCTCCAGGTC": {
+      "genome2_unique": [
+        41
+      ]
+    },
+    "CAGCAGCTTCACCGTCAGGTGCTCCAGGTCG": {
+      "genome2_unique": [
+        42
+      ]
+    },
+    "AGCAGCTTCACCGTCAGGTGCTCCAGGTCGG": {
+      "genome2_unique": [
+        43
+      ]
+    },
+    "GCAGCTTCACCGTCAGGTGCTCCAGGTCGGA": {
+      "genome2_unique": [
+        44
+      ]
+    },
+    "CAGCTTCACCGTCAGGTGCTCCAGGTCGGAG": {
+      "genome2_unique": [
+        45
+      ]
+    },
+    "AGCTTCACCGTCAGGTGCTCCAGGTCGGAGA": {
+      "genome2_unique": [
+        46
+      ]
+    },
+    "GCTTCACCGTCAGGTGCTCCAGGTCGGAGAA": {
+      "genome2_unique": [
+        47
+      ]
+    },
+    "CTTCACCGTCAGGTGCTCCAGGTCGGAGAAG": {
+      "genome2_unique": [
+        48
+      ]
+    },
+    "TTCACCGTCAGGTGCTCCAGGTCGGAGAAGT": {
+      "genome2_unique": [
+        49
+      ]
+    },
+    "TCACCGTCAGGTGCTCCAGGTCGGAGAAGTC": {
+      "genome2_unique": [
+        50
+      ]
+    },
+    "CACCGTCAGGTGCTCCAGGTCGGAGAAGTCC": {
+      "genome2_unique": [
+        51
+      ]
+    },
+    "ACCGTCAGGTGCTCCAGGTCGGAGAAGTCCA": {
+      "genome2_unique": [
+        52
+      ]
+    },
+    "CCGTCAGGTGCTCCAGGTCGGAGAAGTCCAC": {
+      "genome2_unique": [
+        53
+      ]
+    },
+    "CGTCAGGTGCTCCAGGTCGGAGAAGTCCACC": {
+      "genome2_unique": [
+        54
+      ]
+    },
+    "GTCAGGTGCTCCAGGTCGGAGAAGTCCACCA": {
+      "genome2_unique": [
+        55
+      ]
+    },
+    "TCAGGTGCTCCAGGTCGGAGAAGTCCACCAG": {
+      "genome2_unique": [
+        56
+      ]
+    },
+    "CAGGTGCTCCAGGTCGGAGAAGTCCACCAGC": {
+      "genome2_unique": [
+        57
+      ]
+    },
+    "AGGTGCTCCAGGTCGGAGAAGTCCACCAGCC": {
+      "genome2_unique": [
+        58
+      ]
+    },
+    "GGTGCTCCAGGTCGGAGAAGTCCACCAGCCC": {
+      "genome2_unique": [
+        59
+      ]
+    },
+    "GTGCTCCAGGTCGGAGAAGTCCACCAGCCCC": {
+      "genome2_unique": [
+        60
+      ]
+    },
+    "TGCTCCAGGTCGGAGAAGTCCACCAGCCCCC": {
+      "genome2_unique": [
+        61
+      ]
+    },
+    "GCTCCAGGTCGGAGAAGTCCACCAGCCCCCG": {
+      "genome2_unique": [
+        62
+      ]
+    },
+    "CTCCAGGTCGGAGAAGTCCACCAGCCCCCGC": {
+      "genome2_unique": [
+        63
+      ]
+    },
+    "TCCAGGTCGGAGAAGTCCACCAGCCCCCGCC": {
+      "genome2_unique": [
+        64
+      ]
+    },
+    "CCAGGTCGGAGAAGTCCACCAGCCCCCGCCG": {
+      "genome2_unique": [
+        65
+      ]
+    },
+    "CAGGTCGGAGAAGTCCACCAGCCCCCGCCGC": {
+      "genome2_unique": [
+        66
+      ]
+    },
+    "AGGTCGGAGAAGTCCACCAGCCCCCGCCGCC": {
+      "genome2_unique": [
+        67
+      ]
+    },
+    "GGTCGGAGAAGTCCACCAGCCCCCGCCGCCG": {
+      "genome2_unique": [
+        68
+      ]
+    },
+    "GTCGGAGAAGTCCACCAGCCCCCGCCGCCGC": {
+      "genome2_unique": [
+        69
+      ]
+    },
+    "TCGGAGAAGTCCACCAGCCCCCGCCGCCGCT": {
+      "genome2_unique": [
+        70
+      ]
+    },
+    "CGGAGAAGTCCACCAGCCCCCGCCGCCGCTT": {
+      "genome2_unique": [
+        71
+      ]
+    },
+    "GGAGAAGTCCACCAGCCCCCGCCGCCGCTTC": {
+      "genome2_unique": [
+        72
+      ]
+    },
+    "GAGAAGTCCACCAGCCCCCGCCGCCGCTTCT": {
+      "genome2_unique": [
+        73
+      ]
+    },
+    "AGAAGTCCACCAGCCCCCGCCGCCGCTTCTC": {
+      "genome2_unique": [
+        74
+      ]
+    },
+    "GAAGTCCACCAGCCCCCGCCGCCGCTTCTCC": {
+      "genome2_unique": [
+        75
+      ]
+    },
+    "AAGTCCACCAGCCCCCGCCGCCGCTTCTCCC": {
+      "genome2_unique": [
+        76
+      ]
+    },
+    "AGTCCACCAGCCCCCGCCGCCGCTTCTCCCT": {
+      "genome2_unique": [
+        77
+      ]
+    },
+    "GTCCACCAGCCCCCGCCGCCGCTTCTCCCTG": {
+      "genome2_unique": [
+        78
+      ]
+    },
+    "TCCACCAGCCCCCGCCGCCGCTTCTCCCTGG": {
+      "genome2_unique": [
+        79
+      ]
+    },
+    "CCACCAGCCCCCGCCGCCGCTTCTCCCTGGC": {
+      "genome2_unique": [
+        80
+      ]
+    },
+    "CACCAGCCCCCGCCGCCGCTTCTCCCTGGCA": {
+      "genome2_unique": [
+        81
+      ]
+    },
+    "ACCAGCCCCCGCCGCCGCTTCTCCCTGGCAT": {
+      "genome2_unique": [
+        82
+      ]
+    },
+    "CCAGCCCCCGCCGCCGCTTCTCCCTGGCATA": {
+      "genome2_unique": [
+        83
+      ]
+    },
+    "CAGCCCCCGCCGCCGCTTCTCCCTGGCATAG": {
+      "genome2_unique": [
+        84
+      ]
+    },
+    "AGCCCCCGCCGCCGCTTCTCCCTGGCATAGT": {
+      "genome2_unique": [
+        85
+      ]
+    },
+    "GCCCCCGCCGCCGCTTCTCCCTGGCATAGTC": {
+      "genome2_unique": [
+        86
+      ]
+    },
+    "CCCCCGCCGCCGCTTCTCCCTGGCATAGTCG": {
+      "genome2_unique": [
+        87
+      ]
+    },
+    "CCCCGCCGCCGCTTCTCCCTGGCATAGTCGG": {
+      "genome2_unique": [
+        88
+      ]
+    },
+    "CCCGCCGCCGCTTCTCCCTGGCATAGTCGGC": {
+      "genome2_unique": [
+        89
+      ]
+    },
+    "CCGCCGCCGCTTCTCCCTGGCATAGTCGGCC": {
+      "genome2_unique": [
+        90
+      ]
+    },
+    "CGCCGCCGCTTCTCCCTGGCATAGTCGGCCA": {
+      "genome2_unique": [
+        91
+      ]
+    },
+    "GCCGCCGCTTCTCCCTGGCATAGTCGGCCAG": {
+      "genome2_unique": [
+        92
+      ]
+    },
+    "CCGCCGCTTCTCCCTGGCATAGTCGGCCAGA": {
+      "genome2_unique": [
+        93
+      ]
+    },
+    "CGCCGCTTCTCCCTGGCATAGTCGGCCAGAA": {
+      "genome2_unique": [
+        94
+      ]
+    },
+    "GCCGCTTCTCCCTGGCATAGTCGGCCAGAAA": {
+      "genome2_unique": [
+        95
+      ]
+    },
+    "CCGCTTCTCCCTGGCATAGTCGGCCAGAAAG": {
+      "genome2_unique": [
+        96
+      ]
+    },
+    "CGCTTCTCCCTGGCATAGTCGGCCAGAAAGT": {
+      "genome2_unique": [
+        97
+      ]
+    },
+    "GCTTCTCCCTGGCATAGTCGGCCAGAAAGTC": {
+      "genome2_unique": [
+        98
+      ]
+    },
+    "CTTCTCCCTGGCATAGTCGGCCAGAAAGTCT": {
+      "genome2_unique": [
+        99
+      ]
+    },
+    "TTCTCCCTGGCATAGTCGGCCAGAAAGTCTG": {
+      "genome2_unique": [
+        100
+      ]
+    },
+    "TCTCCCTGGCATAGTCGGCCAGAAAGTCTGT": {
+      "genome2_unique": [
+        101
+      ]
+    },
+    "CTCCCTGGCATAGTCGGCCAGAAAGTCTGTC": {
+      "genome2_unique": [
+        102
+      ]
+    },
+    "TCCCTGGCATAGTCGGCCAGAAAGTCTGTCG": {
+      "genome2_unique": [
+        103
+      ]
+    },
+    "CCCTGGCATAGTCGGCCAGAAAGTCTGTCGT": {
+      "genome2_unique": [
+        104
+      ]
+    },
+    "CCTGGCATAGTCGGCCAGAAAGTCTGTCGTC": {
+      "genome2_unique": [
+        105
+      ]
+    },
+    "CTGGCATAGTCGGCCAGAAAGTCTGTCGTCA": {
+      "genome2_unique": [
+        106
+      ]
+    },
+    "TGGCATAGTCGGCCAGAAAGTCTGTCGTCAG": {
+      "genome2_unique": [
+        107
+      ]
+    },
+    "GGCATAGTCGGCCAGAAAGTCTGTCGTCAGG": {
+      "genome2_unique": [
+        108
+      ]
+    },
+    "GCATAGTCGGCCAGAAAGTCTGTCGTCAGGT": {
+      "genome2_unique": [
+        109
+      ]
+    },
+    "CATAGTCGGCCAGAAAGTCTGTCGTCAGGTC": {
+      "genome2_unique": [
+        110
+      ]
+    },
+    "ATAGTCGGCCAGAAAGTCTGTCGTCAGGTCC": {
+      "genome2_unique": [
+        111
+      ]
+    },
+    "TAGTCGGCCAGAAAGTCTGTCGTCAGGTCCA": {
+      "genome2_unique": [
+        112
+      ]
+    },
+    "AGTCGGCCAGAAAGTCTGTCGTCAGGTCCAT": {
+      "genome2_unique": [
+        113
+      ]
+    },
+    "GTCGGCCAGAAAGTCTGTCGTCAGGTCCATC": {
+      "genome2_unique": [
+        114
+      ]
+    },
+    "TCGGCCAGAAAGTCTGTCGTCAGGTCCATCA": {
+      "genome2_unique": [
+        115
+      ]
+    },
+    "CGGCCAGAAAGTCTGTCGTCAGGTCCATCAG": {
+      "genome2_unique": [
+        116
+      ]
+    },
+    "GGCCAGAAAGTCTGTCGTCAGGTCCATCAGG": {
+      "genome2_unique": [
+        117
+      ]
+    },
+    "GCCAGAAAGTCTGTCGTCAGGTCCATCAGGG": {
+      "genome2_unique": [
+        118
+      ]
+    },
+    "CCAGAAAGTCTGTCGTCAGGTCCATCAGGGC": {
+      "genome2_unique": [
+        119
+      ]
+    },
+    "CAGAAAGTCTGTCGTCAGGTCCATCAGGGCC": {
+      "genome2_unique": [
+        120
+      ]
+    },
+    "AGAAAGTCTGTCGTCAGGTCCATCAGGGCCT": {
+      "genome2_unique": [
+        121
+      ]
+    },
+    "GAAAGTCTGTCGTCAGGTCCATCAGGGCCTG": {
+      "genome2_unique": [
+        122
+      ]
+    },
+    "AAAGTCTGTCGTCAGGTCCATCAGGGCCTGG": {
+      "genome2_unique": [
+        123
+      ]
+    },
+    "AAGTCTGTCGTCAGGTCCATCAGGGCCTGGA": {
+      "genome2_unique": [
+        124
+      ]
+    },
+    "AGTCTGTCGTCAGGTCCATCAGGGCCTGGAC": {
+      "genome2_unique": [
+        125
+      ]
+    },
+    "GTCTGTCGTCAGGTCCATCAGGGCCTGGACC": {
+      "genome2_unique": [
+        126
+      ]
+    },
+    "TCTGTCGTCAGGTCCATCAGGGCCTGGACCA": {
+      "genome2_unique": [
+        127
+      ]
+    },
+    "CTGTCGTCAGGTCCATCAGGGCCTGGACCAC": {
+      "genome2_unique": [
+        128
+      ]
+    },
+    "TGTCGTCAGGTCCATCAGGGCCTGGACCACC": {
+      "genome2_unique": [
+        129
+      ]
+    },
+    "GTCGTCAGGTCCATCAGGGCCTGGACCACCG": {
+      "genome2_unique": [
+        130
+      ]
+    },
+    "TCGTCAGGTCCATCAGGGCCTGGACCACCGG": {
+      "genome2_unique": [
+        131
+      ]
+    },
+    "CGTCAGGTCCATCAGGGCCTGGACCACCGGG": {
+      "genome2_unique": [
+        132
+      ]
+    },
+    "GTCAGGTCCATCAGGGCCTGGACCACCGGGC": {
+      "genome2_unique": [
+        133
+      ]
+    },
+    "TCAGGTCCATCAGGGCCTGGACCACCGGGCG": {
+      "genome2_unique": [
+        134
+      ]
+    },
+    "CAGGTCCATCAGGGCCTGGACCACCGGGCGG": {
+      "genome2_unique": [
+        135
+      ]
+    },
+    "AGGTCCATCAGGGCCTGGACCACCGGGCGGG": {
+      "genome2_unique": [
+        136
+      ]
+    },
+    "GGTCCATCAGGGCCTGGACCACCGGGCGGGC": {
+      "genome2_unique": [
+        137
+      ]
+    },
+    "GTCCATCAGGGCCTGGACCACCGGGCGGGCC": {
+      "genome2_unique": [
+        138
+      ]
+    },
+    "TCCATCAGGGCCTGGACCACCGGGCGGGCCA": {
+      "genome2_unique": [
+        139
+      ]
+    },
+    "CCATCAGGGCCTGGACCACCGGGCGGGCCAG": {
+      "genome2_unique": [
+        140
+      ]
+    },
+    "CATCAGGGCCTGGACCACCGGGCGGGCCAGG": {
+      "genome2_unique": [
+        141
+      ]
+    },
+    "ATCAGGGCCTGGACCACCGGGCGGGCCAGGG": {
+      "genome2_unique": [
+        142
+      ]
+    },
+    "TCAGGGCCTGGACCACCGGGCGGGCCAGGGC": {
+      "genome2_unique": [
+        143
+      ]
+    },
+    "CAGGGCCTGGACCACCGGGCGGGCCAGGGCC": {
+      "genome2_unique": [
+        144
+      ]
+    },
+    "AGGGCCTGGACCACCGGGCGGGCCAGGGCCA": {
+      "genome2_unique": [
+        145
+      ]
+    },
+    "GGGCCTGGACCACCGGGCGGGCCAGGGCCAG": {
+      "genome2_unique": [
+        146
+      ]
+    },
+    "GGCCTGGACCACCGGGCGGGCCAGGGCCAGC": {
+      "genome2_unique": [
+        147
+      ]
+    },
+    "GCCTGGACCACCGGGCGGGCCAGGGCCAGCT": {
+      "genome2_unique": [
+        148
+      ]
+    },
+    "CCTGGACCACCGGGCGGGCCAGGGCCAGCTC": {
+      "genome2_unique": [
+        149
+      ]
+    },
+    "CTGGACCACCGGGCGGGCCAGGGCCAGCTCC": {
+      "genome2_unique": [
+        150
+      ]
+    },
+    "TGGACCACCGGGCGGGCCAGGGCCAGCTCCT": {
+      "genome2_unique": [
+        151
+      ]
+    },
+    "GGACCACCGGGCGGGCCAGGGCCAGCTCCTC": {
+      "genome2_unique": [
+        152
+      ]
+    },
+    "GACCACCGGGCGGGCCAGGGCCAGCTCCTCC": {
+      "genome2_unique": [
+        153
+      ]
+    },
+    "ACCACCGGGCGGGCCAGGGCCAGCTCCTCCC": {
+      "genome2_unique": [
+        154
+      ]
+    },
+    "CCACCGGGCGGGCCAGGGCCAGCTCCTCCCC": {
+      "genome2_unique": [
+        155
+      ]
+    },
+    "CACCGGGCGGGCCAGGGCCAGCTCCTCCCCC": {
+      "genome2_unique": [
+        156
+      ]
+    },
+    "ACCGGGCGGGCCAGGGCCAGCTCCTCCCCCA": {
+      "genome2_unique": [
+        157
+      ]
+    },
+    "CCGGGCGGGCCAGGGCCAGCTCCTCCCCCAG": {
+      "genome2_unique": [
+        158
+      ]
+    },
+    "CGGGCGGGCCAGGGCCAGCTCCTCCCCCAGC": {
+      "genome2_unique": [
+        159
+      ]
+    },
+    "GGGCGGGCCAGGGCCAGCTCCTCCCCCAGCT": {
+      "genome2_unique": [
+        160
+      ]
+    },
+    "GGCGGGCCAGGGCCAGCTCCTCCCCCAGCTC": {
+      "genome2_unique": [
+        161
+      ]
+    },
+    "GCGGGCCAGGGCCAGCTCCTCCCCCAGCTCC": {
+      "genome2_unique": [
+        162
+      ]
+    },
+    "CGGGCCAGGGCCAGCTCCTCCCCCAGCTCCC": {
+      "genome2_unique": [
+        163
+      ]
+    },
+    "GGGCCAGGGCCAGCTCCTCCCCCAGCTCCCG": {
+      "genome2_unique": [
+        164
+      ]
+    },
+    "GGCCAGGGCCAGCTCCTCCCCCAGCTCCCGG": {
+      "genome2_unique": [
+        165
+      ]
+    },
+    "GCCAGGGCCAGCTCCTCCCCCAGCTCCCGGC": {
+      "genome2_unique": [
+        166
+      ]
+    },
+    "CCAGGGCCAGCTCCTCCCCCAGCTCCCGGCT": {
+      "genome2_unique": [
+        167
+      ]
+    },
+    "CAGGGCCAGCTCCTCCCCCAGCTCCCGGCTG": {
+      "genome2_unique": [
+        168
+      ]
+    },
+    "AGGGCCAGCTCCTCCCCCAGCTCCCGGCTGT": {
+      "genome2_unique": [
+        169
+      ]
+    },
+    "GGGCCAGCTCCTCCCCCAGCTCCCGGCTGTT": {
+      "genome2_unique": [
+        170
+      ]
+    },
+    "GGCCAGCTCCTCCCCCAGCTCCCGGCTGTTC": {
+      "genome2_unique": [
+        171
+      ]
+    },
+    "GCCAGCTCCTCCCCCAGCTCCCGGCTGTTCT": {
+      "genome2_unique": [
+        172
+      ]
+    },
+    "CCAGCTCCTCCCCCAGCTCCCGGCTGTTCTC": {
+      "genome2_unique": [
+        173
+      ]
+    },
+    "CAGCTCCTCCCCCAGCTCCCGGCTGTTCTCC": {
+      "genome2_unique": [
+        174
+      ]
+    },
+    "AGCTCCTCCCCCAGCTCCCGGCTGTTCTCCT": {
+      "genome2_unique": [
+        175
+      ]
+    },
+    "GCTCCTCCCCCAGCTCCCGGCTGTTCTCCTG": {
+      "genome2_unique": [
+        176
+      ]
+    },
+    "CTCCTCCCCCAGCTCCCGGCTGTTCTCCTGG": {
+      "genome2_unique": [
+        177
+      ]
+    },
+    "TCCTCCCCCAGCTCCCGGCTGTTCTCCTGGA": {
+      "genome2_unique": [
+        178
+      ]
+    },
+    "CCTCCCCCAGCTCCCGGCTGTTCTCCTGGAA": {
+      "genome2_unique": [
+        179
+      ]
+    },
+    "CTCCCCCAGCTCCCGGCTGTTCTCCTGGAAC": {
+      "genome2_unique": [
+        180
+      ]
+    },
+    "TCCCCCAGCTCCCGGCTGTTCTCCTGGAACA": {
+      "genome2_unique": [
+        181
+      ]
+    },
+    "CCCCCAGCTCCCGGCTGTTCTCCTGGAACAG": {
+      "genome2_unique": [
+        182
+      ]
+    },
+    "CCCCAGCTCCCGGCTGTTCTCCTGGAACAGG": {
+      "genome2_unique": [
+        183
+      ]
+    },
+    "CCCAGCTCCCGGCTGTTCTCCTGGAACAGGG": {
+      "genome2_unique": [
+        184
+      ]
+    },
+    "CCAGCTCCCGGCTGTTCTCCTGGAACAGGGC": {
+      "genome2_unique": [
+        185
+      ]
+    },
+    "CAGCTCCCGGCTGTTCTCCTGGAACAGGGCG": {
+      "genome2_unique": [
+        186
+      ]
+    },
+    "AGCTCCCGGCTGTTCTCCTGGAACAGGGCGG": {
+      "genome2_unique": [
+        187
+      ]
+    },
+    "GCTCCCGGCTGTTCTCCTGGAACAGGGCGGA": {
+      "genome2_unique": [
+        188
+      ]
+    },
+    "CTCCCGGCTGTTCTCCTGGAACAGGGCGGAG": {
+      "genome2_unique": [
+        189
+      ]
+    },
+    "TCCCGGCTGTTCTCCTGGAACAGGGCGGAGA": {
+      "genome2_unique": [
+        190
+      ]
+    },
+    "CCCGGCTGTTCTCCTGGAACAGGGCGGAGAG": {
+      "genome2_unique": [
+        191
+      ]
+    },
+    "CCGGCTGTTCTCCTGGAACAGGGCGGAGAGC": {
+      "genome2_unique": [
+        192
+      ]
+    },
+    "CGGCTGTTCTCCTGGAACAGGGCGGAGAGCT": {
+      "genome2_unique": [
+        193
+      ]
+    },
+    "GGCTGTTCTCCTGGAACAGGGCGGAGAGCTT": {
+      "genome2_unique": [
+        194
+      ]
+    },
+    "GCTGTTCTCCTGGAACAGGGCGGAGAGCTTT": {
+      "genome2_unique": [
+        195
+      ]
+    },
+    "CTGTTCTCCTGGAACAGGGCGGAGAGCTTTT": {
+      "genome2_unique": [
+        196
+      ]
+    },
+    "TGTTCTCCTGGAACAGGGCGGAGAGCTTTTC": {
+      "genome2_unique": [
+        197
+      ]
+    },
+    "GTTCTCCTGGAACAGGGCGGAGAGCTTTTCC": {
+      "genome2_unique": [
+        198
+      ]
+    },
+    "TTCTCCTGGAACAGGGCGGAGAGCTTTTCCA": {
+      "genome2_unique": [
+        199
+      ]
+    },
+    "TCTCCTGGAACAGGGCGGAGAGCTTTTCCAA": {
+      "genome2_unique": [
+        200
+      ]
+    },
+    "CTCCTGGAACAGGGCGGAGAGCTTTTCCAAC": {
+      "genome2_unique": [
+        201
+      ]
+    },
+    "TCCTGGAACAGGGCGGAGAGCTTTTCCAACT": {
+      "genome2_unique": [
+        202
+      ]
+    },
+    "CCTGGAACAGGGCGGAGAGCTTTTCCAACTG": {
+      "genome2_unique": [
+        203
+      ]
+    },
+    "CTGGAACAGGGCGGAGAGCTTTTCCAACTGC": {
+      "genome2_unique": [
+        204
+      ]
+    },
+    "TGGAACAGGGCGGAGAGCTTTTCCAACTGCT": {
+      "genome2_unique": [
+        205
+      ]
+    },
+    "GGAACAGGGCGGAGAGCTTTTCCAACTGCTT": {
+      "genome2_unique": [
+        206
+      ]
+    },
+    "GAACAGGGCGGAGAGCTTTTCCAACTGCTTC": {
+      "genome2_unique": [
+        207
+      ]
+    },
+    "AACAGGGCGGAGAGCTTTTCCAACTGCTTCT": {
+      "genome2_unique": [
+        208
+      ]
+    },
+    "ACAGGGCGGAGAGCTTTTCCAACTGCTTCTT": {
+      "genome2_unique": [
+        209
+      ]
+    },
+    "CAGGGCGGAGAGCTTTTCCAACTGCTTCTTG": {
+      "genome2_unique": [
+        210
+      ]
+    },
+    "AGGGCGGAGAGCTTTTCCAACTGCTTCTTGC": {
+      "genome2_unique": [
+        211
+      ]
+    },
+    "GGGCGGAGAGCTTTTCCAACTGCTTCTTGCA": {
+      "genome2_unique": [
+        212
+      ]
+    },
+    "GGCGGAGAGCTTTTCCAACTGCTTCTTGCAC": {
+      "genome2_unique": [
+        213
+      ]
+    },
+    "GCGGAGAGCTTTTCCAACTGCTTCTTGCACC": {
+      "genome2_unique": [
+        214
+      ]
+    },
+    "CGGAGAGCTTTTCCAACTGCTTCTTGCACCG": {
+      "genome2_unique": [
+        215
+      ]
+    },
+    "GGAGAGCTTTTCCAACTGCTTCTTGCACCGG": {
+      "genome2_unique": [
+        216
+      ]
+    },
+    "GAGAGCTTTTCCAACTGCTTCTTGCACCGGG": {
+      "genome2_unique": [
+        217
+      ]
+    },
+    "AGAGCTTTTCCAACTGCTTCTTGCACCGGGA": {
+      "genome2_unique": [
+        218
+      ]
+    },
+    "GAGCTTTTCCAACTGCTTCTTGCACCGGGAG": {
+      "genome2_unique": [
+        219
+      ]
+    },
+    "AGCTTTTCCAACTGCTTCTTGCACCGGGAGC": {
+      "genome2_unique": [
+        220
+      ]
+    },
+    "GCTTTTCCAACTGCTTCTTGCACCGGGAGCG": {
+      "genome2_unique": [
+        221
+      ]
+    },
+    "CTTTTCCAACTGCTTCTTGCACCGGGAGCGG": {
+      "genome2_unique": [
+        222
+      ]
+    },
+    "TTTTCCAACTGCTTCTTGCACCGGGAGCGGA": {
+      "genome2_unique": [
+        223
+      ]
+    },
+    "TTTCCAACTGCTTCTTGCACCGGGAGCGGAT": {
+      "genome2_unique": [
+        224
+      ]
+    },
+    "TTCCAACTGCTTCTTGCACCGGGAGCGGATG": {
+      "genome2_unique": [
+        225
+      ]
+    },
+    "TCCAACTGCTTCTTGCACCGGGAGCGGATGG": {
+      "genome2_unique": [
+        226
+      ]
+    },
+    "CCAACTGCTTCTTGCACCGGGAGCGGATGGA": {
+      "genome2_unique": [
+        227
+      ]
+    },
+    "CAACTGCTTCTTGCACCGGGAGCGGATGGAC": {
+      "genome2_unique": [
+        228
+      ]
+    },
+    "AACTGCTTCTTGCACCGGGAGCGGATGGACT": {
+      "genome2_unique": [
+        229
+      ]
+    },
+    "ACTGCTTCTTGCACCGGGAGCGGATGGACTT": {
+      "genome2_unique": [
+        230
+      ]
+    },
+    "CTGCTTCTTGCACCGGGAGCGGATGGACTTG": {
+      "genome2_unique": [
+        231
+      ]
+    },
+    "TGCTTCTTGCACCGGGAGCGGATGGACTTGA": {
+      "genome2_unique": [
+        232
+      ]
+    },
+    "GCTTCTTGCACCGGGAGCGGATGGACTTGAT": {
+      "genome2_unique": [
+        233
+      ]
+    },
+    "CTTCTTGCACCGGGAGCGGATGGACTTGATG": {
+      "genome2_unique": [
+        234
+      ]
+    },
+    "TTCTTGCACCGGGAGCGGATGGACTTGATGC": {
+      "genome2_unique": [
+        235
+      ]
+    },
+    "TCTTGCACCGGGAGCGGATGGACTTGATGCG": {
+      "genome2_unique": [
+        236
+      ]
+    },
+    "CTTGCACCGGGAGCGGATGGACTTGATGCGC": {
+      "genome2_unique": [
+        237
+      ]
+    },
+    "TTGCACCGGGAGCGGATGGACTTGATGCGCT": {
+      "genome2_unique": [
+        238
+      ]
+    },
+    "TGCACCGGGAGCGGATGGACTTGATGCGCTC": {
+      "genome2_unique": [
+        239
+      ]
+    },
+    "GCACCGGGAGCGGATGGACTTGATGCGCTCG": {
+      "genome2_unique": [
+        240
+      ]
+    },
+    "CACCGGGAGCGGATGGACTTGATGCGCTCGG": {
+      "genome2_unique": [
+        241
+      ]
+    },
+    "ACCGGGAGCGGATGGACTTGATGCGCTCGGC": {
+      "genome2_unique": [
+        242
+      ]
+    },
+    "CCGGGAGCGGATGGACTTGATGCGCTCGGCC": {
+      "genome2_unique": [
+        243
+      ]
+    },
+    "CGGGAGCGGATGGACTTGATGCGCTCGGCCC": {
+      "genome2_unique": [
+        244
+      ]
+    },
+    "GGGAGCGGATGGACTTGATGCGCTCGGCCCG": {
+      "genome2_unique": [
+        245
+      ]
+    },
+    "GGAGCGGATGGACTTGATGCGCTCGGCCCGG": {
+      "genome2_unique": [
+        246
+      ]
+    },
+    "GAGCGGATGGACTTGATGCGCTCGGCCCGGT": {
+      "genome2_unique": [
+        247
+      ]
+    },
+    "AGCGGATGGACTTGATGCGCTCGGCCCGGTC": {
+      "genome2_unique": [
+        248
+      ]
+    },
+    "GCGGATGGACTTGATGCGCTCGGCCCGGTCT": {
+      "genome2_unique": [
+        249
+      ]
+    },
+    "CGGATGGACTTGATGCGCTCGGCCCGGTCTG": {
+      "genome2_unique": [
+        250
+      ]
+    },
+    "GGATGGACTTGATGCGCTCGGCCCGGTCTGC": {
+      "genome2_unique": [
+        251
+      ]
+    },
+    "GATGGACTTGATGCGCTCGGCCCGGTCTGCG": {
+      "genome2_unique": [
+        252
+      ]
+    },
+    "ATGGACTTGATGCGCTCGGCCCGGTCTGCGG": {
+      "genome2_unique": [
+        253
+      ]
+    },
+    "TGGACTTGATGCGCTCGGCCCGGTCTGCGGC": {
+      "genome2_unique": [
+        254
+      ]
+    },
+    "GGACTTGATGCGCTCGGCCCGGTCTGCGGCG": {
+      "genome2_unique": [
+        255
+      ]
+    },
+    "GACTTGATGCGCTCGGCCCGGTCTGCGGCGT": {
+      "genome2_unique": [
+        256
+      ]
+    },
+    "ACTTGATGCGCTCGGCCCGGTCTGCGGCGTC": {
+      "genome2_unique": [
+        257
+      ]
+    },
+    "CTTGATGCGCTCGGCCCGGTCTGCGGCGTCC": {
+      "genome2_unique": [
+        258
+      ]
+    },
+    "TTGATGCGCTCGGCCCGGTCTGCGGCGTCCA": {
+      "genome2_unique": [
+        259
+      ]
+    },
+    "TGATGCGCTCGGCCCGGTCTGCGGCGTCCAT": {
+      "genome2_unique": [
+        260
+      ]
+    },
+    "GATGCGCTCGGCCCGGTCTGCGGCGTCCATC": {
+      "genome2_unique": [
+        261
+      ]
+    },
+    "ATGCGCTCGGCCCGGTCTGCGGCGTCCATCT": {
+      "genome2_unique": [
+        262
+      ]
+    },
+    "TGCGCTCGGCCCGGTCTGCGGCGTCCATCTC": {
+      "genome2_unique": [
+        263
+      ]
+    },
+    "GCGCTCGGCCCGGTCTGCGGCGTCCATCTCC": {
+      "genome2_unique": [
+        264
+      ]
+    },
+    "CGCTCGGCCCGGTCTGCGGCGTCCATCTCCG": {
+      "genome2_unique": [
+        265
+      ]
+    },
+    "GCTCGGCCCGGTCTGCGGCGTCCATCTCCGC": {
+      "genome2_unique": [
+        266
+      ]
+    },
+    "CTCGGCCCGGTCTGCGGCGTCCATCTCCGCC": {
+      "genome2_unique": [
+        267
+      ]
+    },
+    "TCGGCCCGGTCTGCGGCGTCCATCTCCGCCT": {
+      "genome2_unique": [
+        268
+      ]
+    },
+    "CGGCCCGGTCTGCGGCGTCCATCTCCGCCTG": {
+      "genome2_unique": [
+        269
+      ]
+    },
+    "GGGGCATAGACATAGCCATACTGCGCTTTTC": {
+      "genome3_unique": [
+        0
+      ]
+    },
+    "GGGCATAGACATAGCCATACTGCGCTTTTCC": {
+      "genome3_unique": [
+        1
+      ]
+    },
+    "GGCATAGACATAGCCATACTGCGCTTTTCCG": {
+      "genome3_unique": [
+        2
+      ]
+    },
+    "GCATAGACATAGCCATACTGCGCTTTTCCGC": {
+      "genome3_unique": [
+        3
+      ]
+    },
+    "CATAGACATAGCCATACTGCGCTTTTCCGCT": {
+      "genome3_unique": [
+        4
+      ]
+    },
+    "ATAGACATAGCCATACTGCGCTTTTCCGCTC": {
+      "genome3_unique": [
+        5
+      ]
+    },
+    "TAGACATAGCCATACTGCGCTTTTCCGCTCA": {
+      "genome3_unique": [
+        6
+      ]
+    },
+    "AGACATAGCCATACTGCGCTTTTCCGCTCAA": {
+      "genome3_unique": [
+        7
+      ]
+    },
+    "GACATAGCCATACTGCGCTTTTCCGCTCAAA": {
+      "genome3_unique": [
+        8
+      ]
+    },
+    "ACATAGCCATACTGCGCTTTTCCGCTCAAAG": {
+      "genome3_unique": [
+        9
+      ]
+    },
+    "CATAGCCATACTGCGCTTTTCCGCTCAAAGA": {
+      "genome3_unique": [
+        10
+      ]
+    },
+    "ATAGCCATACTGCGCTTTTCCGCTCAAAGAA": {
+      "genome3_unique": [
+        11
+      ]
+    },
+    "TAGCCATACTGCGCTTTTCCGCTCAAAGAAT": {
+      "genome3_unique": [
+        12
+      ]
+    },
+    "AGCCATACTGCGCTTTTCCGCTCAAAGAATA": {
+      "genome3_unique": [
+        13
+      ]
+    },
+    "GCCATACTGCGCTTTTCCGCTCAAAGAATAT": {
+      "genome3_unique": [
+        14
+      ]
+    },
+    "CCATACTGCGCTTTTCCGCTCAAAGAATATC": {
+      "genome3_unique": [
+        15
+      ]
+    },
+    "CATACTGCGCTTTTCCGCTCAAAGAATATCC": {
+      "genome3_unique": [
+        16
+      ]
+    },
+    "ATACTGCGCTTTTCCGCTCAAAGAATATCCT": {
+      "genome3_unique": [
+        17
+      ]
+    },
+    "TACTGCGCTTTTCCGCTCAAAGAATATCCTT": {
+      "genome3_unique": [
+        18
+      ]
+    },
+    "ACTGCGCTTTTCCGCTCAAAGAATATCCTTT": {
+      "genome3_unique": [
+        19
+      ]
+    },
+    "CTGCGCTTTTCCGCTCAAAGAATATCCTTTG": {
+      "genome3_unique": [
+        20
+      ]
+    },
+    "TGCGCTTTTCCGCTCAAAGAATATCCTTTGA": {
+      "genome3_unique": [
+        21
+      ]
+    },
+    "GCGCTTTTCCGCTCAAAGAATATCCTTTGAT": {
+      "genome3_unique": [
+        22
+      ]
+    },
+    "CGCTTTTCCGCTCAAAGAATATCCTTTGATA": {
+      "genome3_unique": [
+        23
+      ]
+    },
+    "GCTTTTCCGCTCAAAGAATATCCTTTGATAA": {
+      "genome3_unique": [
+        24
+      ]
+    },
+    "CTTTTCCGCTCAAAGAATATCCTTTGATAAA": {
+      "genome3_unique": [
+        25
+      ]
+    },
+    "TTTTCCGCTCAAAGAATATCCTTTGATAAAA": {
+      "genome3_unique": [
+        26
+      ]
+    },
+    "TTTCCGCTCAAAGAATATCCTTTGATAAAAC": {
+      "genome3_unique": [
+        27
+      ]
+    },
+    "TTCCGCTCAAAGAATATCCTTTGATAAAACG": {
+      "genome3_unique": [
+        28
+      ]
+    },
+    "TCCGCTCAAAGAATATCCTTTGATAAAACGC": {
+      "genome3_unique": [
+        29
+      ]
+    },
+    "CCGCTCAAAGAATATCCTTTGATAAAACGCC": {
+      "genome3_unique": [
+        30
+      ]
+    },
+    "CGCTCAAAGAATATCCTTTGATAAAACGCCC": {
+      "genome3_unique": [
+        31
+      ]
+    },
+    "GCTCAAAGAATATCCTTTGATAAAACGCCCT": {
+      "genome3_unique": [
+        32
+      ]
+    },
+    "CTCAAAGAATATCCTTTGATAAAACGCCCTT": {
+      "genome3_unique": [
+        33
+      ]
+    },
+    "TCAAAGAATATCCTTTGATAAAACGCCCTTC": {
+      "genome3_unique": [
+        34
+      ]
+    },
+    "CAAAGAATATCCTTTGATAAAACGCCCTTCC": {
+      "genome3_unique": [
+        35
+      ]
+    },
+    "AAAGAATATCCTTTGATAAAACGCCCTTCCC": {
+      "genome3_unique": [
+        36
+      ]
+    },
+    "AAGAATATCCTTTGATAAAACGCCCTTCCCA": {
+      "genome3_unique": [
+        37
+      ]
+    },
+    "AGAATATCCTTTGATAAAACGCCCTTCCCAG": {
+      "genome3_unique": [
+        38
+      ]
+    },
+    "GAATATCCTTTGATAAAACGCCCTTCCCAGC": {
+      "genome3_unique": [
+        39
+      ]
+    },
+    "AATATCCTTTGATAAAACGCCCTTCCCAGCG": {
+      "genome3_unique": [
+        40
+      ]
+    },
+    "ATATCCTTTGATAAAACGCCCTTCCCAGCGG": {
+      "genome3_unique": [
+        41
+      ]
+    },
+    "TATCCTTTGATAAAACGCCCTTCCCAGCGGC": {
+      "genome3_unique": [
+        42
+      ]
+    },
+    "ATCCTTTGATAAAACGCCCTTCCCAGCGGCC": {
+      "genome3_unique": [
+        43
+      ]
+    },
+    "TCCTTTGATAAAACGCCCTTCCCAGCGGCCG": {
+      "genome3_unique": [
+        44
+      ]
+    },
+    "CCTTTGATAAAACGCCCTTCCCAGCGGCCGT": {
+      "genome3_unique": [
+        45
+      ]
+    },
+    "CTTTGATAAAACGCCCTTCCCAGCGGCCGTC": {
+      "genome3_unique": [
+        46
+      ]
+    },
+    "TTTGATAAAACGCCCTTCCCAGCGGCCGTCT": {
+      "genome3_unique": [
+        47
+      ]
+    },
+    "TTGATAAAACGCCCTTCCCAGCGGCCGTCTT": {
+      "genome3_unique": [
+        48
+      ]
+    },
+    "TGATAAAACGCCCTTCCCAGCGGCCGTCTTT": {
+      "genome3_unique": [
+        49
+      ]
+    },
+    "GATAAAACGCCCTTCCCAGCGGCCGTCTTTC": {
+      "genome3_unique": [
+        50
+      ]
+    },
+    "ATAAAACGCCCTTCCCAGCGGCCGTCTTTCC": {
+      "genome3_unique": [
+        51
+      ]
+    },
+    "TAAAACGCCCTTCCCAGCGGCCGTCTTTCCG": {
+      "genome3_unique": [
+        52
+      ]
+    },
+    "AAAACGCCCTTCCCAGCGGCCGTCTTTCCGT": {
+      "genome3_unique": [
+        53
+      ]
+    },
+    "AAACGCCCTTCCCAGCGGCCGTCTTTCCGTT": {
+      "genome3_unique": [
+        54
+      ]
+    },
+    "AACGCCCTTCCCAGCGGCCGTCTTTCCGTTT": {
+      "genome3_unique": [
+        55
+      ]
+    },
+    "ACGCCCTTCCCAGCGGCCGTCTTTCCGTTTG": {
+      "genome3_unique": [
+        56
+      ]
+    },
+    "CGCCCTTCCCAGCGGCCGTCTTTCCGTTTGC": {
+      "genome3_unique": [
+        57
+      ]
+    },
+    "GCCCTTCCCAGCGGCCGTCTTTCCGTTTGCG": {
+      "genome3_unique": [
+        58
+      ]
+    },
+    "CCCTTCCCAGCGGCCGTCTTTCCGTTTGCGA": {
+      "genome3_unique": [
+        59
+      ]
+    },
+    "CCTTCCCAGCGGCCGTCTTTCCGTTTGCGAA": {
+      "genome3_unique": [
+        60
+      ]
+    },
+    "CTTCCCAGCGGCCGTCTTTCCGTTTGCGAAT": {
+      "genome3_unique": [
+        61
+      ]
+    },
+    "TTCCCAGCGGCCGTCTTTCCGTTTGCGAATA": {
+      "genome3_unique": [
+        62
+      ]
+    },
+    "TCCCAGCGGCCGTCTTTCCGTTTGCGAATAT": {
+      "genome3_unique": [
+        63
+      ]
+    },
+    "CCCAGCGGCCGTCTTTCCGTTTGCGAATATT": {
+      "genome3_unique": [
+        64
+      ]
+    },
+    "CCAGCGGCCGTCTTTCCGTTTGCGAATATTT": {
+      "genome3_unique": [
+        65
+      ]
+    },
+    "CAGCGGCCGTCTTTCCGTTTGCGAATATTTT": {
+      "genome3_unique": [
+        66
+      ]
+    },
+    "AGCGGCCGTCTTTCCGTTTGCGAATATTTTC": {
+      "genome3_unique": [
+        67
+      ]
+    },
+    "GCGGCCGTCTTTCCGTTTGCGAATATTTTCT": {
+      "genome3_unique": [
+        68
+      ]
+    },
+    "CGGCCGTCTTTCCGTTTGCGAATATTTTCTC": {
+      "genome3_unique": [
+        69
+      ]
+    },
+    "GGCCGTCTTTCCGTTTGCGAATATTTTCTCC": {
+      "genome3_unique": [
+        70
+      ]
+    },
+    "GCCGTCTTTCCGTTTGCGAATATTTTCTCCT": {
+      "genome3_unique": [
+        71
+      ]
+    },
+    "CCGTCTTTCCGTTTGCGAATATTTTCTCCTC": {
+      "genome3_unique": [
+        72
+      ]
+    },
+    "CGTCTTTCCGTTTGCGAATATTTTCTCCTCT": {
+      "genome3_unique": [
+        73
+      ]
+    },
+    "GTCTTTCCGTTTGCGAATATTTTCTCCTCTT": {
+      "genome3_unique": [
+        74
+      ]
+    },
+    "TCTTTCCGTTTGCGAATATTTTCTCCTCTTC": {
+      "genome3_unique": [
+        75
+      ]
+    },
+    "CTTTCCGTTTGCGAATATTTTCTCCTCTTCT": {
+      "genome3_unique": [
+        76
+      ]
+    },
+    "TTTCCGTTTGCGAATATTTTCTCCTCTTCTT": {
+      "genome3_unique": [
+        77
+      ]
+    },
+    "TTCCGTTTGCGAATATTTTCTCCTCTTCTTG": {
+      "genome3_unique": [
+        78
+      ]
+    },
+    "TCCGTTTGCGAATATTTTCTCCTCTTCTTGG": {
+      "genome3_unique": [
+        79
+      ]
+    },
+    "CCGTTTGCGAATATTTTCTCCTCTTCTTGGC": {
+      "genome3_unique": [
+        80
+      ]
+    },
+    "CGTTTGCGAATATTTTCTCCTCTTCTTGGCA": {
+      "genome3_unique": [
+        81
+      ]
+    },
+    "GTTTGCGAATATTTTCTCCTCTTCTTGGCAT": {
+      "genome3_unique": [
+        82
+      ]
+    },
+    "TTTGCGAATATTTTCTCCTCTTCTTGGCATG": {
+      "genome3_unique": [
+        83
+      ]
+    },
+    "TTGCGAATATTTTCTCCTCTTCTTGGCATGC": {
+      "genome3_unique": [
+        84
+      ]
+    },
+    "TGCGAATATTTTCTCCTCTTCTTGGCATGCG": {
+      "genome3_unique": [
+        85
+      ]
+    },
+    "GCGAATATTTTCTCCTCTTCTTGGCATGCGA": {
+      "genome3_unique": [
+        86
+      ]
+    },
+    "CGAATATTTTCTCCTCTTCTTGGCATGCGAA": {
+      "genome3_unique": [
+        87
+      ]
+    },
+    "GAATATTTTCTCCTCTTCTTGGCATGCGAAC": {
+      "genome3_unique": [
+        88
+      ]
+    },
+    "AATATTTTCTCCTCTTCTTGGCATGCGAACT": {
+      "genome3_unique": [
+        89
+      ]
+    },
+    "ATATTTTCTCCTCTTCTTGGCATGCGAACTC": {
+      "genome3_unique": [
+        90
+      ]
+    },
+    "TATTTTCTCCTCTTCTTGGCATGCGAACTCC": {
+      "genome3_unique": [
+        91
+      ]
+    },
+    "ATTTTCTCCTCTTCTTGGCATGCGAACTCCT": {
+      "genome3_unique": [
+        92
+      ]
+    },
+    "TTTTCTCCTCTTCTTGGCATGCGAACTCCTC": {
+      "genome3_unique": [
+        93
+      ]
+    },
+    "TTTCTCCTCTTCTTGGCATGCGAACTCCTCC": {
+      "genome3_unique": [
+        94
+      ]
+    },
+    "TTCTCCTCTTCTTGGCATGCGAACTCCTCCT": {
+      "genome3_unique": [
+        95
+      ]
+    },
+    "TCTCCTCTTCTTGGCATGCGAACTCCTCCTT": {
+      "genome3_unique": [
+        96
+      ]
+    },
+    "CTCCTCTTCTTGGCATGCGAACTCCTCCTTA": {
+      "genome3_unique": [
+        97
+      ]
+    },
+    "TCCTCTTCTTGGCATGCGAACTCCTCCTTAC": {
+      "genome3_unique": [
+        98
+      ]
+    },
+    "CCTCTTCTTGGCATGCGAACTCCTCCTTACA": {
+      "genome3_unique": [
+        99
+      ]
+    },
+    "CTCTTCTTGGCATGCGAACTCCTCCTTACAA": {
+      "genome3_unique": [
+        100
+      ]
+    },
+    "TCTTCTTGGCATGCGAACTCCTCCTTACAAG": {
+      "genome3_unique": [
+        101
+      ]
+    },
+    "CTTCTTGGCATGCGAACTCCTCCTTACAAGT": {
+      "genome3_unique": [
+        102
+      ]
+    },
+    "TTCTTGGCATGCGAACTCCTCCTTACAAGTA": {
+      "genome3_unique": [
+        103
+      ]
+    },
+    "TCTTGGCATGCGAACTCCTCCTTACAAGTAT": {
+      "genome3_unique": [
+        104
+      ]
+    },
+    "CTTGGCATGCGAACTCCTCCTTACAAGTATA": {
+      "genome3_unique": [
+        105
+      ]
+    },
+    "TTGGCATGCGAACTCCTCCTTACAAGTATAT": {
+      "genome3_unique": [
+        106
+      ]
+    },
+    "TGGCATGCGAACTCCTCCTTACAAGTATATG": {
+      "genome3_unique": [
+        107
+      ]
+    },
+    "GGCATGCGAACTCCTCCTTACAAGTATATGT": {
+      "genome3_unique": [
+        108
+      ]
+    },
+    "GCATGCGAACTCCTCCTTACAAGTATATGTT": {
+      "genome3_unique": [
+        109
+      ]
+    },
+    "CATGCGAACTCCTCCTTACAAGTATATGTTG": {
+      "genome3_unique": [
+        110
+      ]
+    },
+    "ATGCGAACTCCTCCTTACAAGTATATGTTGT": {
+      "genome3_unique": [
+        111
+      ]
+    },
+    "TGCGAACTCCTCCTTACAAGTATATGTTGTG": {
+      "genome3_unique": [
+        112
+      ]
+    },
+    "GCGAACTCCTCCTTACAAGTATATGTTGTGT": {
+      "genome3_unique": [
+        113
+      ]
+    },
+    "CGAACTCCTCCTTACAAGTATATGTTGTGTT": {
+      "genome3_unique": [
+        114
+      ]
+    },
+    "GAACTCCTCCTTACAAGTATATGTTGTGTTT": {
+      "genome3_unique": [
+        115
+      ]
+    },
+    "AACTCCTCCTTACAAGTATATGTTGTGTTTT": {
+      "genome3_unique": [
+        116
+      ]
+    },
+    "ACTCCTCCTTACAAGTATATGTTGTGTTTTG": {
+      "genome3_unique": [
+        117
+      ]
+    },
+    "CTCCTCCTTACAAGTATATGTTGTGTTTTGA": {
+      "genome3_unique": [
+        118
+      ]
+    },
+    "TCCTCCTTACAAGTATATGTTGTGTTTTGAC": {
+      "genome3_unique": [
+        119
+      ]
+    },
+    "CCTCCTTACAAGTATATGTTGTGTTTTGACC": {
+      "genome3_unique": [
+        120
+      ]
+    },
+    "CTCCTTACAAGTATATGTTGTGTTTTGACCC": {
+      "genome3_unique": [
+        121
+      ]
+    },
+    "TCCTTACAAGTATATGTTGTGTTTTGACCCC": {
+      "genome3_unique": [
+        122
+      ]
+    },
+    "CCTTACAAGTATATGTTGTGTTTTGACCCCT": {
+      "genome3_unique": [
+        123
+      ]
+    },
+    "CTTACAAGTATATGTTGTGTTTTGACCCCTG": {
+      "genome3_unique": [
+        124
+      ]
+    },
+    "TTACAAGTATATGTTGTGTTTTGACCCCTGC": {
+      "genome3_unique": [
+        125
+      ]
+    },
+    "TACAAGTATATGTTGTGTTTTGACCCCTGCA": {
+      "genome3_unique": [
+        126
+      ]
+    },
+    "ACAAGTATATGTTGTGTTTTGACCCCTGCAT": {
+      "genome3_unique": [
+        127
+      ]
+    },
+    "CAAGTATATGTTGTGTTTTGACCCCTGCATT": {
+      "genome3_unique": [
+        128
+      ]
+    },
+    "AAGTATATGTTGTGTTTTGACCCCTGCATTT": {
+      "genome3_unique": [
+        129
+      ]
+    },
+    "AGTATATGTTGTGTTTTGACCCCTGCATTTG": {
+      "genome3_unique": [
+        130
+      ]
+    },
+    "GTATATGTTGTGTTTTGACCCCTGCATTTGA": {
+      "genome3_unique": [
+        131
+      ]
+    },
+    "TATATGTTGTGTTTTGACCCCTGCATTTGAC": {
+      "genome3_unique": [
+        132
+      ]
+    },
+    "ATATGTTGTGTTTTGACCCCTGCATTTGACC": {
+      "genome3_unique": [
+        133
+      ]
+    },
+    "TATGTTGTGTTTTGACCCCTGCATTTGACCA": {
+      "genome3_unique": [
+        134
+      ]
+    },
+    "ATGTTGTGTTTTGACCCCTGCATTTGACCAC": {
+      "genome3_unique": [
+        135
+      ]
+    },
+    "TGTTGTGTTTTGACCCCTGCATTTGACCACG": {
+      "genome3_unique": [
+        136
+      ]
+    },
+    "GTTGTGTTTTGACCCCTGCATTTGACCACGA": {
+      "genome3_unique": [
+        137
+      ]
+    },
+    "TTGTGTTTTGACCCCTGCATTTGACCACGAA": {
+      "genome3_unique": [
+        138
+      ]
+    },
+    "TGTGTTTTGACCCCTGCATTTGACCACGAAT": {
+      "genome3_unique": [
+        139
+      ]
+    },
+    "GTGTTTTGACCCCTGCATTTGACCACGAATA": {
+      "genome3_unique": [
+        140
+      ]
+    },
+    "TGTTTTGACCCCTGCATTTGACCACGAATAG": {
+      "genome3_unique": [
+        141
+      ]
+    },
+    "GTTTTGACCCCTGCATTTGACCACGAATAGA": {
+      "genome3_unique": [
+        142
+      ]
+    },
+    "TTTTGACCCCTGCATTTGACCACGAATAGAC": {
+      "genome3_unique": [
+        143
+      ]
+    },
+    "TTTGACCCCTGCATTTGACCACGAATAGACC": {
+      "genome3_unique": [
+        144
+      ]
+    },
+    "TTGACCCCTGCATTTGACCACGAATAGACCC": {
+      "genome3_unique": [
+        145
+      ]
+    },
+    "TGACCCCTGCATTTGACCACGAATAGACCCC": {
+      "genome3_unique": [
+        146
+      ]
+    },
+    "GACCCCTGCATTTGACCACGAATAGACCCCC": {
+      "genome3_unique": [
+        147
+      ]
+    },
+    "ACCCCTGCATTTGACCACGAATAGACCCCCG": {
+      "genome3_unique": [
+        148
+      ]
+    },
+    "CCCCTGCATTTGACCACGAATAGACCCCCGC": {
+      "genome3_unique": [
+        149
+      ]
+    },
+    "CCCTGCATTTGACCACGAATAGACCCCCGCA": {
+      "genome3_unique": [
+        150
+      ]
+    },
+    "CCTGCATTTGACCACGAATAGACCCCCGCAT": {
+      "genome3_unique": [
+        151
+      ]
+    },
+    "CTGCATTTGACCACGAATAGACCCCCGCATG": {
+      "genome3_unique": [
+        152
+      ]
+    },
+    "TGCATTTGACCACGAATAGACCCCCGCATGC": {
+      "genome3_unique": [
+        153
+      ]
+    },
+    "GCATTTGACCACGAATAGACCCCCGCATGCA": {
+      "genome3_unique": [
+        154
+      ]
+    },
+    "CATTTGACCACGAATAGACCCCCGCATGCAA": {
+      "genome3_unique": [
+        155
+      ]
+    },
+    "ATTTGACCACGAATAGACCCCCGCATGCAAA": {
+      "genome3_unique": [
+        156
+      ]
+    },
+    "TTTGACCACGAATAGACCCCCGCATGCAAAC": {
+      "genome3_unique": [
+        157
+      ]
+    },
+    "TTGACCACGAATAGACCCCCGCATGCAAACA": {
+      "genome3_unique": [
+        158
+      ]
+    },
+    "TGACCACGAATAGACCCCCGCATGCAAACAG": {
+      "genome3_unique": [
+        159
+      ]
+    },
+    "GACCACGAATAGACCCCCGCATGCAAACAGT": {
+      "genome3_unique": [
+        160
+      ]
+    },
+    "ACCACGAATAGACCCCCGCATGCAAACAGTC": {
+      "genome3_unique": [
+        161
+      ]
+    },
+    "CCACGAATAGACCCCCGCATGCAAACAGTCC": {
+      "genome3_unique": [
+        162
+      ]
+    },
+    "CACGAATAGACCCCCGCATGCAAACAGTCCC": {
+      "genome3_unique": [
+        163
+      ]
+    },
+    "ACGAATAGACCCCCGCATGCAAACAGTCCCG": {
+      "genome3_unique": [
+        164
+      ]
+    },
+    "CGAATAGACCCCCGCATGCAAACAGTCCCGT": {
+      "genome3_unique": [
+        165
+      ]
+    },
+    "GAATAGACCCCCGCATGCAAACAGTCCCGTA": {
+      "genome3_unique": [
+        166
+      ]
+    },
+    "AATAGACCCCCGCATGCAAACAGTCCCGTAT": {
+      "genome3_unique": [
+        167
+      ]
+    },
+    "ATAGACCCCCGCATGCAAACAGTCCCGTATA": {
+      "genome3_unique": [
+        168
+      ]
+    },
+    "TAGACCCCCGCATGCAAACAGTCCCGTATAT": {
+      "genome3_unique": [
+        169
+      ]
+    },
+    "AGACCCCCGCATGCAAACAGTCCCGTATATT": {
+      "genome3_unique": [
+        170
+      ]
+    },
+    "GACCCCCGCATGCAAACAGTCCCGTATATTG": {
+      "genome3_unique": [
+        171
+      ]
+    },
+    "ACCCCCGCATGCAAACAGTCCCGTATATTGC": {
+      "genome3_unique": [
+        172
+      ]
+    },
+    "CCCCCGCATGCAAACAGTCCCGTATATTGCC": {
+      "genome3_unique": [
+        173
+      ]
+    },
+    "CCCCGCATGCAAACAGTCCCGTATATTGCCG": {
+      "genome3_unique": [
+        174
+      ]
+    },
+    "CCCGCATGCAAACAGTCCCGTATATTGCCGA": {
+      "genome3_unique": [
+        175
+      ]
+    },
+    "CCGCATGCAAACAGTCCCGTATATTGCCGAT": {
+      "genome3_unique": [
+        176
+      ]
+    },
+    "CGCATGCAAACAGTCCCGTATATTGCCGATA": {
+      "genome3_unique": [
+        177
+      ]
+    },
+    "GCATGCAAACAGTCCCGTATATTGCCGATAT": {
+      "genome3_unique": [
+        178
+      ]
+    },
+    "CATGCAAACAGTCCCGTATATTGCCGATATC": {
+      "genome3_unique": [
+        179
+      ]
+    },
+    "ATGCAAACAGTCCCGTATATTGCCGATATCA": {
+      "genome3_unique": [
+        180
+      ]
+    },
+    "TGCAAACAGTCCCGTATATTGCCGATATCAT": {
+      "genome3_unique": [
+        181
+      ]
+    },
+    "GCAAACAGTCCCGTATATTGCCGATATCATC": {
+      "genome3_unique": [
+        182
+      ]
+    },
+    "CAAACAGTCCCGTATATTGCCGATATCATCG": {
+      "genome3_unique": [
+        183
+      ]
+    },
+    "AAACAGTCCCGTATATTGCCGATATCATCGG": {
+      "genome3_unique": [
+        184
+      ]
+    },
+    "AACAGTCCCGTATATTGCCGATATCATCGGG": {
+      "genome3_unique": [
+        185
+      ]
+    },
+    "ACAGTCCCGTATATTGCCGATATCATCGGGA": {
+      "genome3_unique": [
+        186
+      ]
+    },
+    "CAGTCCCGTATATTGCCGATATCATCGGGAG": {
+      "genome3_unique": [
+        187
+      ]
+    },
+    "AGTCCCGTATATTGCCGATATCATCGGGAGC": {
+      "genome3_unique": [
+        188
+      ]
+    },
+    "GTCCCGTATATTGCCGATATCATCGGGAGCA": {
+      "genome3_unique": [
+        189
+      ]
+    },
+    "TCCCGTATATTGCCGATATCATCGGGAGCAG": {
+      "genome3_unique": [
+        190
+      ]
+    },
+    "CCCGTATATTGCCGATATCATCGGGAGCAGA": {
+      "genome3_unique": [
+        191
+      ]
+    },
+    "CCGTATATTGCCGATATCATCGGGAGCAGAA": {
+      "genome3_unique": [
+        192
+      ]
+    },
+    "CGTATATTGCCGATATCATCGGGAGCAGAAT": {
+      "genome3_unique": [
+        193
+      ]
+    },
+    "GTATATTGCCGATATCATCGGGAGCAGAATT": {
+      "genome3_unique": [
+        194
+      ]
+    },
+    "TATATTGCCGATATCATCGGGAGCAGAATTG": {
+      "genome3_unique": [
+        195
+      ]
+    },
+    "ATATTGCCGATATCATCGGGAGCAGAATTGA": {
+      "genome3_unique": [
+        196
+      ]
+    },
+    "TATTGCCGATATCATCGGGAGCAGAATTGAC": {
+      "genome3_unique": [
+        197
+      ]
+    },
+    "ATTGCCGATATCATCGGGAGCAGAATTGACA": {
+      "genome3_unique": [
+        198
+      ]
+    },
+    "TTGCCGATATCATCGGGAGCAGAATTGACAA": {
+      "genome3_unique": [
+        199
+      ]
+    },
+    "TGCCGATATCATCGGGAGCAGAATTGACAAA": {
+      "genome3_unique": [
+        200
+      ]
+    },
+    "GCCGATATCATCGGGAGCAGAATTGACAAAT": {
+      "genome3_unique": [
+        201
+      ]
+    },
+    "CCGATATCATCGGGAGCAGAATTGACAAATA": {
+      "genome3_unique": [
+        202
+      ]
+    },
+    "CGATATCATCGGGAGCAGAATTGACAAATAT": {
+      "genome3_unique": [
+        203
+      ]
+    },
+    "GATATCATCGGGAGCAGAATTGACAAATATA": {
+      "genome3_unique": [
+        204
+      ]
+    },
+    "ATATCATCGGGAGCAGAATTGACAAATATAG": {
+      "genome3_unique": [
+        205
+      ]
+    },
+    "TATCATCGGGAGCAGAATTGACAAATATAGC": {
+      "genome3_unique": [
+        206
+      ]
+    },
+    "ATCATCGGGAGCAGAATTGACAAATATAGCG": {
+      "genome3_unique": [
+        207
+      ]
+    },
+    "TCATCGGGAGCAGAATTGACAAATATAGCGG": {
+      "genome3_unique": [
+        208
+      ]
+    },
+    "CATCGGGAGCAGAATTGACAAATATAGCGGG": {
+      "genome3_unique": [
+        209
+      ]
+    },
+    "ATCGGGAGCAGAATTGACAAATATAGCGGGC": {
+      "genome3_unique": [
+        210
+      ]
+    },
+    "TCGGGAGCAGAATTGACAAATATAGCGGGCA": {
+      "genome3_unique": [
+        211
+      ]
+    },
+    "CGGGAGCAGAATTGACAAATATAGCGGGCAA": {
+      "genome3_unique": [
+        212
+      ]
+    },
+    "GGGAGCAGAATTGACAAATATAGCGGGCAAG": {
+      "genome3_unique": [
+        213
+      ]
+    },
+    "GGAGCAGAATTGACAAATATAGCGGGCAAGG": {
+      "genome3_unique": [
+        214
+      ]
+    },
+    "GAGCAGAATTGACAAATATAGCGGGCAAGGC": {
+      "genome3_unique": [
+        215
+      ]
+    },
+    "AGCAGAATTGACAAATATAGCGGGCAAGGCT": {
+      "genome3_unique": [
+        216
+      ]
+    },
+    "GCAGAATTGACAAATATAGCGGGCAAGGCTT": {
+      "genome3_unique": [
+        217
+      ]
+    },
+    "CAGAATTGACAAATATAGCGGGCAAGGCTTA": {
+      "genome3_unique": [
+        218
+      ]
+    },
+    "AGAATTGACAAATATAGCGGGCAAGGCTTAT": {
+      "genome3_unique": [
+        219
+      ]
+    },
+    "GAATTGACAAATATAGCGGGCAAGGCTTATA": {
+      "genome3_unique": [
+        220
+      ]
+    },
+    "AATTGACAAATATAGCGGGCAAGGCTTATAA": {
+      "genome3_unique": [
+        221
+      ]
+    },
+    "ATTGACAAATATAGCGGGCAAGGCTTATAAT": {
+      "genome3_unique": [
+        222
+      ]
+    },
+    "TTGACAAATATAGCGGGCAAGGCTTATAATT": {
+      "genome3_unique": [
+        223
+      ]
+    },
+    "TGACAAATATAGCGGGCAAGGCTTATAATTA": {
+      "genome3_unique": [
+        224
+      ]
+    },
+    "GACAAATATAGCGGGCAAGGCTTATAATTAG": {
+      "genome3_unique": [
+        225
+      ]
+    },
+    "ACAAATATAGCGGGCAAGGCTTATAATTAGC": {
+      "genome3_unique": [
+        226
+      ]
+    },
+    "CAAATATAGCGGGCAAGGCTTATAATTAGCA": {
+      "genome3_unique": [
+        227
+      ]
+    },
+    "AAATATAGCGGGCAAGGCTTATAATTAGCAT": {
+      "genome3_unique": [
+        228
+      ]
+    },
+    "AATATAGCGGGCAAGGCTTATAATTAGCATA": {
+      "genome3_unique": [
+        229
+      ]
+    },
+    "ATATAGCGGGCAAGGCTTATAATTAGCATAG": {
+      "genome3_unique": [
+        230
+      ]
+    },
+    "TATAGCGGGCAAGGCTTATAATTAGCATAGC": {
+      "genome3_unique": [
+        231
+      ]
+    },
+    "ATAGCGGGCAAGGCTTATAATTAGCATAGCT": {
+      "genome3_unique": [
+        232
+      ]
+    },
+    "TAGCGGGCAAGGCTTATAATTAGCATAGCTT": {
+      "genome3_unique": [
+        233
+      ]
+    },
+    "AGCGGGCAAGGCTTATAATTAGCATAGCTTT": {
+      "genome3_unique": [
+        234
+      ]
+    },
+    "GCGGGCAAGGCTTATAATTAGCATAGCTTTT": {
+      "genome3_unique": [
+        235
+      ]
+    },
+    "CGGGCAAGGCTTATAATTAGCATAGCTTTTG": {
+      "genome3_unique": [
+        236
+      ]
+    },
+    "GGGCAAGGCTTATAATTAGCATAGCTTTTGC": {
+      "genome3_unique": [
+        237
+      ]
+    },
+    "GGCAAGGCTTATAATTAGCATAGCTTTTGCA": {
+      "genome3_unique": [
+        238
+      ]
+    },
+    "GCAAGGCTTATAATTAGCATAGCTTTTGCAT": {
+      "genome3_unique": [
+        239
+      ]
+    },
+    "CAAGGCTTATAATTAGCATAGCTTTTGCATA": {
+      "genome3_unique": [
+        240
+      ]
+    },
+    "AAGGCTTATAATTAGCATAGCTTTTGCATAG": {
+      "genome3_unique": [
+        241
+      ]
+    },
+    "AGGCTTATAATTAGCATAGCTTTTGCATAGG": {
+      "genome3_unique": [
+        242
+      ]
+    },
+    "GGCTTATAATTAGCATAGCTTTTGCATAGGG": {
+      "genome3_unique": [
+        243
+      ]
+    },
+    "GCTTATAATTAGCATAGCTTTTGCATAGGGC": {
+      "genome3_unique": [
+        244
+      ]
+    },
+    "CTTATAATTAGCATAGCTTTTGCATAGGGCA": {
+      "genome3_unique": [
+        245
+      ]
+    },
+    "TTATAATTAGCATAGCTTTTGCATAGGGCAA": {
+      "genome3_unique": [
+        246
+      ]
+    },
+    "TATAATTAGCATAGCTTTTGCATAGGGCAAC": {
+      "genome3_unique": [
+        247
+      ]
+    },
+    "ATAATTAGCATAGCTTTTGCATAGGGCAACG": {
+      "genome3_unique": [
+        248
+      ]
+    },
+    "TAATTAGCATAGCTTTTGCATAGGGCAACGC": {
+      "genome3_unique": [
+        249
+      ]
+    },
+    "AATTAGCATAGCTTTTGCATAGGGCAACGCA": {
+      "genome3_unique": [
+        250
+      ]
+    },
+    "ATTAGCATAGCTTTTGCATAGGGCAACGCAT": {
+      "genome3_unique": [
+        251
+      ]
+    },
+    "TTAGCATAGCTTTTGCATAGGGCAACGCATA": {
+      "genome3_unique": [
+        252
+      ]
+    },
+    "TAGCATAGCTTTTGCATAGGGCAACGCATAA": {
+      "genome3_unique": [
+        253
+      ]
+    },
+    "AGCATAGCTTTTGCATAGGGCAACGCATAAA": {
+      "genome3_unique": [
+        254
+      ]
+    },
+    "GCATAGCTTTTGCATAGGGCAACGCATAAAT": {
+      "genome3_unique": [
+        255
+      ]
+    },
+    "CATAGCTTTTGCATAGGGCAACGCATAAATA": {
+      "genome3_unique": [
+        256
+      ]
+    },
+    "ATAGCTTTTGCATAGGGCAACGCATAAATAA": {
+      "genome3_unique": [
+        257
+      ]
+    },
+    "TAGCTTTTGCATAGGGCAACGCATAAATAAA": {
+      "genome3_unique": [
+        258
+      ]
+    },
+    "AGCTTTTGCATAGGGCAACGCATAAATAAAA": {
+      "genome3_unique": [
+        259
+      ]
+    },
+    "GCTTTTGCATAGGGCAACGCATAAATAAAAG": {
+      "genome3_unique": [
+        260
+      ]
+    },
+    "CTTTTGCATAGGGCAACGCATAAATAAAAGA": {
+      "genome3_unique": [
+        261
+      ]
+    },
+    "TTTTGCATAGGGCAACGCATAAATAAAAGAG": {
+      "genome3_unique": [
+        262
+      ]
+    },
+    "TTTGCATAGGGCAACGCATAAATAAAAGAGG": {
+      "genome3_unique": [
+        263
+      ]
+    },
+    "TTGCATAGGGCAACGCATAAATAAAAGAGGT": {
+      "genome3_unique": [
+        264
+      ]
+    },
+    "TGCATAGGGCAACGCATAAATAAAAGAGGTT": {
+      "genome3_unique": [
+        265
+      ]
+    },
+    "GCATAGGGCAACGCATAAATAAAAGAGGTTT": {
+      "genome3_unique": [
+        266
+      ]
+    },
+    "CATAGGGCAACGCATAAATAAAAGAGGTTTC": {
+      "genome3_unique": [
+        267
+      ]
+    },
+    "ATAGGGCAACGCATAAATAAAAGAGGTTTCA": {
+      "genome3_unique": [
+        268
+      ]
+    },
+    "TAGGGCAACGCATAAATAAAAGAGGTTTCAG": {
+      "genome3_unique": [
+        269
+      ]
+    },
+    "AGGGCAACGCATAAATAAAAGAGGTTTCAGC": {
+      "genome3_unique": [
+        270
+      ]
+    },
+    "GGGCAACGCATAAATAAAAGAGGTTTCAGCA": {
+      "genome3_unique": [
+        271
+      ]
+    },
+    "GGCAACGCATAAATAAAAGAGGTTTCAGCAG": {
+      "genome3_unique": [
+        272
+      ]
+    },
+    "GCAACGCATAAATAAAAGAGGTTTCAGCAGG": {
+      "genome3_unique": [
+        273
+      ]
+    },
+    "CAACGCATAAATAAAAGAGGTTTCAGCAGGC": {
+      "genome3_unique": [
+        274
+      ]
+    },
+    "AACGCATAAATAAAAGAGGTTTCAGCAGGCA": {
+      "genome3_unique": [
+        275
+      ]
+    },
+    "ACGCATAAATAAAAGAGGTTTCAGCAGGCAA": {
+      "genome3_unique": [
+        276
+      ]
+    },
+    "CGCATAAATAAAAGAGGTTTCAGCAGGCAAA": {
+      "genome3_unique": [
+        277
+      ]
+    },
+    "GCATAAATAAAAGAGGTTTCAGCAGGCAAAT": {
+      "genome3_unique": [
+        278
+      ]
+    },
+    "CATAAATAAAAGAGGTTTCAGCAGGCAAATA": {
+      "genome3_unique": [
+        279
+      ]
+    },
+    "ATAAATAAAAGAGGTTTCAGCAGGCAAATAT": {
+      "genome3_unique": [
+        280
+      ]
+    },
+    "TAAATAAAAGAGGTTTCAGCAGGCAAATATC": {
+      "genome3_unique": [
+        281
+      ]
+    },
+    "AAATAAAAGAGGTTTCAGCAGGCAAATATCC": {
+      "genome3_unique": [
+        282
+      ]
+    },
+    "AATAAAAGAGGTTTCAGCAGGCAAATATCCT": {
+      "genome3_unique": [
+        283
+      ]
+    },
+    "ATAAAAGAGGTTTCAGCAGGCAAATATCCTA": {
+      "genome3_unique": [
+        284
+      ]
+    },
+    "TAAAAGAGGTTTCAGCAGGCAAATATCCTAC": {
+      "genome3_unique": [
+        285
+      ]
+    },
+    "AAAAGAGGTTTCAGCAGGCAAATATCCTACC": {
+      "genome3_unique": [
+        286
+      ]
+    },
+    "AAAGAGGTTTCAGCAGGCAAATATCCTACCT": {
+      "genome3_unique": [
+        287
+      ]
+    },
+    "AAGAGGTTTCAGCAGGCAAATATCCTACCTA": {
+      "genome3_unique": [
+        288
+      ]
+    },
+    "AGAGGTTTCAGCAGGCAAATATCCTACCTAT": {
+      "genome3_unique": [
+        289
+      ]
+    },
+    "GAGGTTTCAGCAGGCAAATATCCTACCTATA": {
+      "genome3_unique": [
+        290
+      ]
+    },
+    "AGGTTTCAGCAGGCAAATATCCTACCTATAG": {
+      "genome3_unique": [
+        291
+      ]
+    },
+    "GGTTTCAGCAGGCAAATATCCTACCTATAGC": {
+      "genome3_unique": [
+        292
+      ]
+    },
+    "GTTTCAGCAGGCAAATATCCTACCTATAGCA": {
+      "genome3_unique": [
+        293
+      ]
+    },
+    "TTTCAGCAGGCAAATATCCTACCTATAGCAA": {
+      "genome3_unique": [
+        294
+      ]
+    },
+    "TTCAGCAGGCAAATATCCTACCTATAGCAAT": {
+      "genome3_unique": [
+        295
+      ]
+    },
+    "TCAGCAGGCAAATATCCTACCTATAGCAATA": {
+      "genome3_unique": [
+        296
+      ]
+    },
+    "CAGCAGGCAAATATCCTACCTATAGCAATAT": {
+      "genome3_unique": [
+        297
+      ]
+    },
+    "AGCAGGCAAATATCCTACCTATAGCAATATA": {
+      "genome3_unique": [
+        298
+      ]
+    },
+    "GCAGGCAAATATCCTACCTATAGCAATATAC": {
+      "genome3_unique": [
+        299
+      ]
+    },
+    "CAGGCAAATATCCTACCTATAGCAATATACT": {
+      "genome3_unique": [
+        300
+      ]
+    },
+    "AGGCAAATATCCTACCTATAGCAATATACTT": {
+      "genome3_unique": [
+        301
+      ]
+    },
+    "GGCAAATATCCTACCTATAGCAATATACTTT": {
+      "genome3_unique": [
+        302
+      ]
+    },
+    "GCAAATATCCTACCTATAGCAATATACTTTC": {
+      "genome3_unique": [
+        303
+      ]
+    },
+    "CAAATATCCTACCTATAGCAATATACTTTCG": {
+      "genome3_unique": [
+        304
+      ]
+    },
+    "AAATATCCTACCTATAGCAATATACTTTCGG": {
+      "genome3_unique": [
+        305
+      ]
+    },
+    "AATATCCTACCTATAGCAATATACTTTCGGA": {
+      "genome3_unique": [
+        306
+      ]
+    },
+    "ATATCCTACCTATAGCAATATACTTTCGGAA": {
+      "genome3_unique": [
+        307
+      ]
+    },
+    "TATCCTACCTATAGCAATATACTTTCGGAAA": {
+      "genome3_unique": [
+        308
+      ]
+    },
+    "ATCCTACCTATAGCAATATACTTTCGGAAAG": {
+      "genome3_unique": [
+        309
+      ]
+    },
+    "TCCTACCTATAGCAATATACTTTCGGAAAGA": {
+      "genome3_unique": [
+        310
+      ]
+    },
+    "CCTACCTATAGCAATATACTTTCGGAAAGAA": {
+      "genome3_unique": [
+        311
+      ]
+    },
+    "CTACCTATAGCAATATACTTTCGGAAAGAAA": {
+      "genome3_unique": [
+        312
+      ]
+    },
+    "TACCTATAGCAATATACTTTCGGAAAGAAAA": {
+      "genome3_unique": [
+        313
+      ]
+    },
+    "ACCTATAGCAATATACTTTCGGAAAGAAAAT": {
+      "genome3_unique": [
+        314
+      ]
+    },
+    "CCTATAGCAATATACTTTCGGAAAGAAAATT": {
+      "genome3_unique": [
+        315
+      ]
+    },
+    "CTATAGCAATATACTTTCGGAAAGAAAATTG": {
+      "genome3_unique": [
+        316
+      ]
+    },
+    "TATAGCAATATACTTTCGGAAAGAAAATTGA": {
+      "genome3_unique": [
+        317
+      ]
+    },
+    "ATAGCAATATACTTTCGGAAAGAAAATTGAG": {
+      "genome3_unique": [
+        318
+      ]
+    },
+    "TAGCAATATACTTTCGGAAAGAAAATTGAGC": {
+      "genome3_unique": [
+        319
+      ]
+    },
+    "AGCAATATACTTTCGGAAAGAAAATTGAGCG": {
+      "genome3_unique": [
+        320
+      ]
+    },
+    "GCAATATACTTTCGGAAAGAAAATTGAGCGG": {
+      "genome3_unique": [
+        321
+      ]
+    },
+    "CAATATACTTTCGGAAAGAAAATTGAGCGGC": {
+      "genome3_unique": [
+        322
+      ]
+    },
+    "AATATACTTTCGGAAAGAAAATTGAGCGGCT": {
+      "genome3_unique": [
+        323
+      ]
+    },
+    "ATATACTTTCGGAAAGAAAATTGAGCGGCTG": {
+      "genome3_unique": [
+        324
+      ]
+    },
+    "TATACTTTCGGAAAGAAAATTGAGCGGCTGG": {
+      "genome3_unique": [
+        325
+      ]
+    },
+    "ATACTTTCGGAAAGAAAATTGAGCGGCTGGG": {
+      "genome3_unique": [
+        326
+      ]
+    },
+    "TACTTTCGGAAAGAAAATTGAGCGGCTGGGT": {
+      "genome3_unique": [
+        327
+      ]
+    },
+    "ACTTTCGGAAAGAAAATTGAGCGGCTGGGTA": {
+      "genome3_unique": [
+        328
+      ]
+    },
+    "CTTTCGGAAAGAAAATTGAGCGGCTGGGTAA": {
+      "genome3_unique": [
+        329
+      ]
+    },
+    "TTTCGGAAAGAAAATTGAGCGGCTGGGTAAT": {
+      "genome3_unique": [
+        330
+      ]
+    },
+    "TTCGGAAAGAAAATTGAGCGGCTGGGTAATT": {
+      "genome3_unique": [
+        331
+      ]
+    },
+    "TCGGAAAGAAAATTGAGCGGCTGGGTAATTT": {
+      "genome3_unique": [
+        332
+      ]
+    },
+    "CGGAAAGAAAATTGAGCGGCTGGGTAATTTT": {
+      "genome3_unique": [
+        333
+      ]
+    },
+    "GGAAAGAAAATTGAGCGGCTGGGTAATTTTG": {
+      "genome3_unique": [
+        334
+      ]
+    },
+    "GAAAGAAAATTGAGCGGCTGGGTAATTTTGT": {
+      "genome3_unique": [
+        335
+      ]
+    },
+    "AAAGAAAATTGAGCGGCTGGGTAATTTTGTT": {
+      "genome3_unique": [
+        336
+      ]
+    },
+    "AAGAAAATTGAGCGGCTGGGTAATTTTGTTC": {
+      "genome3_unique": [
+        337
+      ]
+    },
+    "AGAAAATTGAGCGGCTGGGTAATTTTGTTCT": {
+      "genome3_unique": [
+        338
+      ]
+    },
+    "GAAAATTGAGCGGCTGGGTAATTTTGTTCTG": {
+      "genome3_unique": [
+        339
+      ]
+    },
+    "AAAATTGAGCGGCTGGGTAATTTTGTTCTGT": {
+      "genome3_unique": [
+        340
+      ]
+    },
+    "AAATTGAGCGGCTGGGTAATTTTGTTCTGTG": {
+      "genome3_unique": [
+        341
+      ]
+    },
+    "AATTGAGCGGCTGGGTAATTTTGTTCTGTGG": {
+      "genome3_unique": [
+        342
+      ]
+    },
+    "ATTGAGCGGCTGGGTAATTTTGTTCTGTGGC": {
+      "genome3_unique": [
+        343
+      ]
+    },
+    "TTGAGCGGCTGGGTAATTTTGTTCTGTGGCC": {
+      "genome3_unique": [
+        344
+      ]
+    },
+    "TGAGCGGCTGGGTAATTTTGTTCTGTGGCCA": {
+      "genome3_unique": [
+        345
+      ]
+    },
+    "GAGCGGCTGGGTAATTTTGTTCTGTGGCCAA": {
+      "genome3_unique": [
+        346
+      ]
+    },
+    "AGCGGCTGGGTAATTTTGTTCTGTGGCCAAA": {
+      "genome3_unique": [
+        347
+      ]
+    },
+    "GCGGCTGGGTAATTTTGTTCTGTGGCCAAAA": {
+      "genome3_unique": [
+        348
+      ]
+    },
+    "CGGCTGGGTAATTTTGTTCTGTGGCCAAAAA": {
+      "genome3_unique": [
+        349
+      ]
+    },
+    "GGCTGGGTAATTTTGTTCTGTGGCCAAAAAA": {
+      "genome3_unique": [
+        350
+      ]
+    },
+    "GCTGGGTAATTTTGTTCTGTGGCCAAAAAAG": {
+      "genome3_unique": [
+        351
+      ]
+    },
+    "CTGGGTAATTTTGTTCTGTGGCCAAAAAAGG": {
+      "genome3_unique": [
+        352
+      ]
+    },
+    "TGGGTAATTTTGTTCTGTGGCCAAAAAAGGG": {
+      "genome3_unique": [
+        353
+      ]
+    },
+    "GGGTAATTTTGTTCTGTGGCCAAAAAAGGGA": {
+      "genome3_unique": [
+        354
+      ]
+    },
+    "GGTAATTTTGTTCTGTGGCCAAAAAAGGGAG": {
+      "genome3_unique": [
+        355
+      ]
+    },
+    "GTAATTTTGTTCTGTGGCCAAAAAAGGGAGA": {
+      "genome3_unique": [
+        356
+      ]
+    },
+    "TAATTTTGTTCTGTGGCCAAAAAAGGGAGAG": {
+      "genome3_unique": [
+        357
+      ]
+    },
+    "AATTTTGTTCTGTGGCCAAAAAAGGGAGAGG": {
+      "genome3_unique": [
+        358
+      ]
+    },
+    "ATTTTGTTCTGTGGCCAAAAAAGGGAGAGGA": {
+      "genome3_unique": [
+        359
+      ]
+    },
+    "TTTTGTTCTGTGGCCAAAAAAGGGAGAGGAT": {
+      "genome3_unique": [
+        360
+      ]
+    },
+    "TTTGTTCTGTGGCCAAAAAAGGGAGAGGATA": {
+      "genome3_unique": [
+        361
+      ]
+    },
+    "TTGTTCTGTGGCCAAAAAAGGGAGAGGATAA": {
+      "genome3_unique": [
+        362
+      ]
+    },
+    "TGTTCTGTGGCCAAAAAAGGGAGAGGATAAA": {
+      "genome3_unique": [
+        363
+      ]
+    },
+    "GTTCTGTGGCCAAAAAAGGGAGAGGATAAAA": {
+      "genome3_unique": [
+        364
+      ]
+    },
+    "TTCTGTGGCCAAAAAAGGGAGAGGATAAAAT": {
+      "genome3_unique": [
+        365
+      ]
+    },
+    "TCTGTGGCCAAAAAAGGGAGAGGATAAAATC": {
+      "genome3_unique": [
+        366
+      ]
+    },
+    "CTGTGGCCAAAAAAGGGAGAGGATAAAATCA": {
+      "genome3_unique": [
+        367
+      ]
+    },
+    "TGTGGCCAAAAAAGGGAGAGGATAAAATCAG": {
+      "genome3_unique": [
+        368
+      ]
+    },
+    "GTGGCCAAAAAAGGGAGAGGATAAAATCAGC": {
+      "genome3_unique": [
+        369
+      ]
+    },
+    "GTTCTCCGGCCGAGCTGCTGAAAAAGAACGG": {
+      "genome4_unique": [
+        0
+      ]
+    },
+    "TTCTCCGGCCGAGCTGCTGAAAAAGAACGGC": {
+      "genome4_unique": [
+        1
+      ]
+    },
+    "TCTCCGGCCGAGCTGCTGAAAAAGAACGGCC": {
+      "genome4_unique": [
+        2
+      ]
+    },
+    "CTCCGGCCGAGCTGCTGAAAAAGAACGGCCT": {
+      "genome4_unique": [
+        3
+      ]
+    },
+    "TCCGGCCGAGCTGCTGAAAAAGAACGGCCTG": {
+      "genome4_unique": [
+        4
+      ]
+    },
+    "CCGGCCGAGCTGCTGAAAAAGAACGGCCTGT": {
+      "genome4_unique": [
+        5
+      ]
+    },
+    "CGGCCGAGCTGCTGAAAAAGAACGGCCTGTT": {
+      "genome4_unique": [
+        6
+      ]
+    },
+    "GGCCGAGCTGCTGAAAAAGAACGGCCTGTTC": {
+      "genome4_unique": [
+        7
+      ]
+    },
+    "GCCGAGCTGCTGAAAAAGAACGGCCTGTTCC": {
+      "genome4_unique": [
+        8
+      ]
+    },
+    "CCGAGCTGCTGAAAAAGAACGGCCTGTTCCG": {
+      "genome4_unique": [
+        9
+      ]
+    },
+    "CGAGCTGCTGAAAAAGAACGGCCTGTTCCGC": {
+      "genome4_unique": [
+        10
+      ]
+    },
+    "GAGCTGCTGAAAAAGAACGGCCTGTTCCGCC": {
+      "genome4_unique": [
+        11
+      ]
+    },
+    "AGCTGCTGAAAAAGAACGGCCTGTTCCGCCA": {
+      "genome4_unique": [
+        12
+      ]
+    },
+    "GCTGCTGAAAAAGAACGGCCTGTTCCGCCAT": {
+      "genome4_unique": [
+        13
+      ]
+    },
+    "CTGCTGAAAAAGAACGGCCTGTTCCGCCATA": {
+      "genome4_unique": [
+        14
+      ]
+    },
+    "TGCTGAAAAAGAACGGCCTGTTCCGCCATAT": {
+      "genome4_unique": [
+        15
+      ]
+    },
+    "GCTGAAAAAGAACGGCCTGTTCCGCCATATG": {
+      "genome4_unique": [
+        16
+      ]
+    },
+    "CTGAAAAAGAACGGCCTGTTCCGCCATATGG": {
+      "genome4_unique": [
+        17
+      ]
+    },
+    "TGAAAAAGAACGGCCTGTTCCGCCATATGGC": {
+      "genome4_unique": [
+        18
+      ]
+    },
+    "GAAAAAGAACGGCCTGTTCCGCCATATGGCG": {
+      "genome4_unique": [
+        19
+      ]
+    },
+    "AAAAAGAACGGCCTGTTCCGCCATATGGCGC": {
+      "genome4_unique": [
+        20
+      ]
+    },
+    "AAAAGAACGGCCTGTTCCGCCATATGGCGCA": {
+      "genome4_unique": [
+        21
+      ]
+    },
+    "AAAGAACGGCCTGTTCCGCCATATGGCGCAG": {
+      "genome4_unique": [
+        22
+      ]
+    },
+    "AAGAACGGCCTGTTCCGCCATATGGCGCAGC": {
+      "genome4_unique": [
+        23
+      ]
+    },
+    "AGAACGGCCTGTTCCGCCATATGGCGCAGCT": {
+      "genome4_unique": [
+        24
+      ]
+    },
+    "GAACGGCCTGTTCCGCCATATGGCGCAGCTT": {
+      "genome4_unique": [
+        25
+      ]
+    },
+    "AACGGCCTGTTCCGCCATATGGCGCAGCTTC": {
+      "genome4_unique": [
+        26
+      ]
+    },
+    "ACGGCCTGTTCCGCCATATGGCGCAGCTTCA": {
+      "genome4_unique": [
+        27
+      ]
+    },
+    "CGGCCTGTTCCGCCATATGGCGCAGCTTCAG": {
+      "genome4_unique": [
+        28
+      ]
+    },
+    "GGCCTGTTCCGCCATATGGCGCAGCTTCAGA": {
+      "genome4_unique": [
+        29
+      ]
+    },
+    "GCCTGTTCCGCCATATGGCGCAGCTTCAGAG": {
+      "genome4_unique": [
+        30
+      ]
+    },
+    "CCTGTTCCGCCATATGGCGCAGCTTCAGAGC": {
+      "genome4_unique": [
+        31
+      ]
+    },
+    "CTGTTCCGCCATATGGCGCAGCTTCAGAGCG": {
+      "genome4_unique": [
+        32
+      ]
+    },
+    "TGTTCCGCCATATGGCGCAGCTTCAGAGCGA": {
+      "genome4_unique": [
+        33
+      ]
+    },
+    "GTTCCGCCATATGGCGCAGCTTCAGAGCGAG": {
+      "genome4_unique": [
+        34
+      ]
+    },
+    "TTCCGCCATATGGCGCAGCTTCAGAGCGAGA": {
+      "genome4_unique": [
+        35
+      ]
+    },
+    "TCCGCCATATGGCGCAGCTTCAGAGCGAGAG": {
+      "genome4_unique": [
+        36
+      ]
+    },
+    "CCGCCATATGGCGCAGCTTCAGAGCGAGAGC": {
+      "genome4_unique": [
+        37
+      ]
+    },
+    "CGCCATATGGCGCAGCTTCAGAGCGAGAGCA": {
+      "genome4_unique": [
+        38
+      ]
+    },
+    "GCCATATGGCGCAGCTTCAGAGCGAGAGCAT": {
+      "genome4_unique": [
+        39
+      ]
+    },
+    "CCATATGGCGCAGCTTCAGAGCGAGAGCATG": {
+      "genome4_unique": [
+        40
+      ]
+    },
+    "CATATGGCGCAGCTTCAGAGCGAGAGCATGG": {
+      "genome4_unique": [
+        41
+      ]
+    },
+    "ATATGGCGCAGCTTCAGAGCGAGAGCATGGA": {
+      "genome4_unique": [
+        42
+      ]
+    },
+    "TATGGCGCAGCTTCAGAGCGAGAGCATGGAG": {
+      "genome4_unique": [
+        43
+      ]
+    },
+    "ATGGCGCAGCTTCAGAGCGAGAGCATGGAGT": {
+      "genome4_unique": [
+        44
+      ]
+    },
+    "TGGCGCAGCTTCAGAGCGAGAGCATGGAGTG": {
+      "genome4_unique": [
+        45
+      ]
+    },
+    "GGCGCAGCTTCAGAGCGAGAGCATGGAGTGG": {
+      "genome4_unique": [
+        46
+      ]
+    },
+    "GCGCAGCTTCAGAGCGAGAGCATGGAGTGGA": {
+      "genome4_unique": [
+        47
+      ]
+    },
+    "CGCAGCTTCAGAGCGAGAGCATGGAGTGGAC": {
+      "genome4_unique": [
+        48
+      ]
+    },
+    "GCAGCTTCAGAGCGAGAGCATGGAGTGGACG": {
+      "genome4_unique": [
+        49
+      ]
+    },
+    "CAGCTTCAGAGCGAGAGCATGGAGTGGACGG": {
+      "genome4_unique": [
+        50
+      ]
+    },
+    "AGCTTCAGAGCGAGAGCATGGAGTGGACGGC": {
+      "genome4_unique": [
+        51
+      ]
+    },
+    "GCTTCAGAGCGAGAGCATGGAGTGGACGGCG": {
+      "genome4_unique": [
+        52
+      ]
+    },
+    "CTTCAGAGCGAGAGCATGGAGTGGACGGCGT": {
+      "genome4_unique": [
+        53
+      ]
+    },
+    "TTCAGAGCGAGAGCATGGAGTGGACGGCGTA": {
+      "genome4_unique": [
+        54
+      ]
+    },
+    "TCAGAGCGAGAGCATGGAGTGGACGGCGTAG": {
+      "genome4_unique": [
+        55
+      ]
+    },
+    "CAGAGCGAGAGCATGGAGTGGACGGCGTAGA": {
+      "genome4_unique": [
+        56
+      ]
+    },
+    "AGAGCGAGAGCATGGAGTGGACGGCGTAGAA": {
+      "genome4_unique": [
+        57
+      ]
+    },
+    "GAGCGAGAGCATGGAGTGGACGGCGTAGAAA": {
+      "genome4_unique": [
+        58
+      ]
+    },
+    "AGCGAGAGCATGGAGTGGACGGCGTAGAAAG": {
+      "genome4_unique": [
+        59
+      ]
+    },
+    "GCGAGAGCATGGAGTGGACGGCGTAGAAAGT": {
+      "genome4_unique": [
+        60
+      ]
+    },
+    "CGAGAGCATGGAGTGGACGGCGTAGAAAGTG": {
+      "genome4_unique": [
+        61
+      ]
+    },
+    "GAGAGCATGGAGTGGACGGCGTAGAAAGTGC": {
+      "genome4_unique": [
+        62
+      ]
+    },
+    "AGAGCATGGAGTGGACGGCGTAGAAAGTGCT": {
+      "genome4_unique": [
+        63
+      ]
+    },
+    "GAGCATGGAGTGGACGGCGTAGAAAGTGCTG": {
+      "genome4_unique": [
+        64
+      ]
+    },
+    "AGCATGGAGTGGACGGCGTAGAAAGTGCTGA": {
+      "genome4_unique": [
+        65
+      ]
+    },
+    "GCATGGAGTGGACGGCGTAGAAAGTGCTGAG": {
+      "genome4_unique": [
+        66
+      ]
+    },
+    "CATGGAGTGGACGGCGTAGAAAGTGCTGAGA": {
+      "genome4_unique": [
+        67
+      ]
+    },
+    "ATGGAGTGGACGGCGTAGAAAGTGCTGAGAT": {
+      "genome4_unique": [
+        68
+      ]
+    },
+    "TGGAGTGGACGGCGTAGAAAGTGCTGAGATA": {
+      "genome4_unique": [
+        69
+      ]
+    },
+    "GGAGTGGACGGCGTAGAAAGTGCTGAGATAA": {
+      "genome4_unique": [
+        70
+      ]
+    },
+    "GAGTGGACGGCGTAGAAAGTGCTGAGATAAA": {
+      "genome4_unique": [
+        71
+      ]
+    },
+    "AGTGGACGGCGTAGAAAGTGCTGAGATAAAC": {
+      "genome4_unique": [
+        72
+      ]
+    },
+    "GTGGACGGCGTAGAAAGTGCTGAGATAAACA": {
+      "genome4_unique": [
+        73
+      ]
+    },
+    "TGGACGGCGTAGAAAGTGCTGAGATAAACAG": {
+      "genome4_unique": [
+        74
+      ]
+    },
+    "GGACGGCGTAGAAAGTGCTGAGATAAACAGG": {
+      "genome4_unique": [
+        75
+      ]
+    },
+    "GACGGCGTAGAAAGTGCTGAGATAAACAGGA": {
+      "genome4_unique": [
+        76
+      ]
+    },
+    "ACGGCGTAGAAAGTGCTGAGATAAACAGGAT": {
+      "genome4_unique": [
+        77
+      ]
+    },
+    "CGGCGTAGAAAGTGCTGAGATAAACAGGATT": {
+      "genome4_unique": [
+        78
+      ]
+    },
+    "GGCGTAGAAAGTGCTGAGATAAACAGGATTC": {
+      "genome4_unique": [
+        79
+      ]
+    },
+    "GCGTAGAAAGTGCTGAGATAAACAGGATTCC": {
+      "genome4_unique": [
+        80
+      ]
+    },
+    "CGTAGAAAGTGCTGAGATAAACAGGATTCCA": {
+      "genome4_unique": [
+        81
+      ]
+    },
+    "GTAGAAAGTGCTGAGATAAACAGGATTCCAA": {
+      "genome4_unique": [
+        82
+      ]
+    },
+    "TAGAAAGTGCTGAGATAAACAGGATTCCAAG": {
+      "genome4_unique": [
+        83
+      ]
+    },
+    "AGAAAGTGCTGAGATAAACAGGATTCCAAGT": {
+      "genome4_unique": [
+        84
+      ]
+    },
+    "GAAAGTGCTGAGATAAACAGGATTCCAAGTG": {
+      "genome4_unique": [
+        85
+      ]
+    },
+    "AAAGTGCTGAGATAAACAGGATTCCAAGTGC": {
+      "genome4_unique": [
+        86
+      ]
+    },
+    "AAGTGCTGAGATAAACAGGATTCCAAGTGCA": {
+      "genome4_unique": [
+        87
+      ]
+    },
+    "AGTGCTGAGATAAACAGGATTCCAAGTGCAA": {
+      "genome4_unique": [
+        88
+      ]
+    },
+    "GTGCTGAGATAAACAGGATTCCAAGTGCAAT": {
+      "genome4_unique": [
+        89
+      ]
+    },
+    "TGCTGAGATAAACAGGATTCCAAGTGCAATA": {
+      "genome4_unique": [
+        90
+      ]
+    },
+    "GCTGAGATAAACAGGATTCCAAGTGCAATAC": {
+      "genome4_unique": [
+        91
+      ]
+    },
+    "CTGAGATAAACAGGATTCCAAGTGCAATACT": {
+      "genome4_unique": [
+        92
+      ]
+    },
+    "TGAGATAAACAGGATTCCAAGTGCAATACTG": {
+      "genome4_unique": [
+        93
+      ]
+    },
+    "GAGATAAACAGGATTCCAAGTGCAATACTGG": {
+      "genome4_unique": [
+        94
+      ]
+    },
+    "AGATAAACAGGATTCCAAGTGCAATACTGGA": {
+      "genome4_unique": [
+        95
+      ]
+    },
+    "GATAAACAGGATTCCAAGTGCAATACTGGAA": {
+      "genome4_unique": [
+        96
+      ]
+    },
+    "ATAAACAGGATTCCAAGTGCAATACTGGAAA": {
+      "genome4_unique": [
+        97
+      ]
+    },
+    "TAAACAGGATTCCAAGTGCAATACTGGAAAA": {
+      "genome4_unique": [
+        98
+      ]
+    },
+    "AAACAGGATTCCAAGTGCAATACTGGAAAAC": {
+      "genome4_unique": [
+        99
+      ]
+    },
+    "AACAGGATTCCAAGTGCAATACTGGAAAACG": {
+      "genome4_unique": [
+        100
+      ]
+    },
+    "ACAGGATTCCAAGTGCAATACTGGAAAACGA": {
+      "genome4_unique": [
+        101
+      ]
+    },
+    "CAGGATTCCAAGTGCAATACTGGAAAACGAA": {
+      "genome4_unique": [
+        102
+      ]
+    },
+    "AGGATTCCAAGTGCAATACTGGAAAACGAAG": {
+      "genome4_unique": [
+        103
+      ]
+    },
+    "GGATTCCAAGTGCAATACTGGAAAACGAAGT": {
+      "genome4_unique": [
+        104
+      ]
+    },
+    "GATTCCAAGTGCAATACTGGAAAACGAAGTG": {
+      "genome4_unique": [
+        105
+      ]
+    },
+    "ATTCCAAGTGCAATACTGGAAAACGAAGTGT": {
+      "genome4_unique": [
+        106
+      ]
+    },
+    "TTCCAAGTGCAATACTGGAAAACGAAGTGTC": {
+      "genome4_unique": [
+        107
+      ]
+    },
+    "TCCAAGTGCAATACTGGAAAACGAAGTGTCG": {
+      "genome4_unique": [
+        108
+      ]
+    },
+    "CCAAGTGCAATACTGGAAAACGAAGTGTCGA": {
+      "genome4_unique": [
+        109
+      ]
+    },
+    "CAAGTGCAATACTGGAAAACGAAGTGTCGAA": {
+      "genome4_unique": [
+        110
+      ]
+    },
+    "AAGTGCAATACTGGAAAACGAAGTGTCGAAA": {
+      "genome4_unique": [
+        111
+      ]
+    },
+    "AGTGCAATACTGGAAAACGAAGTGTCGAAAA": {
+      "genome4_unique": [
+        112
+      ]
+    },
+    "GTGCAATACTGGAAAACGAAGTGTCGAAAAC": {
+      "genome4_unique": [
+        113
+      ]
+    },
+    "TGCAATACTGGAAAACGAAGTGTCGAAAACA": {
+      "genome4_unique": [
+        114
+      ]
+    },
+    "GCAATACTGGAAAACGAAGTGTCGAAAACAA": {
+      "genome4_unique": [
+        115
+      ]
+    },
+    "CAATACTGGAAAACGAAGTGTCGAAAACAAG": {
+      "genome4_unique": [
+        116
+      ]
+    },
+    "AATACTGGAAAACGAAGTGTCGAAAACAAGG": {
+      "genome4_unique": [
+        117
+      ]
+    },
+    "ATACTGGAAAACGAAGTGTCGAAAACAAGGA": {
+      "genome4_unique": [
+        118
+      ]
+    },
+    "TACTGGAAAACGAAGTGTCGAAAACAAGGAG": {
+      "genome4_unique": [
+        119
+      ]
+    },
+    "ACTGGAAAACGAAGTGTCGAAAACAAGGAGG": {
+      "genome4_unique": [
+        120
+      ]
+    },
+    "CTGGAAAACGAAGTGTCGAAAACAAGGAGGC": {
+      "genome4_unique": [
+        121
+      ]
+    },
+    "TGGAAAACGAAGTGTCGAAAACAAGGAGGCG": {
+      "genome4_unique": [
+        122
+      ]
+    },
+    "GGAAAACGAAGTGTCGAAAACAAGGAGGCGT": {
+      "genome4_unique": [
+        123
+      ]
+    },
+    "GAAAACGAAGTGTCGAAAACAAGGAGGCGTT": {
+      "genome4_unique": [
+        124
+      ]
+    },
+    "AAAACGAAGTGTCGAAAACAAGGAGGCGTTT": {
+      "genome4_unique": [
+        125
+      ]
+    },
+    "AAACGAAGTGTCGAAAACAAGGAGGCGTTTA": {
+      "genome4_unique": [
+        126
+      ]
+    },
+    "AACGAAGTGTCGAAAACAAGGAGGCGTTTAT": {
+      "genome4_unique": [
+        127
+      ]
+    },
+    "ACGAAGTGTCGAAAACAAGGAGGCGTTTATG": {
+      "genome4_unique": [
+        128
+      ]
+    },
+    "CGAAGTGTCGAAAACAAGGAGGCGTTTATGT": {
+      "genome4_unique": [
+        129
+      ]
+    },
+    "GAAGTGTCGAAAACAAGGAGGCGTTTATGTA": {
+      "genome4_unique": [
+        130
+      ]
+    },
+    "AAGTGTCGAAAACAAGGAGGCGTTTATGTAA": {
+      "genome4_unique": [
+        131
+      ]
+    },
+    "AGTGTCGAAAACAAGGAGGCGTTTATGTAAA": {
+      "genome4_unique": [
+        132
+      ]
+    },
+    "GTGTCGAAAACAAGGAGGCGTTTATGTAAAT": {
+      "genome4_unique": [
+        133
+      ]
+    },
+    "TGTCGAAAACAAGGAGGCGTTTATGTAAATA": {
+      "genome4_unique": [
+        134
+      ]
+    },
+    "GTCGAAAACAAGGAGGCGTTTATGTAAATAA": {
+      "genome4_unique": [
+        135
+      ]
+    },
+    "TCGAAAACAAGGAGGCGTTTATGTAAATAAA": {
+      "genome4_unique": [
+        136
+      ]
+    },
+    "CGAAAACAAGGAGGCGTTTATGTAAATAAAT": {
+      "genome4_unique": [
+        137
+      ]
+    },
+    "GAAAACAAGGAGGCGTTTATGTAAATAAATG": {
+      "genome4_unique": [
+        138
+      ]
+    },
+    "AAAACAAGGAGGCGTTTATGTAAATAAATGG": {
+      "genome4_unique": [
+        139
+      ]
+    },
+    "AAACAAGGAGGCGTTTATGTAAATAAATGGT": {
+      "genome4_unique": [
+        140
+      ]
+    },
+    "AACAAGGAGGCGTTTATGTAAATAAATGGTC": {
+      "genome4_unique": [
+        141
+      ]
+    },
+    "ACAAGGAGGCGTTTATGTAAATAAATGGTCT": {
+      "genome4_unique": [
+        142
+      ]
+    },
+    "CAAGGAGGCGTTTATGTAAATAAATGGTCTG": {
+      "genome4_unique": [
+        143
+      ]
+    },
+    "AAGGAGGCGTTTATGTAAATAAATGGTCTGT": {
+      "genome4_unique": [
+        144
+      ]
+    },
+    "AGGAGGCGTTTATGTAAATAAATGGTCTGTC": {
+      "genome4_unique": [
+        145
+      ]
+    },
+    "GGAGGCGTTTATGTAAATAAATGGTCTGTCA": {
+      "genome4_unique": [
+        146
+      ]
+    },
+    "GAGGCGTTTATGTAAATAAATGGTCTGTCAG": {
+      "genome4_unique": [
+        147
+      ]
+    },
+    "AGGCGTTTATGTAAATAAATGGTCTGTCAGG": {
+      "genome4_unique": [
+        148
+      ]
+    },
+    "GGCGTTTATGTAAATAAATGGTCTGTCAGGG": {
+      "genome4_unique": [
+        149
+      ]
+    },
+    "GCGTTTATGTAAATAAATGGTCTGTCAGGGA": {
+      "genome4_unique": [
+        150
+      ]
+    },
+    "CGTTTATGTAAATAAATGGTCTGTCAGGGAT": {
+      "genome4_unique": [
+        151
+      ]
+    },
+    "GTTTATGTAAATAAATGGTCTGTCAGGGATG": {
+      "genome4_unique": [
+        152
+      ]
+    },
+    "TTTATGTAAATAAATGGTCTGTCAGGGATGT": {
+      "genome4_unique": [
+        153
+      ]
+    },
+    "TTATGTAAATAAATGGTCTGTCAGGGATGTG": {
+      "genome4_unique": [
+        154
+      ]
+    },
+    "TATGTAAATAAATGGTCTGTCAGGGATGTGA": {
+      "genome4_unique": [
+        155
+      ]
+    },
+    "ATGTAAATAAATGGTCTGTCAGGGATGTGAT": {
+      "genome4_unique": [
+        156
+      ]
+    },
+    "TGTAAATAAATGGTCTGTCAGGGATGTGATC": {
+      "genome4_unique": [
+        157
+      ]
+    },
+    "GTAAATAAATGGTCTGTCAGGGATGTGATCA": {
+      "genome4_unique": [
+        158
+      ]
+    },
+    "TAAATAAATGGTCTGTCAGGGATGTGATCAC": {
+      "genome4_unique": [
+        159
+      ]
+    },
+    "AAATAAATGGTCTGTCAGGGATGTGATCACC": {
+      "genome4_unique": [
+        160
+      ]
+    },
+    "AATAAATGGTCTGTCAGGGATGTGATCACCA": {
+      "genome4_unique": [
+        161
+      ]
+    },
+    "ATAAATGGTCTGTCAGGGATGTGATCACCAC": {
+      "genome4_unique": [
+        162
+      ]
+    },
+    "TAAATGGTCTGTCAGGGATGTGATCACCACG": {
+      "genome4_unique": [
+        163
+      ]
+    },
+    "AAATGGTCTGTCAGGGATGTGATCACCACGG": {
+      "genome4_unique": [
+        164
+      ]
+    },
+    "AATGGTCTGTCAGGGATGTGATCACCACGGT": {
+      "genome4_unique": [
+        165
+      ]
+    },
+    "ATGGTCTGTCAGGGATGTGATCACCACGGTA": {
+      "genome4_unique": [
+        166
+      ]
+    },
+    "TGGTCTGTCAGGGATGTGATCACCACGGTAT": {
+      "genome4_unique": [
+        167
+      ]
+    },
+    "GGTCTGTCAGGGATGTGATCACCACGGTATT": {
+      "genome4_unique": [
+        168
+      ]
+    },
+    "GTCTGTCAGGGATGTGATCACCACGGTATTG": {
+      "genome4_unique": [
+        169
+      ]
+    },
+    "TCTGTCAGGGATGTGATCACCACGGTATTGC": {
+      "genome4_unique": [
+        170
+      ]
+    },
+    "CTGTCAGGGATGTGATCACCACGGTATTGCT": {
+      "genome4_unique": [
+        171
+      ]
+    },
+    "TGTCAGGGATGTGATCACCACGGTATTGCTC": {
+      "genome4_unique": [
+        172
+      ]
+    },
+    "GTCAGGGATGTGATCACCACGGTATTGCTCT": {
+      "genome4_unique": [
+        173
+      ]
+    },
+    "TCAGGGATGTGATCACCACGGTATTGCTCTC": {
+      "genome4_unique": [
+        174
+      ]
+    },
+    "CAGGGATGTGATCACCACGGTATTGCTCTCC": {
+      "genome4_unique": [
+        175
+      ]
+    },
+    "AGGGATGTGATCACCACGGTATTGCTCTCCG": {
+      "genome4_unique": [
+        176
+      ]
+    },
+    "GGGATGTGATCACCACGGTATTGCTCTCCGC": {
+      "genome4_unique": [
+        177
+      ]
+    },
+    "GGATGTGATCACCACGGTATTGCTCTCCGCA": {
+      "genome4_unique": [
+        178
+      ]
+    },
+    "GATGTGATCACCACGGTATTGCTCTCCGCAG": {
+      "genome4_unique": [
+        179
+      ]
+    },
+    "ATGTGATCACCACGGTATTGCTCTCCGCAGT": {
+      "genome4_unique": [
+        180
+      ]
+    },
+    "TGTGATCACCACGGTATTGCTCTCCGCAGTA": {
+      "genome4_unique": [
+        181
+      ]
+    },
+    "GTGATCACCACGGTATTGCTCTCCGCAGTAC": {
+      "genome4_unique": [
+        182
+      ]
+    },
+    "TGATCACCACGGTATTGCTCTCCGCAGTACT": {
+      "genome4_unique": [
+        183
+      ]
+    },
+    "GATCACCACGGTATTGCTCTCCGCAGTACTT": {
+      "genome4_unique": [
+        184
+      ]
+    },
+    "ATCACCACGGTATTGCTCTCCGCAGTACTTA": {
+      "genome4_unique": [
+        185
+      ]
+    },
+    "TCACCACGGTATTGCTCTCCGCAGTACTTAT": {
+      "genome4_unique": [
+        186
+      ]
+    },
+    "CACCACGGTATTGCTCTCCGCAGTACTTATC": {
+      "genome4_unique": [
+        187
+      ]
+    },
+    "ACCACGGTATTGCTCTCCGCAGTACTTATCG": {
+      "genome4_unique": [
+        188
+      ]
+    },
+    "CCACGGTATTGCTCTCCGCAGTACTTATCGT": {
+      "genome4_unique": [
+        189
+      ]
+    },
+    "CACGGTATTGCTCTCCGCAGTACTTATCGTG": {
+      "genome4_unique": [
+        190
+      ]
+    },
+    "ACGGTATTGCTCTCCGCAGTACTTATCGTGA": {
+      "genome4_unique": [
+        191
+      ]
+    },
+    "CGGTATTGCTCTCCGCAGTACTTATCGTGAT": {
+      "genome4_unique": [
+        192
+      ]
+    },
+    "GGTATTGCTCTCCGCAGTACTTATCGTGATC": {
+      "genome4_unique": [
+        193
+      ]
+    },
+    "GTATTGCTCTCCGCAGTACTTATCGTGATCC": {
+      "genome4_unique": [
+        194
+      ]
+    },
+    "TATTGCTCTCCGCAGTACTTATCGTGATCCA": {
+      "genome4_unique": [
+        195
+      ]
+    },
+    "ATTGCTCTCCGCAGTACTTATCGTGATCCAG": {
+      "genome4_unique": [
+        196
+      ]
+    },
+    "TTGCTCTCCGCAGTACTTATCGTGATCCAGC": {
+      "genome4_unique": [
+        197
+      ]
+    },
+    "TGCTCTCCGCAGTACTTATCGTGATCCAGCT": {
+      "genome4_unique": [
+        198
+      ]
+    },
+    "GCTCTCCGCAGTACTTATCGTGATCCAGCTC": {
+      "genome4_unique": [
+        199
+      ]
+    },
+    "CTCTCCGCAGTACTTATCGTGATCCAGCTCG": {
+      "genome4_unique": [
+        200
+      ]
+    },
+    "TCTCCGCAGTACTTATCGTGATCCAGCTCGT": {
+      "genome4_unique": [
+        201
+      ]
+    },
+    "CTCCGCAGTACTTATCGTGATCCAGCTCGTT": {
+      "genome4_unique": [
+        202
+      ]
+    },
+    "TCCGCAGTACTTATCGTGATCCAGCTCGTTG": {
+      "genome4_unique": [
+        203
+      ]
+    },
+    "CCGCAGTACTTATCGTGATCCAGCTCGTTGT": {
+      "genome4_unique": [
+        204
+      ]
+    },
+    "CGCAGTACTTATCGTGATCCAGCTCGTTGTC": {
+      "genome4_unique": [
+        205
+      ]
+    },
+    "GCAGTACTTATCGTGATCCAGCTCGTTGTCA": {
+      "genome4_unique": [
+        206
+      ]
+    },
+    "CAGTACTTATCGTGATCCAGCTCGTTGTCAA": {
+      "genome4_unique": [
+        207
+      ]
+    },
+    "AGTACTTATCGTGATCCAGCTCGTTGTCAAT": {
+      "genome4_unique": [
+        208
+      ]
+    },
+    "GTACTTATCGTGATCCAGCTCGTTGTCAATA": {
+      "genome4_unique": [
+        209
+      ]
+    },
+    "TACTTATCGTGATCCAGCTCGTTGTCAATAT": {
+      "genome4_unique": [
+        210
+      ]
+    },
+    "ACTTATCGTGATCCAGCTCGTTGTCAATATG": {
+      "genome4_unique": [
+        211
+      ]
+    },
+    "CTTATCGTGATCCAGCTCGTTGTCAATATGG": {
+      "genome4_unique": [
+        212
+      ]
+    },
+    "TTATCGTGATCCAGCTCGTTGTCAATATGGT": {
+      "genome4_unique": [
+        213
+      ]
+    },
+    "TATCGTGATCCAGCTCGTTGTCAATATGGTC": {
+      "genome4_unique": [
+        214
+      ]
+    },
+    "ATCGTGATCCAGCTCGTTGTCAATATGGTCT": {
+      "genome4_unique": [
+        215
+      ]
+    },
+    "TCGTGATCCAGCTCGTTGTCAATATGGTCTG": {
+      "genome4_unique": [
+        216
+      ]
+    },
+    "CGTGATCCAGCTCGTTGTCAATATGGTCTGC": {
+      "genome4_unique": [
+        217
+      ]
+    },
+    "GTGATCCAGCTCGTTGTCAATATGGTCTGCA": {
+      "genome4_unique": [
+        218
+      ]
+    },
+    "TGATCCAGCTCGTTGTCAATATGGTCTGCAT": {
+      "genome4_unique": [
+        219
+      ]
+    },
+    "GATCCAGCTCGTTGTCAATATGGTCTGCATG": {
+      "genome4_unique": [
+        220
+      ]
+    },
+    "ATCCAGCTCGTTGTCAATATGGTCTGCATGG": {
+      "genome4_unique": [
+        221
+      ]
+    },
+    "TCCAGCTCGTTGTCAATATGGTCTGCATGGC": {
+      "genome4_unique": [
+        222
+      ]
+    },
+    "CCAGCTCGTTGTCAATATGGTCTGCATGGCC": {
+      "genome4_unique": [
+        223
+      ]
+    },
+    "CAGCTCGTTGTCAATATGGTCTGCATGGCCA": {
+      "genome4_unique": [
+        224
+      ]
+    },
+    "AGCTCGTTGTCAATATGGTCTGCATGGCCAA": {
+      "genome4_unique": [
+        225
+      ]
+    },
+    "GCTCGTTGTCAATATGGTCTGCATGGCCAAC": {
+      "genome4_unique": [
+        226
+      ]
+    },
+    "CTCGTTGTCAATATGGTCTGCATGGCCAACG": {
+      "genome4_unique": [
+        227
+      ]
+    },
+    "TCGTTGTCAATATGGTCTGCATGGCCAACGA": {
+      "genome4_unique": [
+        228
+      ]
+    },
+    "CGTTGTCAATATGGTCTGCATGGCCAACGAC": {
+      "genome4_unique": [
+        229
+      ]
+    },
+    "GTTGTCAATATGGTCTGCATGGCCAACGACT": {
+      "genome4_unique": [
+        230
+      ]
+    },
+    "TTGTCAATATGGTCTGCATGGCCAACGACTT": {
+      "genome4_unique": [
+        231
+      ]
+    },
+    "TGTCAATATGGTCTGCATGGCCAACGACTTT": {
+      "genome4_unique": [
+        232
+      ]
+    },
+    "GTCAATATGGTCTGCATGGCCAACGACTTTG": {
+      "genome4_unique": [
+        233
+      ]
+    },
+    "TCAATATGGTCTGCATGGCCAACGACTTTGT": {
+      "genome4_unique": [
+        234
+      ]
+    },
+    "CAATATGGTCTGCATGGCCAACGACTTTGTC": {
+      "genome4_unique": [
+        235
+      ]
+    },
+    "AATATGGTCTGCATGGCCAACGACTTTGTCA": {
+      "genome4_unique": [
+        236
+      ]
+    },
+    "ATATGGTCTGCATGGCCAACGACTTTGTCAG": {
+      "genome4_unique": [
+        237
+      ]
+    },
+    "TATGGTCTGCATGGCCAACGACTTTGTCAGC": {
+      "genome4_unique": [
+        238
+      ]
+    },
+    "ATGGTCTGCATGGCCAACGACTTTGTCAGCA": {
+      "genome4_unique": [
+        239
+      ]
+    },
+    "TGGTCTGCATGGCCAACGACTTTGTCAGCAT": {
+      "genome4_unique": [
+        240
+      ]
+    },
+    "GGTCTGCATGGCCAACGACTTTGTCAGCATG": {
+      "genome4_unique": [
+        241
+      ]
+    },
+    "GTCTGCATGGCCAACGACTTTGTCAGCATGG": {
+      "genome4_unique": [
+        242
+      ]
+    },
+    "TCTGCATGGCCAACGACTTTGTCAGCATGGT": {
+      "genome4_unique": [
+        243
+      ]
+    },
+    "CTGCATGGCCAACGACTTTGTCAGCATGGTG": {
+      "genome4_unique": [
+        244
+      ]
+    },
+    "TGCATGGCCAACGACTTTGTCAGCATGGTGC": {
+      "genome4_unique": [
+        245
+      ]
+    },
+    "GCATGGCCAACGACTTTGTCAGCATGGTGCT": {
+      "genome4_unique": [
+        246
+      ]
+    },
+    "CATGGCCAACGACTTTGTCAGCATGGTGCTG": {
+      "genome4_unique": [
+        247
+      ]
+    },
+    "ATGGCCAACGACTTTGTCAGCATGGTGCTGT": {
+      "genome4_unique": [
+        248
+      ]
+    },
+    "TGGCCAACGACTTTGTCAGCATGGTGCTGTC": {
+      "genome4_unique": [
+        249
+      ]
+    },
+    "GGCCAACGACTTTGTCAGCATGGTGCTGTCG": {
+      "genome4_unique": [
+        250
+      ]
+    },
+    "GCCAACGACTTTGTCAGCATGGTGCTGTCGG": {
+      "genome4_unique": [
+        251
+      ]
+    },
+    "CCAACGACTTTGTCAGCATGGTGCTGTCGGT": {
+      "genome4_unique": [
+        252
+      ]
+    },
+    "CAACGACTTTGTCAGCATGGTGCTGTCGGTG": {
+      "genome4_unique": [
+        253
+      ]
+    },
+    "AACGACTTTGTCAGCATGGTGCTGTCGGTGG": {
+      "genome4_unique": [
+        254
+      ]
+    },
+    "ACGACTTTGTCAGCATGGTGCTGTCGGTGGG": {
+      "genome4_unique": [
+        255
+      ]
+    },
+    "CGACTTTGTCAGCATGGTGCTGTCGGTGGGG": {
+      "genome4_unique": [
+        256
+      ]
+    },
+    "GACTTTGTCAGCATGGTGCTGTCGGTGGGGA": {
+      "genome4_unique": [
+        257
+      ]
+    },
+    "ACTTTGTCAGCATGGTGCTGTCGGTGGGGAT": {
+      "genome4_unique": [
+        258
+      ]
+    },
+    "CTTTGTCAGCATGGTGCTGTCGGTGGGGATC": {
+      "genome4_unique": [
+        259
+      ]
+    },
+    "TTTGTCAGCATGGTGCTGTCGGTGGGGATCA": {
+      "genome4_unique": [
+        260
+      ]
+    },
+    "TTGTCAGCATGGTGCTGTCGGTGGGGATCAC": {
+      "genome4_unique": [
+        261
+      ]
+    },
+    "TGTCAGCATGGTGCTGTCGGTGGGGATCACC": {
+      "genome4_unique": [
+        262
+      ]
+    },
+    "GTCAGCATGGTGCTGTCGGTGGGGATCACCA": {
+      "genome4_unique": [
+        263
+      ]
+    },
+    "TCAGCATGGTGCTGTCGGTGGGGATCACCAT": {
+      "genome4_unique": [
+        264
+      ]
+    },
+    "CAGCATGGTGCTGTCGGTGGGGATCACCATG": {
+      "genome4_unique": [
+        265
+      ]
+    },
+    "AGCATGGTGCTGTCGGTGGGGATCACCATGT": {
+      "genome4_unique": [
+        266
+      ]
+    },
+    "GCATGGTGCTGTCGGTGGGGATCACCATGTT": {
+      "genome4_unique": [
+        267
+      ]
+    },
+    "CATGGTGCTGTCGGTGGGGATCACCATGTTC": {
+      "genome4_unique": [
+        268
+      ]
+    },
+    "ATGGTGCTGTCGGTGGGGATCACCATGTTCC": {
+      "genome4_unique": [
+        269
+      ]
+    },
+    "TGGTGCTGTCGGTGGGGATCACCATGTTCCT": {
+      "genome4_unique": [
+        270
+      ]
+    },
+    "GGTGCTGTCGGTGGGGATCACCATGTTCCTC": {
+      "genome4_unique": [
+        271
+      ]
+    },
+    "GTGCTGTCGGTGGGGATCACCATGTTCCTCT": {
+      "genome4_unique": [
+        272
+      ]
+    },
+    "TGCTGTCGGTGGGGATCACCATGTTCCTCTG": {
+      "genome4_unique": [
+        273
+      ]
+    },
+    "GCTGTCGGTGGGGATCACCATGTTCCTCTGC": {
+      "genome4_unique": [
+        274
+      ]
+    },
+    "CTGTCGGTGGGGATCACCATGTTCCTCTGCG": {
+      "genome4_unique": [
+        275
+      ]
+    },
+    "TGTCGGTGGGGATCACCATGTTCCTCTGCGC": {
+      "genome4_unique": [
+        276
+      ]
+    },
+    "GTCGGTGGGGATCACCATGTTCCTCTGCGCG": {
+      "genome4_unique": [
+        277
+      ]
+    },
+    "TCGGTGGGGATCACCATGTTCCTCTGCGCGC": {
+      "genome4_unique": [
+        278
+      ]
+    },
+    "CGGTGGGGATCACCATGTTCCTCTGCGCGCC": {
+      "genome4_unique": [
+        279
+      ]
+    },
+    "GGTGGGGATCACCATGTTCCTCTGCGCGCCG": {
+      "genome4_unique": [
+        280
+      ]
+    },
+    "GTGGGGATCACCATGTTCCTCTGCGCGCCGG": {
+      "genome4_unique": [
+        281
+      ]
+    },
+    "TGGGGATCACCATGTTCCTCTGCGCGCCGGT": {
+      "genome4_unique": [
+        282
+      ]
+    },
+    "GGGGATCACCATGTTCCTCTGCGCGCCGGTC": {
+      "genome4_unique": [
+        283
+      ]
+    },
+    "GGGATCACCATGTTCCTCTGCGCGCCGGTCT": {
+      "genome4_unique": [
+        284
+      ]
+    },
+    "GGATCACCATGTTCCTCTGCGCGCCGGTCTA": {
+      "genome4_unique": [
+        285
+      ]
+    },
+    "GATCACCATGTTCCTCTGCGCGCCGGTCTAT": {
+      "genome4_unique": [
+        286
+      ]
+    },
+    "ATCACCATGTTCCTCTGCGCGCCGGTCTATA": {
+      "genome4_unique": [
+        287
+      ]
+    },
+    "TCACCATGTTCCTCTGCGCGCCGGTCTATAT": {
+      "genome4_unique": [
+        288
+      ]
+    },
+    "CACCATGTTCCTCTGCGCGCCGGTCTATATG": {
+      "genome4_unique": [
+        289
+      ]
+    },
+    "ACCATGTTCCTCTGCGCGCCGGTCTATATGC": {
+      "genome4_unique": [
+        290
+      ]
+    },
+    "CCATGTTCCTCTGCGCGCCGGTCTATATGCT": {
+      "genome4_unique": [
+        291
+      ]
+    },
+    "CATGTTCCTCTGCGCGCCGGTCTATATGCTC": {
+      "genome4_unique": [
+        292
+      ]
+    },
+    "ATGTTCCTCTGCGCGCCGGTCTATATGCTCA": {
+      "genome4_unique": [
+        293
+      ]
+    },
+    "TGTTCCTCTGCGCGCCGGTCTATATGCTCAT": {
+      "genome4_unique": [
+        294
+      ]
+    },
+    "GTTCCTCTGCGCGCCGGTCTATATGCTCATG": {
+      "genome4_unique": [
+        295
+      ]
+    },
+    "TTCCTCTGCGCGCCGGTCTATATGCTCATGG": {
+      "genome4_unique": [
+        296
+      ]
+    },
+    "TCCTCTGCGCGCCGGTCTATATGCTCATGGT": {
+      "genome4_unique": [
+        297
+      ]
+    },
+    "CCTCTGCGCGCCGGTCTATATGCTCATGGTC": {
+      "genome4_unique": [
+        298
+      ]
+    },
+    "CTCTGCGCGCCGGTCTATATGCTCATGGTCA": {
+      "genome4_unique": [
+        299
+      ]
+    },
+    "TCTGCGCGCCGGTCTATATGCTCATGGTCAG": {
+      "genome4_unique": [
+        300
+      ]
+    },
+    "CTGCGCGCCGGTCTATATGCTCATGGTCAGC": {
+      "genome4_unique": [
+        301
+      ]
+    },
+    "TGCGCGCCGGTCTATATGCTCATGGTCAGCC": {
+      "genome4_unique": [
+        302
+      ]
+    },
+    "GCGCGCCGGTCTATATGCTCATGGTCAGCCG": {
+      "genome4_unique": [
+        303
+      ]
+    },
+    "CGCGCCGGTCTATATGCTCATGGTCAGCCGG": {
+      "genome4_unique": [
+        304
+      ]
+    },
+    "GCGCCGGTCTATATGCTCATGGTCAGCCGGA": {
+      "genome4_unique": [
+        305
+      ]
+    },
+    "CGCCGGTCTATATGCTCATGGTCAGCCGGAT": {
+      "genome4_unique": [
+        306
+      ]
+    },
+    "GCCGGTCTATATGCTCATGGTCAGCCGGATC": {
+      "genome4_unique": [
+        307
+      ]
+    },
+    "CCGGTCTATATGCTCATGGTCAGCCGGATCG": {
+      "genome4_unique": [
+        308
+      ]
+    },
+    "CGGTCTATATGCTCATGGTCAGCCGGATCGG": {
+      "genome4_unique": [
+        309
+      ]
+    },
+    "GGTCTATATGCTCATGGTCAGCCGGATCGGC": {
+      "genome4_unique": [
+        310
+      ]
+    },
+    "GTCTATATGCTCATGGTCAGCCGGATCGGCA": {
+      "genome4_unique": [
+        311
+      ]
+    },
+    "TCTATATGCTCATGGTCAGCCGGATCGGCAA": {
+      "genome4_unique": [
+        312
+      ]
+    },
+    "CTATATGCTCATGGTCAGCCGGATCGGCAAG": {
+      "genome4_unique": [
+        313
+      ]
+    },
+    "TATATGCTCATGGTCAGCCGGATCGGCAAGC": {
+      "genome4_unique": [
+        314
+      ]
+    },
+    "ATATGCTCATGGTCAGCCGGATCGGCAAGCG": {
+      "genome4_unique": [
+        315
+      ]
+    },
+    "TATGCTCATGGTCAGCCGGATCGGCAAGCGG": {
+      "genome4_unique": [
+        316
+      ]
+    },
+    "ATGCTCATGGTCAGCCGGATCGGCAAGCGGT": {
+      "genome4_unique": [
+        317
+      ]
+    },
+    "TGCTCATGGTCAGCCGGATCGGCAAGCGGTT": {
+      "genome4_unique": [
+        318
+      ]
+    },
+    "GCTCATGGTCAGCCGGATCGGCAAGCGGTTT": {
+      "genome4_unique": [
+        319
+      ]
+    },
+    "CTCATGGTCAGCCGGATCGGCAAGCGGTTTG": {
+      "genome4_unique": [
+        320
+      ]
+    },
+    "TCATGGTCAGCCGGATCGGCAAGCGGTTTGT": {
+      "genome4_unique": [
+        321
+      ]
+    },
+    "CATGGTCAGCCGGATCGGCAAGCGGTTTGTG": {
+      "genome4_unique": [
+        322
+      ]
+    },
+    "ATGGTCAGCCGGATCGGCAAGCGGTTTGTGA": {
+      "genome4_unique": [
+        323
+      ]
+    },
+    "TGGTCAGCCGGATCGGCAAGCGGTTTGTGAC": {
+      "genome4_unique": [
+        324
+      ]
+    },
+    "GGTCAGCCGGATCGGCAAGCGGTTTGTGACG": {
+      "genome4_unique": [
+        325
+      ]
+    },
+    "GTCAGCCGGATCGGCAAGCGGTTTGTGACGC": {
+      "genome4_unique": [
+        326
+      ]
+    },
+    "TCAGCCGGATCGGCAAGCGGTTTGTGACGCT": {
+      "genome4_unique": [
+        327
+      ]
+    },
+    "CAGCCGGATCGGCAAGCGGTTTGTGACGCTG": {
+      "genome4_unique": [
+        328
+      ]
+    },
+    "AGCCGGATCGGCAAGCGGTTTGTGACGCTGA": {
+      "genome4_unique": [
+        329
+      ]
+    },
+    "GCCGGATCGGCAAGCGGTTTGTGACGCTGAT": {
+      "genome4_unique": [
+        330
+      ]
+    },
+    "CCGGATCGGCAAGCGGTTTGTGACGCTGATC": {
+      "genome4_unique": [
+        331
+      ]
+    },
+    "CGGATCGGCAAGCGGTTTGTGACGCTGATCT": {
+      "genome4_unique": [
+        332
+      ]
+    },
+    "GGATCGGCAAGCGGTTTGTGACGCTGATCTA": {
+      "genome4_unique": [
+        333
+      ]
+    },
+    "GATCGGCAAGCGGTTTGTGACGCTGATCTAT": {
+      "genome4_unique": [
+        334
+      ]
+    },
+    "ATCGGCAAGCGGTTTGTGACGCTGATCTATA": {
+      "genome4_unique": [
+        335
+      ]
+    },
+    "TCGGCAAGCGGTTTGTGACGCTGATCTATAT": {
+      "genome4_unique": [
+        336
+      ]
+    },
+    "CGGCAAGCGGTTTGTGACGCTGATCTATATG": {
+      "genome4_unique": [
+        337
+      ]
+    },
+    "GGCAAGCGGTTTGTGACGCTGATCTATATGA": {
+      "genome4_unique": [
+        338
+      ]
+    },
+    "GCAAGCGGTTTGTGACGCTGATCTATATGAC": {
+      "genome4_unique": [
+        339
+      ]
+    },
+    "CAAGCGGTTTGTGACGCTGATCTATATGACG": {
+      "genome4_unique": [
+        340
+      ]
+    },
+    "AAGCGGTTTGTGACGCTGATCTATATGACGC": {
+      "genome4_unique": [
+        341
+      ]
+    },
+    "AGCGGTTTGTGACGCTGATCTATATGACGCT": {
+      "genome4_unique": [
+        342
+      ]
+    },
+    "GCGGTTTGTGACGCTGATCTATATGACGCTG": {
+      "genome4_unique": [
+        343
+      ]
+    },
+    "CGGTTTGTGACGCTGATCTATATGACGCTGC": {
+      "genome4_unique": [
+        344
+      ]
+    },
+    "GGTTTGTGACGCTGATCTATATGACGCTGCT": {
+      "genome4_unique": [
+        345
+      ]
+    },
+    "GTTTGTGACGCTGATCTATATGACGCTGCTT": {
+      "genome4_unique": [
+        346
+      ]
+    },
+    "TTTGTGACGCTGATCTATATGACGCTGCTTG": {
+      "genome4_unique": [
+        347
+      ]
+    },
+    "TTGTGACGCTGATCTATATGACGCTGCTTGG": {
+      "genome4_unique": [
+        348
+      ]
+    },
+    "TGTGACGCTGATCTATATGACGCTGCTTGGC": {
+      "genome4_unique": [
+        349
+      ]
+    },
+    "GTGACGCTGATCTATATGACGCTGCTTGGCG": {
+      "genome4_unique": [
+        350
+      ]
+    },
+    "TGACGCTGATCTATATGACGCTGCTTGGCGT": {
+      "genome4_unique": [
+        351
+      ]
+    },
+    "GACGCTGATCTATATGACGCTGCTTGGCGTG": {
+      "genome4_unique": [
+        352
+      ]
+    },
+    "ACGCTGATCTATATGACGCTGCTTGGCGTGA": {
+      "genome4_unique": [
+        353
+      ]
+    },
+    "CGCTGATCTATATGACGCTGCTTGGCGTGAT": {
+      "genome4_unique": [
+        354
+      ]
+    },
+    "GCTGATCTATATGACGCTGCTTGGCGTGATT": {
+      "genome4_unique": [
+        355
+      ]
+    },
+    "CTGATCTATATGACGCTGCTTGGCGTGATTT": {
+      "genome4_unique": [
+        356
+      ]
+    },
+    "TGATCTATATGACGCTGCTTGGCGTGATTTT": {
+      "genome4_unique": [
+        357
+      ]
+    },
+    "GATCTATATGACGCTGCTTGGCGTGATTTTC": {
+      "genome4_unique": [
+        358
+      ]
+    },
+    "ATCTATATGACGCTGCTTGGCGTGATTTTCC": {
+      "genome4_unique": [
+        359
+      ]
+    },
+    "TCTATATGACGCTGCTTGGCGTGATTTTCCT": {
+      "genome4_unique": [
+        360
+      ]
+    },
+    "CTATATGACGCTGCTTGGCGTGATTTTCCTG": {
+      "genome4_unique": [
+        361
+      ]
+    },
+    "TATATGACGCTGCTTGGCGTGATTTTCCTGC": {
+      "genome4_unique": [
+        362
+      ]
+    },
+    "ATATGACGCTGCTTGGCGTGATTTTCCTGCT": {
+      "genome4_unique": [
+        363
+      ]
+    },
+    "TATGACGCTGCTTGGCGTGATTTTCCTGCTG": {
+      "genome4_unique": [
+        364
+      ]
+    },
+    "ATGACGCTGCTTGGCGTGATTTTCCTGCTGA": {
+      "genome4_unique": [
+        365
+      ]
+    },
+    "TGACGCTGCTTGGCGTGATTTTCCTGCTGAT": {
+      "genome4_unique": [
+        366
+      ]
+    },
+    "GACGCTGCTTGGCGTGATTTTCCTGCTGATG": {
+      "genome4_unique": [
+        367
+      ]
+    },
+    "ACGCTGCTTGGCGTGATTTTCCTGCTGATGG": {
+      "genome4_unique": [
+        368
+      ]
+    },
+    "CGCTGCTTGGCGTGATTTTCCTGCTGATGGG": {
+      "genome4_unique": [
+        369
+      ]
+    },
+    "GCTGCTTGGCGTGATTTTCCTGCTGATGGGA": {
+      "genome4_unique": [
+        370
+      ]
+    },
+    "CTGCTTGGCGTGATTTTCCTGCTGATGGGAA": {
+      "genome4_unique": [
+        371
+      ]
+    },
+    "TGCTTGGCGTGATTTTCCTGCTGATGGGAAA": {
+      "genome4_unique": [
+        372
+      ]
+    },
+    "GCTTGGCGTGATTTTCCTGCTGATGGGAAAC": {
+      "genome4_unique": [
+        373
+      ]
+    },
+    "CTTGGCGTGATTTTCCTGCTGATGGGAAACT": {
+      "genome4_unique": [
+        374
+      ]
+    },
+    "TTGGCGTGATTTTCCTGCTGATGGGAAACTG": {
+      "genome4_unique": [
+        375
+      ]
+    },
+    "TGGCGTGATTTTCCTGCTGATGGGAAACTGG": {
+      "genome4_unique": [
+        376
+      ]
+    },
+    "GGCGTGATTTTCCTGCTGATGGGAAACTGGT": {
+      "genome4_unique": [
+        377
+      ]
+    },
+    "GCGTGATTTTCCTGCTGATGGGAAACTGGTT": {
+      "genome4_unique": [
+        378
+      ]
+    },
+    "CGTGATTTTCCTGCTGATGGGAAACTGGTTT": {
+      "genome4_unique": [
+        379
+      ]
+    },
+    "GTGATTTTCCTGCTGATGGGAAACTGGTTTT": {
+      "genome4_unique": [
+        380
+      ]
+    },
+    "TGATTTTCCTGCTGATGGGAAACTGGTTTTT": {
+      "genome4_unique": [
+        381
+      ]
+    },
+    "GATTTTCCTGCTGATGGGAAACTGGTTTTTG": {
+      "genome4_unique": [
+        382
+      ]
+    },
+    "ATTTTCCTGCTGATGGGAAACTGGTTTTTGC": {
+      "genome4_unique": [
+        383
+      ]
+    },
+    "TTTTCCTGCTGATGGGAAACTGGTTTTTGCT": {
+      "genome4_unique": [
+        384
+      ]
+    },
+    "TTTCCTGCTGATGGGAAACTGGTTTTTGCTT": {
+      "genome4_unique": [
+        385
+      ]
+    },
+    "TTCCTGCTGATGGGAAACTGGTTTTTGCTTC": {
+      "genome4_unique": [
+        386
+      ]
+    },
+    "TCCTGCTGATGGGAAACTGGTTTTTGCTTCC": {
+      "genome4_unique": [
+        387
+      ]
+    },
+    "CCTGCTGATGGGAAACTGGTTTTTGCTTCCC": {
+      "genome4_unique": [
+        388
+      ]
+    },
+    "CTGCTGATGGGAAACTGGTTTTTGCTTCCCT": {
+      "genome4_unique": [
+        389
+      ]
+    },
+    "TGCTGATGGGAAACTGGTTTTTGCTTCCCTA": {
+      "genome4_unique": [
+        390
+      ]
+    },
+    "GCTGATGGGAAACTGGTTTTTGCTTCCCTAC": {
+      "genome4_unique": [
+        391
+      ]
+    },
+    "CTGATGGGAAACTGGTTTTTGCTTCCCTACT": {
+      "genome4_unique": [
+        392
+      ]
+    },
+    "TGATGGGAAACTGGTTTTTGCTTCCCTACTT": {
+      "genome4_unique": [
+        393
+      ]
+    },
+    "GATGGGAAACTGGTTTTTGCTTCCCTACTTT": {
+      "genome4_unique": [
+        394
+      ]
+    },
+    "ATGGGAAACTGGTTTTTGCTTCCCTACTTTA": {
+      "genome4_unique": [
+        395
+      ]
+    },
+    "TGGGAAACTGGTTTTTGCTTCCCTACTTTAT": {
+      "genome4_unique": [
+        396
+      ]
+    },
+    "GGGAAACTGGTTTTTGCTTCCCTACTTTATC": {
+      "genome4_unique": [
+        397
+      ]
+    },
+    "GGAAACTGGTTTTTGCTTCCCTACTTTATCG": {
+      "genome4_unique": [
+        398
+      ]
+    },
+    "GAAACTGGTTTTTGCTTCCCTACTTTATCGT": {
+      "genome4_unique": [
+        399
+      ]
+    },
+    "AAACTGGTTTTTGCTTCCCTACTTTATCGTT": {
+      "genome4_unique": [
+        400
+      ]
+    },
+    "AACTGGTTTTTGCTTCCCTACTTTATCGTTA": {
+      "genome4_unique": [
+        401
+      ]
+    },
+    "ACTGGTTTTTGCTTCCCTACTTTATCGTTAC": {
+      "genome4_unique": [
+        402
+      ]
+    },
+    "CTGGTTTTTGCTTCCCTACTTTATCGTTACA": {
+      "genome4_unique": [
+        403
+      ]
+    },
+    "TGGTTTTTGCTTCCCTACTTTATCGTTACAG": {
+      "genome4_unique": [
+        404
+      ]
+    },
+    "GGTTTTTGCTTCCCTACTTTATCGTTACAGG": {
+      "genome4_unique": [
+        405
+      ]
+    },
+    "GTTTTTGCTTCCCTACTTTATCGTTACAGGC": {
+      "genome4_unique": [
+        406
+      ]
+    },
+    "TTTTTGCTTCCCTACTTTATCGTTACAGGCG": {
+      "genome4_unique": [
+        407
+      ]
+    },
+    "TTTTGCTTCCCTACTTTATCGTTACAGGCGT": {
+      "genome4_unique": [
+        408
+      ]
+    },
+    "TTTGCTTCCCTACTTTATCGTTACAGGCGTC": {
+      "genome4_unique": [
+        409
+      ]
+    },
+    "TTGCTTCCCTACTTTATCGTTACAGGCGTCA": {
+      "genome4_unique": [
+        410
+      ]
+    },
+    "TGCTTCCCTACTTTATCGTTACAGGCGTCAT": {
+      "genome4_unique": [
+        411
+      ]
+    },
+    "GCTTCCCTACTTTATCGTTACAGGCGTCATC": {
+      "genome4_unique": [
+        412
+      ]
+    },
+    "CTTCCCTACTTTATCGTTACAGGCGTCATCT": {
+      "genome4_unique": [
+        413
+      ]
+    },
+    "TTCCCTACTTTATCGTTACAGGCGTCATCTG": {
+      "genome4_unique": [
+        414
+      ]
+    },
+    "TCCCTACTTTATCGTTACAGGCGTCATCTGC": {
+      "genome4_unique": [
+        415
+      ]
+    },
+    "CCCTACTTTATCGTTACAGGCGTCATCTGCG": {
+      "genome4_unique": [
+        416
+      ]
+    },
+    "CCTACTTTATCGTTACAGGCGTCATCTGCGA": {
+      "genome4_unique": [
+        417
+      ]
+    },
+    "CTACTTTATCGTTACAGGCGTCATCTGCGAG": {
+      "genome4_unique": [
+        418
+      ]
+    },
+    "TACTTTATCGTTACAGGCGTCATCTGCGAGG": {
+      "genome4_unique": [
+        419
+      ]
+    },
+    "ACTTTATCGTTACAGGCGTCATCTGCGAGGC": {
+      "genome4_unique": [
+        420
+      ]
+    },
+    "CTTTATCGTTACAGGCGTCATCTGCGAGGCG": {
+      "genome4_unique": [
+        421
+      ]
+    },
+    "TTTATCGTTACAGGCGTCATCTGCGAGGCGA": {
+      "genome4_unique": [
+        422
+      ]
+    },
+    "TTATCGTTACAGGCGTCATCTGCGAGGCGAT": {
+      "genome4_unique": [
+        423
+      ]
+    },
+    "TATCGTTACAGGCGTCATCTGCGAGGCGATT": {
+      "genome4_unique": [
+        424
+      ]
+    },
+    "ATCGTTACAGGCGTCATCTGCGAGGCGATTC": {
+      "genome4_unique": [
+        425
+      ]
+    },
+    "TCGTTACAGGCGTCATCTGCGAGGCGATTCT": {
+      "genome4_unique": [
+        426
+      ]
+    },
+    "CGTTACAGGCGTCATCTGCGAGGCGATTCTC": {
+      "genome4_unique": [
+        427
+      ]
+    },
+    "GTTACAGGCGTCATCTGCGAGGCGATTCTCT": {
+      "genome4_unique": [
+        428
+      ]
+    },
+    "TTACAGGCGTCATCTGCGAGGCGATTCTCTG": {
+      "genome4_unique": [
+        429
+      ]
+    },
+    "TACAGGCGTCATCTGCGAGGCGATTCTCTGG": {
+      "genome4_unique": [
+        430
+      ]
+    },
+    "ACAGGCGTCATCTGCGAGGCGATTCTCTGGA": {
+      "genome4_unique": [
+        431
+      ]
+    },
+    "CAGGCGTCATCTGCGAGGCGATTCTCTGGAA": {
+      "genome4_unique": [
+        432
+      ]
+    },
+    "AGGCGTCATCTGCGAGGCGATTCTCTGGAAG": {
+      "genome4_unique": [
+        433
+      ]
+    },
+    "GGCGTCATCTGCGAGGCGATTCTCTGGAAGG": {
+      "genome4_unique": [
+        434
+      ]
+    },
+    "GCGTCATCTGCGAGGCGATTCTCTGGAAGGA": {
+      "genome4_unique": [
+        435
+      ]
+    },
+    "CGTCATCTGCGAGGCGATTCTCTGGAAGGAA": {
+      "genome4_unique": [
+        436
+      ]
+    },
+    "GTCATCTGCGAGGCGATTCTCTGGAAGGAAG": {
+      "genome4_unique": [
+        437
+      ]
+    },
+    "TCATCTGCGAGGCGATTCTCTGGAAGGAAGG": {
+      "genome4_unique": [
+        438
+      ]
+    },
+    "CATCTGCGAGGCGATTCTCTGGAAGGAAGGC": {
+      "genome4_unique": [
+        439
+      ]
+    },
+    "ATCTGCGAGGCGATTCTCTGGAAGGAAGGCT": {
+      "genome4_unique": [
+        440
+      ]
+    },
+    "TCTGCGAGGCGATTCTCTGGAAGGAAGGCTC": {
+      "genome4_unique": [
+        441
+      ]
+    },
+    "CTGCGAGGCGATTCTCTGGAAGGAAGGCTCC": {
+      "genome4_unique": [
+        442
+      ]
+    },
+    "TGCGAGGCGATTCTCTGGAAGGAAGGCTCCT": {
+      "genome4_unique": [
+        443
+      ]
+    },
+    "GCGAGGCGATTCTCTGGAAGGAAGGCTCCTG": {
+      "genome4_unique": [
+        444
+      ]
+    },
+    "CGAGGCGATTCTCTGGAAGGAAGGCTCCTGC": {
+      "genome4_unique": [
+        445
+      ]
+    },
+    "GAGGCGATTCTCTGGAAGGAAGGCTCCTGCC": {
+      "genome4_unique": [
+        446
+      ]
+    },
+    "AGGCGATTCTCTGGAAGGAAGGCTCCTGCCA": {
+      "genome4_unique": [
+        447
+      ]
+    },
+    "GGCGATTCTCTGGAAGGAAGGCTCCTGCCAA": {
+      "genome4_unique": [
+        448
+      ]
+    },
+    "GCGATTCTCTGGAAGGAAGGCTCCTGCCAAA": {
+      "genome4_unique": [
+        449
+      ]
+    },
+    "CGATTCTCTGGAAGGAAGGCTCCTGCCAAAA": {
+      "genome4_unique": [
+        450
+      ]
+    },
+    "GATTCTCTGGAAGGAAGGCTCCTGCCAAAAG": {
+      "genome4_unique": [
+        451
+      ]
+    },
+    "ATTCTCTGGAAGGAAGGCTCCTGCCAAAAGC": {
+      "genome4_unique": [
+        452
+      ]
+    },
+    "TTCTCTGGAAGGAAGGCTCCTGCCAAAAGCC": {
+      "genome4_unique": [
+        453
+      ]
+    },
+    "TCTCTGGAAGGAAGGCTCCTGCCAAAAGCCG": {
+      "genome4_unique": [
+        454
+      ]
+    },
+    "CTCTGGAAGGAAGGCTCCTGCCAAAAGCCGA": {
+      "genome4_unique": [
+        455
+      ]
+    },
+    "TCTGGAAGGAAGGCTCCTGCCAAAAGCCGAA": {
+      "genome4_unique": [
+        456
+      ]
+    },
+    "CTGGAAGGAAGGCTCCTGCCAAAAGCCGAAA": {
+      "genome4_unique": [
+        457
+      ]
+    },
+    "TGGAAGGAAGGCTCCTGCCAAAAGCCGAAAC": {
+      "genome4_unique": [
+        458
+      ]
+    },
+    "GGAAGGAAGGCTCCTGCCAAAAGCCGAAACG": {
+      "genome4_unique": [
+        459
+      ]
+    },
+    "GAAGGAAGGCTCCTGCCAAAAGCCGAAACGG": {
+      "genome4_unique": [
+        460
+      ]
+    },
+    "AAGGAAGGCTCCTGCCAAAAGCCGAAACGGC": {
+      "genome4_unique": [
+        461
+      ]
+    },
+    "AGGAAGGCTCCTGCCAAAAGCCGAAACGGCT": {
+      "genome4_unique": [
+        462
+      ]
+    },
+    "GGAAGGCTCCTGCCAAAAGCCGAAACGGCTG": {
+      "genome4_unique": [
+        463
+      ]
+    },
+    "GAAGGCTCCTGCCAAAAGCCGAAACGGCTGA": {
+      "genome4_unique": [
+        464
+      ]
+    },
+    "AAGGCTCCTGCCAAAAGCCGAAACGGCTGAC": {
+      "genome4_unique": [
+        465
+      ]
+    },
+    "AGGCTCCTGCCAAAAGCCGAAACGGCTGACC": {
+      "genome4_unique": [
+        466
+      ]
+    },
+    "GGCTCCTGCCAAAAGCCGAAACGGCTGACCG": {
+      "genome4_unique": [
+        467
+      ]
+    },
+    "GCTCCTGCCAAAAGCCGAAACGGCTGACCGC": {
+      "genome4_unique": [
+        468
+      ]
+    },
+    "CTCCTGCCAAAAGCCGAAACGGCTGACCGCC": {
+      "genome4_unique": [
+        469
+      ]
+    },
+    "TGACGTTGTATTCTTTGTTTGTACATCTATT": {
+      "genome5_unique": [
+        0
+      ]
+    },
+    "GACGTTGTATTCTTTGTTTGTACATCTATTT": {
+      "genome5_unique": [
+        1
+      ]
+    },
+    "ACGTTGTATTCTTTGTTTGTACATCTATTTA": {
+      "genome5_unique": [
+        2
+      ]
+    },
+    "CGTTGTATTCTTTGTTTGTACATCTATTTAG": {
+      "genome5_unique": [
+        3
+      ]
+    },
+    "GTTGTATTCTTTGTTTGTACATCTATTTAGT": {
+      "genome5_unique": [
+        4
+      ]
+    },
+    "TTGTATTCTTTGTTTGTACATCTATTTAGTT": {
+      "genome5_unique": [
+        5
+      ]
+    },
+    "TGTATTCTTTGTTTGTACATCTATTTAGTTT": {
+      "genome5_unique": [
+        6
+      ]
+    },
+    "GTATTCTTTGTTTGTACATCTATTTAGTTTT": {
+      "genome5_unique": [
+        7
+      ]
+    },
+    "TATTCTTTGTTTGTACATCTATTTAGTTTTC": {
+      "genome5_unique": [
+        8
+      ]
+    },
+    "ATTCTTTGTTTGTACATCTATTTAGTTTTCA": {
+      "genome5_unique": [
+        9
+      ]
+    },
+    "TTCTTTGTTTGTACATCTATTTAGTTTTCAA": {
+      "genome5_unique": [
+        10
+      ]
+    },
+    "TCTTTGTTTGTACATCTATTTAGTTTTCAAA": {
+      "genome5_unique": [
+        11
+      ]
+    },
+    "CTTTGTTTGTACATCTATTTAGTTTTCAAAG": {
+      "genome5_unique": [
+        12
+      ]
+    },
+    "TTTGTTTGTACATCTATTTAGTTTTCAAAGA": {
+      "genome5_unique": [
+        13
+      ]
+    },
+    "TTGTTTGTACATCTATTTAGTTTTCAAAGAT": {
+      "genome5_unique": [
+        14
+      ]
+    },
+    "TGTTTGTACATCTATTTAGTTTTCAAAGATC": {
+      "genome5_unique": [
+        15
+      ]
+    },
+    "GTTTGTACATCTATTTAGTTTTCAAAGATCT": {
+      "genome5_unique": [
+        16
+      ]
+    },
+    "TTTGTACATCTATTTAGTTTTCAAAGATCTC": {
+      "genome5_unique": [
+        17
+      ]
+    },
+    "TTGTACATCTATTTAGTTTTCAAAGATCTCT": {
+      "genome5_unique": [
+        18
+      ]
+    },
+    "TGTACATCTATTTAGTTTTCAAAGATCTCTT": {
+      "genome5_unique": [
+        19
+      ]
+    },
+    "GTACATCTATTTAGTTTTCAAAGATCTCTTG": {
+      "genome5_unique": [
+        20
+      ]
+    },
+    "TACATCTATTTAGTTTTCAAAGATCTCTTGC": {
+      "genome5_unique": [
+        21
+      ]
+    },
+    "ACATCTATTTAGTTTTCAAAGATCTCTTGCA": {
+      "genome5_unique": [
+        22
+      ]
+    },
+    "CATCTATTTAGTTTTCAAAGATCTCTTGCAC": {
+      "genome5_unique": [
+        23
+      ]
+    },
+    "ATCTATTTAGTTTTCAAAGATCTCTTGCACT": {
+      "genome5_unique": [
+        24
+      ]
+    },
+    "TCTATTTAGTTTTCAAAGATCTCTTGCACTA": {
+      "genome5_unique": [
+        25
+      ]
+    },
+    "CTATTTAGTTTTCAAAGATCTCTTGCACTAA": {
+      "genome5_unique": [
+        26
+      ]
+    },
+    "TATTTAGTTTTCAAAGATCTCTTGCACTAAT": {
+      "genome5_unique": [
+        27
+      ]
+    },
+    "ATTTAGTTTTCAAAGATCTCTTGCACTAATT": {
+      "genome5_unique": [
+        28
+      ]
+    },
+    "TTTAGTTTTCAAAGATCTCTTGCACTAATTG": {
+      "genome5_unique": [
+        29
+      ]
+    },
+    "TTAGTTTTCAAAGATCTCTTGCACTAATTGA": {
+      "genome5_unique": [
+        30
+      ]
+    },
+    "TAGTTTTCAAAGATCTCTTGCACTAATTGAT": {
+      "genome5_unique": [
+        31
+      ]
+    },
+    "AGTTTTCAAAGATCTCTTGCACTAATTGATT": {
+      "genome5_unique": [
+        32
+      ]
+    },
+    "GTTTTCAAAGATCTCTTGCACTAATTGATTC": {
+      "genome5_unique": [
+        33
+      ]
+    },
+    "TTTTCAAAGATCTCTTGCACTAATTGATTCT": {
+      "genome5_unique": [
+        34
+      ]
+    },
+    "TTTCAAAGATCTCTTGCACTAATTGATTCTA": {
+      "genome5_unique": [
+        35
+      ]
+    },
+    "TTCAAAGATCTCTTGCACTAATTGATTCTAT": {
+      "genome5_unique": [
+        36
+      ]
+    },
+    "TCAAAGATCTCTTGCACTAATTGATTCTATC": {
+      "genome5_unique": [
+        37
+      ]
+    },
+    "CAAAGATCTCTTGCACTAATTGATTCTATCA": {
+      "genome5_unique": [
+        38
+      ]
+    },
+    "AAAGATCTCTTGCACTAATTGATTCTATCAA": {
+      "genome5_unique": [
+        39
+      ]
+    },
+    "AAGATCTCTTGCACTAATTGATTCTATCAAT": {
+      "genome5_unique": [
+        40
+      ]
+    },
+    "AGATCTCTTGCACTAATTGATTCTATCAATC": {
+      "genome5_unique": [
+        41
+      ]
+    },
+    "GATCTCTTGCACTAATTGATTCTATCAATCT": {
+      "genome5_unique": [
+        42
+      ]
+    },
+    "ATCTCTTGCACTAATTGATTCTATCAATCTT": {
+      "genome5_unique": [
+        43
+      ]
+    },
+    "TCTCTTGCACTAATTGATTCTATCAATCTTA": {
+      "genome5_unique": [
+        44
+      ]
+    },
+    "CTCTTGCACTAATTGATTCTATCAATCTTAA": {
+      "genome5_unique": [
+        45
+      ]
+    },
+    "TCTTGCACTAATTGATTCTATCAATCTTAAC": {
+      "genome5_unique": [
+        46
+      ]
+    },
+    "CTTGCACTAATTGATTCTATCAATCTTAACG": {
+      "genome5_unique": [
+        47
+      ]
+    },
+    "TTGCACTAATTGATTCTATCAATCTTAACGA": {
+      "genome5_unique": [
+        48
+      ]
+    },
+    "TGCACTAATTGATTCTATCAATCTTAACGAA": {
+      "genome5_unique": [
+        49
+      ]
+    },
+    "GCACTAATTGATTCTATCAATCTTAACGAAG": {
+      "genome5_unique": [
+        50
+      ]
+    },
+    "CACTAATTGATTCTATCAATCTTAACGAAGA": {
+      "genome5_unique": [
+        51
+      ]
+    },
+    "ACTAATTGATTCTATCAATCTTAACGAAGAA": {
+      "genome5_unique": [
+        52
+      ]
+    },
+    "CTAATTGATTCTATCAATCTTAACGAAGAAT": {
+      "genome5_unique": [
+        53
+      ]
+    },
+    "TAATTGATTCTATCAATCTTAACGAAGAATT": {
+      "genome5_unique": [
+        54
+      ]
+    },
+    "AATTGATTCTATCAATCTTAACGAAGAATTA": {
+      "genome5_unique": [
+        55
+      ]
+    },
+    "ATTGATTCTATCAATCTTAACGAAGAATTAA": {
+      "genome5_unique": [
+        56
+      ]
+    },
+    "TTGATTCTATCAATCTTAACGAAGAATTAAT": {
+      "genome5_unique": [
+        57
+      ]
+    },
+    "TGATTCTATCAATCTTAACGAAGAATTAATC": {
+      "genome5_unique": [
+        58
+      ]
+    },
+    "GATTCTATCAATCTTAACGAAGAATTAATCC": {
+      "genome5_unique": [
+        59
+      ]
+    },
+    "ATTCTATCAATCTTAACGAAGAATTAATCCT": {
+      "genome5_unique": [
+        60
+      ]
+    },
+    "TTCTATCAATCTTAACGAAGAATTAATCCTT": {
+      "genome5_unique": [
+        61
+      ]
+    },
+    "TCTATCAATCTTAACGAAGAATTAATCCTTC": {
+      "genome5_unique": [
+        62
+      ]
+    },
+    "CTATCAATCTTAACGAAGAATTAATCCTTCG": {
+      "genome5_unique": [
+        63
+      ]
+    },
+    "TATCAATCTTAACGAAGAATTAATCCTTCGA": {
+      "genome5_unique": [
+        64
+      ]
+    },
+    "ATCAATCTTAACGAAGAATTAATCCTTCGAA": {
+      "genome5_unique": [
+        65
+      ]
+    },
+    "TCAATCTTAACGAAGAATTAATCCTTCGAAC": {
+      "genome5_unique": [
+        66
+      ]
+    },
+    "CAATCTTAACGAAGAATTAATCCTTCGAACA": {
+      "genome5_unique": [
+        67
+      ]
+    },
+    "AATCTTAACGAAGAATTAATCCTTCGAACAA": {
+      "genome5_unique": [
+        68
+      ]
+    },
+    "ATCTTAACGAAGAATTAATCCTTCGAACAAG": {
+      "genome5_unique": [
+        69
+      ]
+    },
+    "TCTTAACGAAGAATTAATCCTTCGAACAAGT": {
+      "genome5_unique": [
+        70
+      ]
+    },
+    "CTTAACGAAGAATTAATCCTTCGAACAAGTG": {
+      "genome5_unique": [
+        71
+      ]
+    },
+    "TTAACGAAGAATTAATCCTTCGAACAAGTGC": {
+      "genome5_unique": [
+        72
+      ]
+    },
+    "TAACGAAGAATTAATCCTTCGAACAAGTGCT": {
+      "genome5_unique": [
+        73
+      ]
+    },
+    "AACGAAGAATTAATCCTTCGAACAAGTGCTT": {
+      "genome5_unique": [
+        74
+      ]
+    },
+    "ACGAAGAATTAATCCTTCGAACAAGTGCTTA": {
+      "genome5_unique": [
+        75
+      ]
+    },
+    "CGAAGAATTAATCCTTCGAACAAGTGCTTAA": {
+      "genome5_unique": [
+        76
+      ]
+    },
+    "GAAGAATTAATCCTTCGAACAAGTGCTTAAT": {
+      "genome5_unique": [
+        77
+      ]
+    },
+    "AAGAATTAATCCTTCGAACAAGTGCTTAATA": {
+      "genome5_unique": [
+        78
+      ]
+    },
+    "AGAATTAATCCTTCGAACAAGTGCTTAATAA": {
+      "genome5_unique": [
+        79
+      ]
+    },
+    "GAATTAATCCTTCGAACAAGTGCTTAATAAT": {
+      "genome5_unique": [
+        80
+      ]
+    },
+    "AATTAATCCTTCGAACAAGTGCTTAATAATT": {
+      "genome5_unique": [
+        81
+      ]
+    },
+    "ATTAATCCTTCGAACAAGTGCTTAATAATTA": {
+      "genome5_unique": [
+        82
+      ]
+    },
+    "TTAATCCTTCGAACAAGTGCTTAATAATTAT": {
+      "genome5_unique": [
+        83
+      ]
+    },
+    "TAATCCTTCGAACAAGTGCTTAATAATTATA": {
+      "genome5_unique": [
+        84
+      ]
+    },
+    "AATCCTTCGAACAAGTGCTTAATAATTATAT": {
+      "genome5_unique": [
+        85
+      ]
+    },
+    "ATCCTTCGAACAAGTGCTTAATAATTATATC": {
+      "genome5_unique": [
+        86
+      ]
+    },
+    "TCCTTCGAACAAGTGCTTAATAATTATATCT": {
+      "genome5_unique": [
+        87
+      ]
+    },
+    "CCTTCGAACAAGTGCTTAATAATTATATCTA": {
+      "genome5_unique": [
+        88
+      ]
+    },
+    "CTTCGAACAAGTGCTTAATAATTATATCTAA": {
+      "genome5_unique": [
+        89
+      ]
+    },
+    "TTCGAACAAGTGCTTAATAATTATATCTAAG": {
+      "genome5_unique": [
+        90
+      ]
+    },
+    "TCGAACAAGTGCTTAATAATTATATCTAAGA": {
+      "genome5_unique": [
+        91
+      ]
+    },
+    "CGAACAAGTGCTTAATAATTATATCTAAGAG": {
+      "genome5_unique": [
+        92
+      ]
+    },
+    "GAACAAGTGCTTAATAATTATATCTAAGAGA": {
+      "genome5_unique": [
+        93
+      ]
+    },
+    "AACAAGTGCTTAATAATTATATCTAAGAGAT": {
+      "genome5_unique": [
+        94
+      ]
+    },
+    "ACAAGTGCTTAATAATTATATCTAAGAGATA": {
+      "genome5_unique": [
+        95
+      ]
+    },
+    "CAAGTGCTTAATAATTATATCTAAGAGATAT": {
+      "genome5_unique": [
+        96
+      ]
+    },
+    "AAGTGCTTAATAATTATATCTAAGAGATATA": {
+      "genome5_unique": [
+        97
+      ]
+    },
+    "AGTGCTTAATAATTATATCTAAGAGATATAA": {
+      "genome5_unique": [
+        98
+      ]
+    },
+    "GTGCTTAATAATTATATCTAAGAGATATAAT": {
+      "genome5_unique": [
+        99
+      ]
+    },
+    "TGCTTAATAATTATATCTAAGAGATATAATC": {
+      "genome5_unique": [
+        100
+      ]
+    },
+    "GCTTAATAATTATATCTAAGAGATATAATCA": {
+      "genome5_unique": [
+        101
+      ]
+    },
+    "CTTAATAATTATATCTAAGAGATATAATCAT": {
+      "genome5_unique": [
+        102
+      ]
+    },
+    "TTAATAATTATATCTAAGAGATATAATCATG": {
+      "genome5_unique": [
+        103
+      ]
+    },
+    "TAATAATTATATCTAAGAGATATAATCATGT": {
+      "genome5_unique": [
+        104
+      ]
+    },
+    "AATAATTATATCTAAGAGATATAATCATGTC": {
+      "genome5_unique": [
+        105
+      ]
+    },
+    "ATAATTATATCTAAGAGATATAATCATGTCA": {
+      "genome5_unique": [
+        106
+      ]
+    },
+    "TAATTATATCTAAGAGATATAATCATGTCAA": {
+      "genome5_unique": [
+        107
+      ]
+    },
+    "AATTATATCTAAGAGATATAATCATGTCAAC": {
+      "genome5_unique": [
+        108
+      ]
+    },
+    "ATTATATCTAAGAGATATAATCATGTCAACA": {
+      "genome5_unique": [
+        109
+      ]
+    },
+    "TTATATCTAAGAGATATAATCATGTCAACAA": {
+      "genome5_unique": [
+        110
+      ]
+    },
+    "TATATCTAAGAGATATAATCATGTCAACAAA": {
+      "genome5_unique": [
+        111
+      ]
+    },
+    "ATATCTAAGAGATATAATCATGTCAACAAAG": {
+      "genome5_unique": [
+        112
+      ]
+    },
+    "TATCTAAGAGATATAATCATGTCAACAAAGA": {
+      "genome5_unique": [
+        113
+      ]
+    },
+    "ATCTAAGAGATATAATCATGTCAACAAAGAA": {
+      "genome5_unique": [
+        114
+      ]
+    },
+    "TCTAAGAGATATAATCATGTCAACAAAGAAG": {
+      "genome5_unique": [
+        115
+      ]
+    },
+    "CTAAGAGATATAATCATGTCAACAAAGAAGT": {
+      "genome5_unique": [
+        116
+      ]
+    },
+    "TAAGAGATATAATCATGTCAACAAAGAAGTC": {
+      "genome5_unique": [
+        117
+      ]
+    },
+    "AAGAGATATAATCATGTCAACAAAGAAGTCT": {
+      "genome5_unique": [
+        118
+      ]
+    },
+    "AGAGATATAATCATGTCAACAAAGAAGTCTC": {
+      "genome5_unique": [
+        119
+      ]
+    },
+    "GAGATATAATCATGTCAACAAAGAAGTCTCA": {
+      "genome5_unique": [
+        120
+      ]
+    },
+    "AGATATAATCATGTCAACAAAGAAGTCTCAA": {
+      "genome5_unique": [
+        121
+      ]
+    },
+    "GATATAATCATGTCAACAAAGAAGTCTCAAA": {
+      "genome5_unique": [
+        122
+      ]
+    },
+    "ATATAATCATGTCAACAAAGAAGTCTCAAAT": {
+      "genome5_unique": [
+        123
+      ]
+    },
+    "TATAATCATGTCAACAAAGAAGTCTCAAATC": {
+      "genome5_unique": [
+        124
+      ]
+    },
+    "ATAATCATGTCAACAAAGAAGTCTCAAATCT": {
+      "genome5_unique": [
+        125
+      ]
+    },
+    "TAATCATGTCAACAAAGAAGTCTCAAATCTT": {
+      "genome5_unique": [
+        126
+      ]
+    },
+    "AATCATGTCAACAAAGAAGTCTCAAATCTTG": {
+      "genome5_unique": [
+        127
+      ]
+    },
+    "ATCATGTCAACAAAGAAGTCTCAAATCTTGC": {
+      "genome5_unique": [
+        128
+      ]
+    },
+    "TCATGTCAACAAAGAAGTCTCAAATCTTGCG": {
+      "genome5_unique": [
+        129
+      ]
+    },
+    "CATGTCAACAAAGAAGTCTCAAATCTTGCGA": {
+      "genome5_unique": [
+        130
+      ]
+    },
+    "ATGTCAACAAAGAAGTCTCAAATCTTGCGAC": {
+      "genome5_unique": [
+        131
+      ]
+    },
+    "TGTCAACAAAGAAGTCTCAAATCTTGCGACA": {
+      "genome5_unique": [
+        132
+      ]
+    },
+    "GTCAACAAAGAAGTCTCAAATCTTGCGACAA": {
+      "genome5_unique": [
+        133
+      ]
+    },
+    "TCAACAAAGAAGTCTCAAATCTTGCGACAAC": {
+      "genome5_unique": [
+        134
+      ]
+    },
+    "CAACAAAGAAGTCTCAAATCTTGCGACAACT": {
+      "genome5_unique": [
+        135
+      ]
+    },
+    "AACAAAGAAGTCTCAAATCTTGCGACAACTT": {
+      "genome5_unique": [
+        136
+      ]
+    },
+    "ACAAAGAAGTCTCAAATCTTGCGACAACTTC": {
+      "genome5_unique": [
+        137
+      ]
+    },
+    "CAAAGAAGTCTCAAATCTTGCGACAACTTCA": {
+      "genome5_unique": [
+        138
+      ]
+    },
+    "AAAGAAGTCTCAAATCTTGCGACAACTTCAA": {
+      "genome5_unique": [
+        139
+      ]
+    },
+    "AAGAAGTCTCAAATCTTGCGACAACTTCAAA": {
+      "genome5_unique": [
+        140
+      ]
+    },
+    "AGAAGTCTCAAATCTTGCGACAACTTCAAAA": {
+      "genome5_unique": [
+        141
+      ]
+    },
+    "GAAGTCTCAAATCTTGCGACAACTTCAAAAT": {
+      "genome5_unique": [
+        142
+      ]
+    },
+    "AAGTCTCAAATCTTGCGACAACTTCAAAATG": {
+      "genome5_unique": [
+        143
+      ]
+    },
+    "AGTCTCAAATCTTGCGACAACTTCAAAATGA": {
+      "genome5_unique": [
+        144
+      ]
+    },
+    "GTCTCAAATCTTGCGACAACTTCAAAATGAT": {
+      "genome5_unique": [
+        145
+      ]
+    },
+    "TCTCAAATCTTGCGACAACTTCAAAATGATA": {
+      "genome5_unique": [
+        146
+      ]
+    },
+    "CTCAAATCTTGCGACAACTTCAAAATGATAC": {
+      "genome5_unique": [
+        147
+      ]
+    },
+    "TCAAATCTTGCGACAACTTCAAAATGATACA": {
+      "genome5_unique": [
+        148
+      ]
+    },
+    "CAAATCTTGCGACAACTTCAAAATGATACAC": {
+      "genome5_unique": [
+        149
+      ]
+    },
+    "AAATCTTGCGACAACTTCAAAATGATACACC": {
+      "genome5_unique": [
+        150
+      ]
+    },
+    "AATCTTGCGACAACTTCAAAATGATACACCT": {
+      "genome5_unique": [
+        151
+      ]
+    },
+    "ATCTTGCGACAACTTCAAAATGATACACCTG": {
+      "genome5_unique": [
+        152
+      ]
+    },
+    "TCTTGCGACAACTTCAAAATGATACACCTGT": {
+      "genome5_unique": [
+        153
+      ]
+    },
+    "CTTGCGACAACTTCAAAATGATACACCTGTT": {
+      "genome5_unique": [
+        154
+      ]
+    },
+    "TTGCGACAACTTCAAAATGATACACCTGTTC": {
+      "genome5_unique": [
+        155
+      ]
+    },
+    "TGCGACAACTTCAAAATGATACACCTGTTCG": {
+      "genome5_unique": [
+        156
+      ]
+    },
+    "GCGACAACTTCAAAATGATACACCTGTTCGA": {
+      "genome5_unique": [
+        157
+      ]
+    },
+    "CGACAACTTCAAAATGATACACCTGTTCGAT": {
+      "genome5_unique": [
+        158
+      ]
+    },
+    "GACAACTTCAAAATGATACACCTGTTCGATA": {
+      "genome5_unique": [
+        159
+      ]
+    },
+    "ACAACTTCAAAATGATACACCTGTTCGATAT": {
+      "genome5_unique": [
+        160
+      ]
+    },
+    "CAACTTCAAAATGATACACCTGTTCGATATT": {
+      "genome5_unique": [
+        161
+      ]
+    },
+    "AACTTCAAAATGATACACCTGTTCGATATTG": {
+      "genome5_unique": [
+        162
+      ]
+    },
+    "ACTTCAAAATGATACACCTGTTCGATATTGT": {
+      "genome5_unique": [
+        163
+      ]
+    },
+    "CTTCAAAATGATACACCTGTTCGATATTGTA": {
+      "genome5_unique": [
+        164
+      ]
+    },
+    "TTCAAAATGATACACCTGTTCGATATTGTAA": {
+      "genome5_unique": [
+        165
+      ]
+    },
+    "TCAAAATGATACACCTGTTCGATATTGTAAA": {
+      "genome5_unique": [
+        166
+      ]
+    },
+    "CAAAATGATACACCTGTTCGATATTGTAAAT": {
+      "genome5_unique": [
+        167
+      ]
+    },
+    "AAAATGATACACCTGTTCGATATTGTAAATC": {
+      "genome5_unique": [
+        168
+      ]
+    },
+    "AAATGATACACCTGTTCGATATTGTAAATCA": {
+      "genome5_unique": [
+        169
+      ]
+    },
+    "AATGATACACCTGTTCGATATTGTAAATCAA": {
+      "genome5_unique": [
+        170
+      ]
+    },
+    "ATGATACACCTGTTCGATATTGTAAATCAAG": {
+      "genome5_unique": [
+        171
+      ]
+    },
+    "TGATACACCTGTTCGATATTGTAAATCAAGC": {
+      "genome5_unique": [
+        172
+      ]
+    },
+    "GATACACCTGTTCGATATTGTAAATCAAGCA": {
+      "genome5_unique": [
+        173
+      ]
+    },
+    "ATACACCTGTTCGATATTGTAAATCAAGCAC": {
+      "genome5_unique": [
+        174
+      ]
+    },
+    "TACACCTGTTCGATATTGTAAATCAAGCACA": {
+      "genome5_unique": [
+        175
+      ]
+    },
+    "ACACCTGTTCGATATTGTAAATCAAGCACAA": {
+      "genome5_unique": [
+        176
+      ]
+    },
+    "CACCTGTTCGATATTGTAAATCAAGCACAAA": {
+      "genome5_unique": [
+        177
+      ]
+    },
+    "ACCTGTTCGATATTGTAAATCAAGCACAAAC": {
+      "genome5_unique": [
+        178
+      ]
+    },
+    "CCTGTTCGATATTGTAAATCAAGCACAAACG": {
+      "genome5_unique": [
+        179
+      ]
+    },
+    "CTGTTCGATATTGTAAATCAAGCACAAACGA": {
+      "genome5_unique": [
+        180
+      ]
+    },
+    "TGTTCGATATTGTAAATCAAGCACAAACGAA": {
+      "genome5_unique": [
+        181
+      ]
+    },
+    "GTTCGATATTGTAAATCAAGCACAAACGAAA": {
+      "genome5_unique": [
+        182
+      ]
+    },
+    "TTCGATATTGTAAATCAAGCACAAACGAAAT": {
+      "genome5_unique": [
+        183
+      ]
+    },
+    "TCGATATTGTAAATCAAGCACAAACGAAATA": {
+      "genome5_unique": [
+        184
+      ]
+    },
+    "CGATATTGTAAATCAAGCACAAACGAAATAG": {
+      "genome5_unique": [
+        185
+      ]
+    },
+    "GATATTGTAAATCAAGCACAAACGAAATAGT": {
+      "genome5_unique": [
+        186
+      ]
+    },
+    "ATATTGTAAATCAAGCACAAACGAAATAGTA": {
+      "genome5_unique": [
+        187
+      ]
+    },
+    "TATTGTAAATCAAGCACAAACGAAATAGTAT": {
+      "genome5_unique": [
+        188
+      ]
+    },
+    "ATTGTAAATCAAGCACAAACGAAATAGTATC": {
+      "genome5_unique": [
+        189
+      ]
+    },
+    "TTGTAAATCAAGCACAAACGAAATAGTATCT": {
+      "genome5_unique": [
+        190
+      ]
+    },
+    "TGTAAATCAAGCACAAACGAAATAGTATCTC": {
+      "genome5_unique": [
+        191
+      ]
+    },
+    "GTAAATCAAGCACAAACGAAATAGTATCTCT": {
+      "genome5_unique": [
+        192
+      ]
+    },
+    "TAAATCAAGCACAAACGAAATAGTATCTCTA": {
+      "genome5_unique": [
+        193
+      ]
+    },
+    "AAATCAAGCACAAACGAAATAGTATCTCTAT": {
+      "genome5_unique": [
+        194
+      ]
+    },
+    "AATCAAGCACAAACGAAATAGTATCTCTATC": {
+      "genome5_unique": [
+        195
+      ]
+    },
+    "ATCAAGCACAAACGAAATAGTATCTCTATCC": {
+      "genome5_unique": [
+        196
+      ]
+    },
+    "TCAAGCACAAACGAAATAGTATCTCTATCCT": {
+      "genome5_unique": [
+        197
+      ]
+    },
+    "CAAGCACAAACGAAATAGTATCTCTATCCTT": {
+      "genome5_unique": [
+        198
+      ]
+    },
+    "AAGCACAAACGAAATAGTATCTCTATCCTTA": {
+      "genome5_unique": [
+        199
+      ]
+    },
+    "AGCACAAACGAAATAGTATCTCTATCCTTAT": {
+      "genome5_unique": [
+        200
+      ]
+    },
+    "GCACAAACGAAATAGTATCTCTATCCTTATT": {
+      "genome5_unique": [
+        201
+      ]
+    },
+    "CACAAACGAAATAGTATCTCTATCCTTATTA": {
+      "genome5_unique": [
+        202
+      ]
+    },
+    "ACAAACGAAATAGTATCTCTATCCTTATTAT": {
+      "genome5_unique": [
+        203
+      ]
+    },
+    "CAAACGAAATAGTATCTCTATCCTTATTATA": {
+      "genome5_unique": [
+        204
+      ]
+    },
+    "AAACGAAATAGTATCTCTATCCTTATTATAT": {
+      "genome5_unique": [
+        205
+      ]
+    },
+    "AACGAAATAGTATCTCTATCCTTATTATATA": {
+      "genome5_unique": [
+        206
+      ]
+    },
+    "ACGAAATAGTATCTCTATCCTTATTATATAT": {
+      "genome5_unique": [
+        207
+      ]
+    },
+    "CGAAATAGTATCTCTATCCTTATTATATATA": {
+      "genome5_unique": [
+        208
+      ]
+    },
+    "GAAATAGTATCTCTATCCTTATTATATATAT": {
+      "genome5_unique": [
+        209
+      ]
+    },
+    "AAATAGTATCTCTATCCTTATTATATATATA": {
+      "genome5_unique": [
+        210
+      ]
+    },
+    "AATAGTATCTCTATCCTTATTATATATATAA": {
+      "genome5_unique": [
+        211
+      ]
+    },
+    "ATAGTATCTCTATCCTTATTATATATATAAG": {
+      "genome5_unique": [
+        212
+      ]
+    },
+    "TAGTATCTCTATCCTTATTATATATATAAGA": {
+      "genome5_unique": [
+        213
+      ]
+    },
+    "AGTATCTCTATCCTTATTATATATATAAGAG": {
+      "genome5_unique": [
+        214
+      ]
+    },
+    "GTATCTCTATCCTTATTATATATATAAGAGT": {
+      "genome5_unique": [
+        215
+      ]
+    },
+    "TATCTCTATCCTTATTATATATATAAGAGTT": {
+      "genome5_unique": [
+        216
+      ]
+    },
+    "ATCTCTATCCTTATTATATATATAAGAGTTT": {
+      "genome5_unique": [
+        217
+      ]
+    },
+    "TCTCTATCCTTATTATATATATAAGAGTTTT": {
+      "genome5_unique": [
+        218
+      ]
+    },
+    "CTCTATCCTTATTATATATATAAGAGTTTTT": {
+      "genome5_unique": [
+        219
+      ]
+    },
+    "TCTATCCTTATTATATATATAAGAGTTTTTT": {
+      "genome5_unique": [
+        220
+      ]
+    },
+    "CTATCCTTATTATATATATAAGAGTTTTTTA": {
+      "genome5_unique": [
+        221
+      ]
+    },
+    "TATCCTTATTATATATATAAGAGTTTTTTAT": {
+      "genome5_unique": [
+        222
+      ]
+    },
+    "ATCCTTATTATATATATAAGAGTTTTTTATT": {
+      "genome5_unique": [
+        223
+      ]
+    },
+    "TCCTTATTATATATATAAGAGTTTTTTATTC": {
+      "genome5_unique": [
+        224
+      ]
+    },
+    "CCTTATTATATATATAAGAGTTTTTTATTCC": {
+      "genome5_unique": [
+        225
+      ]
+    },
+    "CTTATTATATATATAAGAGTTTTTTATTCCT": {
+      "genome5_unique": [
+        226
+      ]
+    },
+    "TTATTATATATATAAGAGTTTTTTATTCCTG": {
+      "genome5_unique": [
+        227
+      ]
+    },
+    "TATTATATATATAAGAGTTTTTTATTCCTGA": {
+      "genome5_unique": [
+        228
+      ]
+    },
+    "ATTATATATATAAGAGTTTTTTATTCCTGAA": {
+      "genome5_unique": [
+        229
+      ]
+    },
+    "TTATATATATAAGAGTTTTTTATTCCTGAAA": {
+      "genome5_unique": [
+        230
+      ]
+    },
+    "TATATATATAAGAGTTTTTTATTCCTGAAAA": {
+      "genome5_unique": [
+        231
+      ]
+    },
+    "ATATATATAAGAGTTTTTTATTCCTGAAAAG": {
+      "genome5_unique": [
+        232
+      ]
+    },
+    "TATATATAAGAGTTTTTTATTCCTGAAAAGT": {
+      "genome5_unique": [
+        233
+      ]
+    },
+    "ATATATAAGAGTTTTTTATTCCTGAAAAGTC": {
+      "genome5_unique": [
+        234
+      ]
+    },
+    "TATATAAGAGTTTTTTATTCCTGAAAAGTCC": {
+      "genome5_unique": [
+        235
+      ]
+    },
+    "ATATAAGAGTTTTTTATTCCTGAAAAGTCCT": {
+      "genome5_unique": [
+        236
+      ]
+    },
+    "TATAAGAGTTTTTTATTCCTGAAAAGTCCTC": {
+      "genome5_unique": [
+        237
+      ]
+    },
+    "ATAAGAGTTTTTTATTCCTGAAAAGTCCTCC": {
+      "genome5_unique": [
+        238
+      ]
+    },
+    "TAAGAGTTTTTTATTCCTGAAAAGTCCTCCA": {
+      "genome5_unique": [
+        239
+      ]
+    },
+    "AAGAGTTTTTTATTCCTGAAAAGTCCTCCAA": {
+      "genome5_unique": [
+        240
+      ]
+    },
+    "AGAGTTTTTTATTCCTGAAAAGTCCTCCAAA": {
+      "genome5_unique": [
+        241
+      ]
+    },
+    "GAGTTTTTTATTCCTGAAAAGTCCTCCAAAA": {
+      "genome5_unique": [
+        242
+      ]
+    },
+    "AGTTTTTTATTCCTGAAAAGTCCTCCAAAAA": {
+      "genome5_unique": [
+        243
+      ]
+    },
+    "GTTTTTTATTCCTGAAAAGTCCTCCAAAAAA": {
+      "genome5_unique": [
+        244
+      ]
+    },
+    "TTTTTTATTCCTGAAAAGTCCTCCAAAAAAG": {
+      "genome5_unique": [
+        245
+      ]
+    },
+    "TTTTTATTCCTGAAAAGTCCTCCAAAAAAGA": {
+      "genome5_unique": [
+        246
+      ]
+    },
+    "TTTTATTCCTGAAAAGTCCTCCAAAAAAGAC": {
+      "genome5_unique": [
+        247
+      ]
+    },
+    "TTTATTCCTGAAAAGTCCTCCAAAAAAGACA": {
+      "genome5_unique": [
+        248
+      ]
+    },
+    "TTATTCCTGAAAAGTCCTCCAAAAAAGACAA": {
+      "genome5_unique": [
+        249
+      ]
+    },
+    "TATTCCTGAAAAGTCCTCCAAAAAAGACAAA": {
+      "genome5_unique": [
+        250
+      ]
+    },
+    "ATTCCTGAAAAGTCCTCCAAAAAAGACAAAT": {
+      "genome5_unique": [
+        251
+      ]
+    },
+    "TTCCTGAAAAGTCCTCCAAAAAAGACAAATA": {
+      "genome5_unique": [
+        252
+      ]
+    },
+    "TCCTGAAAAGTCCTCCAAAAAAGACAAATAT": {
+      "genome5_unique": [
+        253
+      ]
+    },
+    "CCTGAAAAGTCCTCCAAAAAAGACAAATATT": {
+      "genome5_unique": [
+        254
+      ]
+    },
+    "CTGAAAAGTCCTCCAAAAAAGACAAATATTC": {
+      "genome5_unique": [
+        255
+      ]
+    },
+    "TGAAAAGTCCTCCAAAAAAGACAAATATTCA": {
+      "genome5_unique": [
+        256
+      ]
+    },
+    "GAAAAGTCCTCCAAAAAAGACAAATATTCAT": {
+      "genome5_unique": [
+        257
+      ]
+    },
+    "AAAAGTCCTCCAAAAAAGACAAATATTCATT": {
+      "genome5_unique": [
+        258
+      ]
+    },
+    "AAAGTCCTCCAAAAAAGACAAATATTCATTT": {
+      "genome5_unique": [
+        259
+      ]
+    },
+    "AAGTCCTCCAAAAAAGACAAATATTCATTTT": {
+      "genome5_unique": [
+        260
+      ]
+    },
+    "AGTCCTCCAAAAAAGACAAATATTCATTTTC": {
+      "genome5_unique": [
+        261
+      ]
+    },
+    "GTCCTCCAAAAAAGACAAATATTCATTTTCA": {
+      "genome5_unique": [
+        262
+      ]
+    },
+    "TCCTCCAAAAAAGACAAATATTCATTTTCAA": {
+      "genome5_unique": [
+        263
+      ]
+    },
+    "CCTCCAAAAAAGACAAATATTCATTTTCAAT": {
+      "genome5_unique": [
+        264
+      ]
+    },
+    "CTCCAAAAAAGACAAATATTCATTTTCAATT": {
+      "genome5_unique": [
+        265
+      ]
+    },
+    "TCCAAAAAAGACAAATATTCATTTTCAATTT": {
+      "genome5_unique": [
+        266
+      ]
+    },
+    "CCAAAAAAGACAAATATTCATTTTCAATTTC": {
+      "genome5_unique": [
+        267
+      ]
+    },
+    "CAAAAAAGACAAATATTCATTTTCAATTTCT": {
+      "genome5_unique": [
+        268
+      ]
+    },
+    "AAAAAAGACAAATATTCATTTTCAATTTCTC": {
+      "genome5_unique": [
+        269
+      ]
+    },
+    "AAAAAGACAAATATTCATTTTCAATTTCTCT": {
+      "genome5_unique": [
+        270
+      ]
+    },
+    "AAAAGACAAATATTCATTTTCAATTTCTCTA": {
+      "genome5_unique": [
+        271
+      ]
+    },
+    "AAAGACAAATATTCATTTTCAATTTCTCTAT": {
+      "genome5_unique": [
+        272
+      ]
+    },
+    "AAGACAAATATTCATTTTCAATTTCTCTATT": {
+      "genome5_unique": [
+        273
+      ]
+    },
+    "AGACAAATATTCATTTTCAATTTCTCTATTT": {
+      "genome5_unique": [
+        274
+      ]
+    },
+    "GACAAATATTCATTTTCAATTTCTCTATTTT": {
+      "genome5_unique": [
+        275
+      ]
+    },
+    "ACAAATATTCATTTTCAATTTCTCTATTTTT": {
+      "genome5_unique": [
+        276
+      ]
+    },
+    "CAAATATTCATTTTCAATTTCTCTATTTTTG": {
+      "genome5_unique": [
+        277
+      ]
+    },
+    "AAATATTCATTTTCAATTTCTCTATTTTTGT": {
+      "genome5_unique": [
+        278
+      ]
+    },
+    "AATATTCATTTTCAATTTCTCTATTTTTGTT": {
+      "genome5_unique": [
+        279
+      ]
+    },
+    "ATATTCATTTTCAATTTCTCTATTTTTGTTG": {
+      "genome5_unique": [
+        280
+      ]
+    },
+    "TATTCATTTTCAATTTCTCTATTTTTGTTGT": {
+      "genome5_unique": [
+        281
+      ]
+    },
+    "ATTCATTTTCAATTTCTCTATTTTTGTTGTT": {
+      "genome5_unique": [
+        282
+      ]
+    },
+    "TTCATTTTCAATTTCTCTATTTTTGTTGTTT": {
+      "genome5_unique": [
+        283
+      ]
+    },
+    "TCATTTTCAATTTCTCTATTTTTGTTGTTTT": {
+      "genome5_unique": [
+        284
+      ]
+    },
+    "CATTTTCAATTTCTCTATTTTTGTTGTTTTT": {
+      "genome5_unique": [
+        285
+      ]
+    },
+    "ATTTTCAATTTCTCTATTTTTGTTGTTTTTT": {
+      "genome5_unique": [
+        286
+      ]
+    },
+    "TTTTCAATTTCTCTATTTTTGTTGTTTTTTA": {
+      "genome5_unique": [
+        287
+      ]
+    },
+    "TTTCAATTTCTCTATTTTTGTTGTTTTTTAA": {
+      "genome5_unique": [
+        288
+      ]
+    },
+    "TTCAATTTCTCTATTTTTGTTGTTTTTTAAG": {
+      "genome5_unique": [
+        289
+      ]
+    },
+    "TCAATTTCTCTATTTTTGTTGTTTTTTAAGA": {
+      "genome5_unique": [
+        290
+      ]
+    },
+    "CAATTTCTCTATTTTTGTTGTTTTTTAAGAT": {
+      "genome5_unique": [
+        291
+      ]
+    },
+    "AATTTCTCTATTTTTGTTGTTTTTTAAGATA": {
+      "genome5_unique": [
+        292
+      ]
+    },
+    "ATTTCTCTATTTTTGTTGTTTTTTAAGATAT": {
+      "genome5_unique": [
+        293
+      ]
+    },
+    "TTTCTCTATTTTTGTTGTTTTTTAAGATATA": {
+      "genome5_unique": [
+        294
+      ]
+    },
+    "TTCTCTATTTTTGTTGTTTTTTAAGATATAA": {
+      "genome5_unique": [
+        295
+      ]
+    },
+    "TCTCTATTTTTGTTGTTTTTTAAGATATAAC": {
+      "genome5_unique": [
+        296
+      ]
+    },
+    "CTCTATTTTTGTTGTTTTTTAAGATATAACC": {
+      "genome5_unique": [
+        297
+      ]
+    },
+    "TCTATTTTTGTTGTTTTTTAAGATATAACCT": {
+      "genome5_unique": [
+        298
+      ]
+    },
+    "CTATTTTTGTTGTTTTTTAAGATATAACCTA": {
+      "genome5_unique": [
+        299
+      ]
+    },
+    "TATTTTTGTTGTTTTTTAAGATATAACCTAG": {
+      "genome5_unique": [
+        300
+      ]
+    },
+    "ATTTTTGTTGTTTTTTAAGATATAACCTAGT": {
+      "genome5_unique": [
+        301
+      ]
+    },
+    "TTTTTGTTGTTTTTTAAGATATAACCTAGTA": {
+      "genome5_unique": [
+        302
+      ]
+    },
+    "TTTTGTTGTTTTTTAAGATATAACCTAGTAC": {
+      "genome5_unique": [
+        303
+      ]
+    },
+    "TTTGTTGTTTTTTAAGATATAACCTAGTACT": {
+      "genome5_unique": [
+        304
+      ]
+    },
+    "TTGTTGTTTTTTAAGATATAACCTAGTACTT": {
+      "genome5_unique": [
+        305
+      ]
+    },
+    "TGTTGTTTTTTAAGATATAACCTAGTACTTT": {
+      "genome5_unique": [
+        306
+      ]
+    },
+    "GTTGTTTTTTAAGATATAACCTAGTACTTTA": {
+      "genome5_unique": [
+        307
+      ]
+    },
+    "TTGTTTTTTAAGATATAACCTAGTACTTTAT": {
+      "genome5_unique": [
+        308
+      ]
+    },
+    "TGTTTTTTAAGATATAACCTAGTACTTTATT": {
+      "genome5_unique": [
+        309
+      ]
+    },
+    "GTTTTTTAAGATATAACCTAGTACTTTATTG": {
+      "genome5_unique": [
+        310
+      ]
+    },
+    "TTTTTTAAGATATAACCTAGTACTTTATTGG": {
+      "genome5_unique": [
+        311
+      ]
+    },
+    "TTTTTAAGATATAACCTAGTACTTTATTGGT": {
+      "genome5_unique": [
+        312
+      ]
+    },
+    "TTTTAAGATATAACCTAGTACTTTATTGGTT": {
+      "genome5_unique": [
+        313
+      ]
+    },
+    "TTTAAGATATAACCTAGTACTTTATTGGTTT": {
+      "genome5_unique": [
+        314
+      ]
+    },
+    "TTAAGATATAACCTAGTACTTTATTGGTTTT": {
+      "genome5_unique": [
+        315
+      ]
+    },
+    "TAAGATATAACCTAGTACTTTATTGGTTTTC": {
+      "genome5_unique": [
+        316
+      ]
+    },
+    "AAGATATAACCTAGTACTTTATTGGTTTTCT": {
+      "genome5_unique": [
+        317
+      ]
+    },
+    "AGATATAACCTAGTACTTTATTGGTTTTCTC": {
+      "genome5_unique": [
+        318
+      ]
+    },
+    "GATATAACCTAGTACTTTATTGGTTTTCTCT": {
+      "genome5_unique": [
+        319
+      ]
+    },
+    "ATATAACCTAGTACTTTATTGGTTTTCTCTT": {
+      "genome5_unique": [
+        320
+      ]
+    },
+    "TATAACCTAGTACTTTATTGGTTTTCTCTTT": {
+      "genome5_unique": [
+        321
+      ]
+    },
+    "ATAACCTAGTACTTTATTGGTTTTCTCTTTT": {
+      "genome5_unique": [
+        322
+      ]
+    },
+    "TAACCTAGTACTTTATTGGTTTTCTCTTTTA": {
+      "genome5_unique": [
+        323
+      ]
+    },
+    "AACCTAGTACTTTATTGGTTTTCTCTTTTAA": {
+      "genome5_unique": [
+        324
+      ]
+    },
+    "ACCTAGTACTTTATTGGTTTTCTCTTTTAAA": {
+      "genome5_unique": [
+        325
+      ]
+    },
+    "CCTAGTACTTTATTGGTTTTCTCTTTTAAAA": {
+      "genome5_unique": [
+        326
+      ]
+    },
+    "CTAGTACTTTATTGGTTTTCTCTTTTAAAAA": {
+      "genome5_unique": [
+        327
+      ]
+    },
+    "TAGTACTTTATTGGTTTTCTCTTTTAAAAAC": {
+      "genome5_unique": [
+        328
+      ]
+    },
+    "AGTACTTTATTGGTTTTCTCTTTTAAAAACG": {
+      "genome5_unique": [
+        329
+      ]
+    },
+    "GTACTTTATTGGTTTTCTCTTTTAAAAACGA": {
+      "genome5_unique": [
+        330
+      ]
+    },
+    "TACTTTATTGGTTTTCTCTTTTAAAAACGAA": {
+      "genome5_unique": [
+        331
+      ]
+    },
+    "ACTTTATTGGTTTTCTCTTTTAAAAACGAAC": {
+      "genome5_unique": [
+        332
+      ]
+    },
+    "CTTTATTGGTTTTCTCTTTTAAAAACGAACA": {
+      "genome5_unique": [
+        333
+      ]
+    },
+    "TTTATTGGTTTTCTCTTTTAAAAACGAACAA": {
+      "genome5_unique": [
+        334
+      ]
+    },
+    "TTATTGGTTTTCTCTTTTAAAAACGAACAAG": {
+      "genome5_unique": [
+        335
+      ]
+    },
+    "TATTGGTTTTCTCTTTTAAAAACGAACAAGG": {
+      "genome5_unique": [
+        336
+      ]
+    },
+    "ATTGGTTTTCTCTTTTAAAAACGAACAAGGA": {
+      "genome5_unique": [
+        337
+      ]
+    },
+    "TTGGTTTTCTCTTTTAAAAACGAACAAGGAA": {
+      "genome5_unique": [
+        338
+      ]
+    },
+    "TGGTTTTCTCTTTTAAAAACGAACAAGGAAA": {
+      "genome5_unique": [
+        339
+      ]
+    },
+    "GGTTTTCTCTTTTAAAAACGAACAAGGAAAC": {
+      "genome5_unique": [
+        340
+      ]
+    },
+    "GTTTTCTCTTTTAAAAACGAACAAGGAAACA": {
+      "genome5_unique": [
+        341
+      ]
+    },
+    "TTTTCTCTTTTAAAAACGAACAAGGAAACAC": {
+      "genome5_unique": [
+        342
+      ]
+    },
+    "TTTCTCTTTTAAAAACGAACAAGGAAACACT": {
+      "genome5_unique": [
+        343
+      ]
+    },
+    "TTCTCTTTTAAAAACGAACAAGGAAACACTA": {
+      "genome5_unique": [
+        344
+      ]
+    },
+    "TCTCTTTTAAAAACGAACAAGGAAACACTAA": {
+      "genome5_unique": [
+        345
+      ]
+    },
+    "CTCTTTTAAAAACGAACAAGGAAACACTAAT": {
+      "genome5_unique": [
+        346
+      ]
+    },
+    "TCTTTTAAAAACGAACAAGGAAACACTAATA": {
+      "genome5_unique": [
+        347
+      ]
+    },
+    "CTTTTAAAAACGAACAAGGAAACACTAATAA": {
+      "genome5_unique": [
+        348
+      ]
+    },
+    "TTTTAAAAACGAACAAGGAAACACTAATAAA": {
+      "genome5_unique": [
+        349
+      ]
+    },
+    "TTTAAAAACGAACAAGGAAACACTAATAAAT": {
+      "genome5_unique": [
+        350
+      ]
+    },
+    "TTAAAAACGAACAAGGAAACACTAATAAATC": {
+      "genome5_unique": [
+        351
+      ]
+    },
+    "TAAAAACGAACAAGGAAACACTAATAAATCT": {
+      "genome5_unique": [
+        352
+      ]
+    },
+    "AAAAACGAACAAGGAAACACTAATAAATCTT": {
+      "genome5_unique": [
+        353
+      ]
+    },
+    "AAAACGAACAAGGAAACACTAATAAATCTTT": {
+      "genome5_unique": [
+        354
+      ]
+    },
+    "AAACGAACAAGGAAACACTAATAAATCTTTA": {
+      "genome5_unique": [
+        355
+      ]
+    },
+    "AACGAACAAGGAAACACTAATAAATCTTTAA": {
+      "genome5_unique": [
+        356
+      ]
+    },
+    "ACGAACAAGGAAACACTAATAAATCTTTAAA": {
+      "genome5_unique": [
+        357
+      ]
+    },
+    "CGAACAAGGAAACACTAATAAATCTTTAAAA": {
+      "genome5_unique": [
+        358
+      ]
+    },
+    "GAACAAGGAAACACTAATAAATCTTTAAAAA": {
+      "genome5_unique": [
+        359
+      ]
+    },
+    "AACAAGGAAACACTAATAAATCTTTAAAAAT": {
+      "genome5_unique": [
+        360
+      ]
+    },
+    "ACAAGGAAACACTAATAAATCTTTAAAAATC": {
+      "genome5_unique": [
+        361
+      ]
+    },
+    "CAAGGAAACACTAATAAATCTTTAAAAATCT": {
+      "genome5_unique": [
+        362
+      ]
+    },
+    "AAGGAAACACTAATAAATCTTTAAAAATCTC": {
+      "genome5_unique": [
+        363
+      ]
+    },
+    "AGGAAACACTAATAAATCTTTAAAAATCTCA": {
+      "genome5_unique": [
+        364
+      ]
+    },
+    "GGAAACACTAATAAATCTTTAAAAATCTCAA": {
+      "genome5_unique": [
+        365
+      ]
+    },
+    "GAAACACTAATAAATCTTTAAAAATCTCAAA": {
+      "genome5_unique": [
+        366
+      ]
+    },
+    "AAACACTAATAAATCTTTAAAAATCTCAAAA": {
+      "genome5_unique": [
+        367
+      ]
+    },
+    "AACACTAATAAATCTTTAAAAATCTCAAAAT": {
+      "genome5_unique": [
+        368
+      ]
+    },
+    "ACACTAATAAATCTTTAAAAATCTCAAAATT": {
+      "genome5_unique": [
+        369
+      ]
+    },
+    "CACTAATAAATCTTTAAAAATCTCAAAATTT": {
+      "genome5_unique": [
+        370
+      ]
+    },
+    "ACTAATAAATCTTTAAAAATCTCAAAATTTT": {
+      "genome5_unique": [
+        371
+      ]
+    },
+    "CTAATAAATCTTTAAAAATCTCAAAATTTTG": {
+      "genome5_unique": [
+        372
+      ]
+    },
+    "TAATAAATCTTTAAAAATCTCAAAATTTTGT": {
+      "genome5_unique": [
+        373
+      ]
+    },
+    "AATAAATCTTTAAAAATCTCAAAATTTTGTA": {
+      "genome5_unique": [
+        374
+      ]
+    },
+    "ATAAATCTTTAAAAATCTCAAAATTTTGTAT": {
+      "genome5_unique": [
+        375
+      ]
+    },
+    "TAAATCTTTAAAAATCTCAAAATTTTGTATA": {
+      "genome5_unique": [
+        376
+      ]
+    },
+    "AAATCTTTAAAAATCTCAAAATTTTGTATAT": {
+      "genome5_unique": [
+        377
+      ]
+    },
+    "AATCTTTAAAAATCTCAAAATTTTGTATATC": {
+      "genome5_unique": [
+        378
+      ]
+    },
+    "ATCTTTAAAAATCTCAAAATTTTGTATATCT": {
+      "genome5_unique": [
+        379
+      ]
+    },
+    "TCTTTAAAAATCTCAAAATTTTGTATATCTT": {
+      "genome5_unique": [
+        380
+      ]
+    },
+    "CTTTAAAAATCTCAAAATTTTGTATATCTTG": {
+      "genome5_unique": [
+        381
+      ]
+    },
+    "TTTAAAAATCTCAAAATTTTGTATATCTTGA": {
+      "genome5_unique": [
+        382
+      ]
+    },
+    "TTAAAAATCTCAAAATTTTGTATATCTTGAA": {
+      "genome5_unique": [
+        383
+      ]
+    },
+    "TAAAAATCTCAAAATTTTGTATATCTTGAAA": {
+      "genome5_unique": [
+        384
+      ]
+    },
+    "AAAAATCTCAAAATTTTGTATATCTTGAAAA": {
+      "genome5_unique": [
+        385
+      ]
+    },
+    "AAAATCTCAAAATTTTGTATATCTTGAAAAT": {
+      "genome5_unique": [
+        386
+      ]
+    },
+    "AAATCTCAAAATTTTGTATATCTTGAAAATT": {
+      "genome5_unique": [
+        387
+      ]
+    },
+    "AATCTCAAAATTTTGTATATCTTGAAAATTC": {
+      "genome5_unique": [
+        388
+      ]
+    },
+    "ATCTCAAAATTTTGTATATCTTGAAAATTCG": {
+      "genome5_unique": [
+        389
+      ]
+    },
+    "TCTCAAAATTTTGTATATCTTGAAAATTCGT": {
+      "genome5_unique": [
+        390
+      ]
+    },
+    "CTCAAAATTTTGTATATCTTGAAAATTCGTA": {
+      "genome5_unique": [
+        391
+      ]
+    },
+    "TCAAAATTTTGTATATCTTGAAAATTCGTAT": {
+      "genome5_unique": [
+        392
+      ]
+    },
+    "CAAAATTTTGTATATCTTGAAAATTCGTATC": {
+      "genome5_unique": [
+        393
+      ]
+    },
+    "AAAATTTTGTATATCTTGAAAATTCGTATCG": {
+      "genome5_unique": [
+        394
+      ]
+    },
+    "AAATTTTGTATATCTTGAAAATTCGTATCGT": {
+      "genome5_unique": [
+        395
+      ]
+    },
+    "AATTTTGTATATCTTGAAAATTCGTATCGTT": {
+      "genome5_unique": [
+        396
+      ]
+    },
+    "ATTTTGTATATCTTGAAAATTCGTATCGTTC": {
+      "genome5_unique": [
+        397
+      ]
+    },
+    "TTTTGTATATCTTGAAAATTCGTATCGTTCA": {
+      "genome5_unique": [
+        398
+      ]
+    },
+    "TTTGTATATCTTGAAAATTCGTATCGTTCAA": {
+      "genome5_unique": [
+        399
+      ]
+    },
+    "TTGTATATCTTGAAAATTCGTATCGTTCAAA": {
+      "genome5_unique": [
+        400
+      ]
+    },
+    "TGTATATCTTGAAAATTCGTATCGTTCAAAA": {
+      "genome5_unique": [
+        401
+      ]
+    },
+    "GTATATCTTGAAAATTCGTATCGTTCAAAAA": {
+      "genome5_unique": [
+        402
+      ]
+    },
+    "TATATCTTGAAAATTCGTATCGTTCAAAAAC": {
+      "genome5_unique": [
+        403
+      ]
+    },
+    "ATATCTTGAAAATTCGTATCGTTCAAAAACA": {
+      "genome5_unique": [
+        404
+      ]
+    },
+    "TATCTTGAAAATTCGTATCGTTCAAAAACAG": {
+      "genome5_unique": [
+        405
+      ]
+    },
+    "ATCTTGAAAATTCGTATCGTTCAAAAACAGA": {
+      "genome5_unique": [
+        406
+      ]
+    },
+    "TCTTGAAAATTCGTATCGTTCAAAAACAGAA": {
+      "genome5_unique": [
+        407
+      ]
+    },
+    "CTTGAAAATTCGTATCGTTCAAAAACAGAAA": {
+      "genome5_unique": [
+        408
+      ]
+    },
+    "TTGAAAATTCGTATCGTTCAAAAACAGAAAA": {
+      "genome5_unique": [
+        409
+      ]
+    },
+    "TGAAAATTCGTATCGTTCAAAAACAGAAAAT": {
+      "genome5_unique": [
+        410
+      ]
+    },
+    "GAAAATTCGTATCGTTCAAAAACAGAAAATA": {
+      "genome5_unique": [
+        411
+      ]
+    },
+    "AAAATTCGTATCGTTCAAAAACAGAAAATAA": {
+      "genome5_unique": [
+        412
+      ]
+    },
+    "AAATTCGTATCGTTCAAAAACAGAAAATAAT": {
+      "genome5_unique": [
+        413
+      ]
+    },
+    "AATTCGTATCGTTCAAAAACAGAAAATAATT": {
+      "genome5_unique": [
+        414
+      ]
+    },
+    "ATTCGTATCGTTCAAAAACAGAAAATAATTA": {
+      "genome5_unique": [
+        415
+      ]
+    },
+    "TTCGTATCGTTCAAAAACAGAAAATAATTAT": {
+      "genome5_unique": [
+        416
+      ]
+    },
+    "TCGTATCGTTCAAAAACAGAAAATAATTATC": {
+      "genome5_unique": [
+        417
+      ]
+    },
+    "CGTATCGTTCAAAAACAGAAAATAATTATCA": {
+      "genome5_unique": [
+        418
+      ]
+    },
+    "GTATCGTTCAAAAACAGAAAATAATTATCAA": {
+      "genome5_unique": [
+        419
+      ]
+    },
+    "TATCGTTCAAAAACAGAAAATAATTATCAAA": {
+      "genome5_unique": [
+        420
+      ]
+    },
+    "ATCGTTCAAAAACAGAAAATAATTATCAAAT": {
+      "genome5_unique": [
+        421
+      ]
+    },
+    "TCGTTCAAAAACAGAAAATAATTATCAAATT": {
+      "genome5_unique": [
+        422
+      ]
+    },
+    "CGTTCAAAAACAGAAAATAATTATCAAATTT": {
+      "genome5_unique": [
+        423
+      ]
+    },
+    "GTTCAAAAACAGAAAATAATTATCAAATTTA": {
+      "genome5_unique": [
+        424
+      ]
+    },
+    "TTCAAAAACAGAAAATAATTATCAAATTTAC": {
+      "genome5_unique": [
+        425
+      ]
+    },
+    "TCAAAAACAGAAAATAATTATCAAATTTACA": {
+      "genome5_unique": [
+        426
+      ]
+    },
+    "CAAAAACAGAAAATAATTATCAAATTTACAG": {
+      "genome5_unique": [
+        427
+      ]
+    },
+    "AAAAACAGAAAATAATTATCAAATTTACAGG": {
+      "genome5_unique": [
+        428
+      ]
+    },
+    "AAAACAGAAAATAATTATCAAATTTACAGGT": {
+      "genome5_unique": [
+        429
+      ]
+    },
+    "AAACAGAAAATAATTATCAAATTTACAGGTT": {
+      "genome5_unique": [
+        430
+      ]
+    },
+    "AACAGAAAATAATTATCAAATTTACAGGTTC": {
+      "genome5_unique": [
+        431
+      ]
+    },
+    "ACAGAAAATAATTATCAAATTTACAGGTTCC": {
+      "genome5_unique": [
+        432
+      ]
+    },
+    "CAGAAAATAATTATCAAATTTACAGGTTCCA": {
+      "genome5_unique": [
+        433
+      ]
+    },
+    "AGAAAATAATTATCAAATTTACAGGTTCCAT": {
+      "genome5_unique": [
+        434
+      ]
+    },
+    "GAAAATAATTATCAAATTTACAGGTTCCATC": {
+      "genome5_unique": [
+        435
+      ]
+    },
+    "AAAATAATTATCAAATTTACAGGTTCCATCA": {
+      "genome5_unique": [
+        436
+      ]
+    },
+    "AAATAATTATCAAATTTACAGGTTCCATCAA": {
+      "genome5_unique": [
+        437
+      ]
+    },
+    "AATAATTATCAAATTTACAGGTTCCATCAAA": {
+      "genome5_unique": [
+        438
+      ]
+    },
+    "ATAATTATCAAATTTACAGGTTCCATCAAAA": {
+      "genome5_unique": [
+        439
+      ]
+    },
+    "TAATTATCAAATTTACAGGTTCCATCAAAAT": {
+      "genome5_unique": [
+        440
+      ]
+    },
+    "AATTATCAAATTTACAGGTTCCATCAAAATC": {
+      "genome5_unique": [
+        441
+      ]
+    },
+    "ATTATCAAATTTACAGGTTCCATCAAAATCA": {
+      "genome5_unique": [
+        442
+      ]
+    },
+    "TTATCAAATTTACAGGTTCCATCAAAATCAT": {
+      "genome5_unique": [
+        443
+      ]
+    },
+    "TATCAAATTTACAGGTTCCATCAAAATCATT": {
+      "genome5_unique": [
+        444
+      ]
+    },
+    "ATCAAATTTACAGGTTCCATCAAAATCATTT": {
+      "genome5_unique": [
+        445
+      ]
+    },
+    "TCAAATTTACAGGTTCCATCAAAATCATTTA": {
+      "genome5_unique": [
+        446
+      ]
+    },
+    "CAAATTTACAGGTTCCATCAAAATCATTTAA": {
+      "genome5_unique": [
+        447
+      ]
+    },
+    "AAATTTACAGGTTCCATCAAAATCATTTAAA": {
+      "genome5_unique": [
+        448
+      ]
+    },
+    "AATTTACAGGTTCCATCAAAATCATTTAAAC": {
+      "genome5_unique": [
+        449
+      ]
+    },
+    "ATTTACAGGTTCCATCAAAATCATTTAAACA": {
+      "genome5_unique": [
+        450
+      ]
+    },
+    "TTTACAGGTTCCATCAAAATCATTTAAACAA": {
+      "genome5_unique": [
+        451
+      ]
+    },
+    "TTACAGGTTCCATCAAAATCATTTAAACAAA": {
+      "genome5_unique": [
+        452
+      ]
+    },
+    "TACAGGTTCCATCAAAATCATTTAAACAAAT": {
+      "genome5_unique": [
+        453
+      ]
+    },
+    "ACAGGTTCCATCAAAATCATTTAAACAAATA": {
+      "genome5_unique": [
+        454
+      ]
+    },
+    "CAGGTTCCATCAAAATCATTTAAACAAATAA": {
+      "genome5_unique": [
+        455
+      ]
+    },
+    "AGGTTCCATCAAAATCATTTAAACAAATAAA": {
+      "genome5_unique": [
+        456
+      ]
+    },
+    "GGTTCCATCAAAATCATTTAAACAAATAAAA": {
+      "genome5_unique": [
+        457
+      ]
+    },
+    "GTTCCATCAAAATCATTTAAACAAATAAAAT": {
+      "genome5_unique": [
+        458
+      ]
+    },
+    "TTCCATCAAAATCATTTAAACAAATAAAATG": {
+      "genome5_unique": [
+        459
+      ]
+    },
+    "TCCATCAAAATCATTTAAACAAATAAAATGA": {
+      "genome5_unique": [
+        460
+      ]
+    },
+    "CCATCAAAATCATTTAAACAAATAAAATGAA": {
+      "genome5_unique": [
+        461
+      ]
+    },
+    "CATCAAAATCATTTAAACAAATAAAATGAAA": {
+      "genome5_unique": [
+        462
+      ]
+    },
+    "ATCAAAATCATTTAAACAAATAAAATGAAAA": {
+      "genome5_unique": [
+        463
+      ]
+    },
+    "TCAAAATCATTTAAACAAATAAAATGAAAAT": {
+      "genome5_unique": [
+        464
+      ]
+    },
+    "CAAAATCATTTAAACAAATAAAATGAAAATT": {
+      "genome5_unique": [
+        465
+      ]
+    },
+    "AAAATCATTTAAACAAATAAAATGAAAATTT": {
+      "genome5_unique": [
+        466
+      ]
+    },
+    "AAATCATTTAAACAAATAAAATGAAAATTTT": {
+      "genome5_unique": [
+        467
+      ]
+    },
+    "AATCATTTAAACAAATAAAATGAAAATTTTG": {
+      "genome5_unique": [
+        468
+      ]
+    },
+    "ATCATTTAAACAAATAAAATGAAAATTTTGA": {
+      "genome5_unique": [
+        469
+      ]
+    },
+    "TCATTTAAACAAATAAAATGAAAATTTTGAT": {
+      "genome5_unique": [
+        470
+      ]
+    },
+    "CATTTAAACAAATAAAATGAAAATTTTGATT": {
+      "genome5_unique": [
+        471
+      ]
+    },
+    "ATTTAAACAAATAAAATGAAAATTTTGATTT": {
+      "genome5_unique": [
+        472
+      ]
+    },
+    "TTTAAACAAATAAAATGAAAATTTTGATTTG": {
+      "genome5_unique": [
+        473
+      ]
+    },
+    "TTAAACAAATAAAATGAAAATTTTGATTTGT": {
+      "genome5_unique": [
+        474
+      ]
+    },
+    "TAAACAAATAAAATGAAAATTTTGATTTGTA": {
+      "genome5_unique": [
+        475
+      ]
+    },
+    "AAACAAATAAAATGAAAATTTTGATTTGTAA": {
+      "genome5_unique": [
+        476
+      ]
+    },
+    "AACAAATAAAATGAAAATTTTGATTTGTAAC": {
+      "genome5_unique": [
+        477
+      ]
+    },
+    "ACAAATAAAATGAAAATTTTGATTTGTAACA": {
+      "genome5_unique": [
+        478
+      ]
+    },
+    "CAAATAAAATGAAAATTTTGATTTGTAACAA": {
+      "genome5_unique": [
+        479
+      ]
+    },
+    "AAATAAAATGAAAATTTTGATTTGTAACAAT": {
+      "genome5_unique": [
+        480
+      ]
+    },
+    "AATAAAATGAAAATTTTGATTTGTAACAATG": {
+      "genome5_unique": [
+        481
+      ]
+    },
+    "ATAAAATGAAAATTTTGATTTGTAACAATGT": {
+      "genome5_unique": [
+        482
+      ]
+    },
+    "TAAAATGAAAATTTTGATTTGTAACAATGTC": {
+      "genome5_unique": [
+        483
+      ]
+    },
+    "AAAATGAAAATTTTGATTTGTAACAATGTCA": {
+      "genome5_unique": [
+        484
+      ]
+    },
+    "AAATGAAAATTTTGATTTGTAACAATGTCAT": {
+      "genome5_unique": [
+        485
+      ]
+    },
+    "AATGAAAATTTTGATTTGTAACAATGTCATA": {
+      "genome5_unique": [
+        486
+      ]
+    },
+    "ATGAAAATTTTGATTTGTAACAATGTCATAA": {
+      "genome5_unique": [
+        487
+      ]
+    },
+    "TGAAAATTTTGATTTGTAACAATGTCATAAT": {
+      "genome5_unique": [
+        488
+      ]
+    },
+    "GAAAATTTTGATTTGTAACAATGTCATAATG": {
+      "genome5_unique": [
+        489
+      ]
+    },
+    "AAAATTTTGATTTGTAACAATGTCATAATGA": {
+      "genome5_unique": [
+        490
+      ]
+    },
+    "AAATTTTGATTTGTAACAATGTCATAATGAG": {
+      "genome5_unique": [
+        491
+      ]
+    },
+    "AATTTTGATTTGTAACAATGTCATAATGAGT": {
+      "genome5_unique": [
+        492
+      ]
+    },
+    "ATTTTGATTTGTAACAATGTCATAATGAGTT": {
+      "genome5_unique": [
+        493
+      ]
+    },
+    "TTTTGATTTGTAACAATGTCATAATGAGTTA": {
+      "genome5_unique": [
+        494
+      ]
+    },
+    "TTTGATTTGTAACAATGTCATAATGAGTTAA": {
+      "genome5_unique": [
+        495
+      ]
+    },
+    "TTGATTTGTAACAATGTCATAATGAGTTAAA": {
+      "genome5_unique": [
+        496
+      ]
+    },
+    "TGATTTGTAACAATGTCATAATGAGTTAAAT": {
+      "genome5_unique": [
+        497
+      ]
+    },
+    "GATTTGTAACAATGTCATAATGAGTTAAATC": {
+      "genome5_unique": [
+        498
+      ]
+    },
+    "ATTTGTAACAATGTCATAATGAGTTAAATCT": {
+      "genome5_unique": [
+        499
+      ]
+    },
+    "TTTGTAACAATGTCATAATGAGTTAAATCTT": {
+      "genome5_unique": [
+        500
+      ]
+    },
+    "TTGTAACAATGTCATAATGAGTTAAATCTTT": {
+      "genome5_unique": [
+        501
+      ]
+    },
+    "TGTAACAATGTCATAATGAGTTAAATCTTTT": {
+      "genome5_unique": [
+        502
+      ]
+    },
+    "GTAACAATGTCATAATGAGTTAAATCTTTTT": {
+      "genome5_unique": [
+        503
+      ]
+    },
+    "TAACAATGTCATAATGAGTTAAATCTTTTTC": {
+      "genome5_unique": [
+        504
+      ]
+    },
+    "AACAATGTCATAATGAGTTAAATCTTTTTCG": {
+      "genome5_unique": [
+        505
+      ]
+    },
+    "ACAATGTCATAATGAGTTAAATCTTTTTCGT": {
+      "genome5_unique": [
+        506
+      ]
+    },
+    "CAATGTCATAATGAGTTAAATCTTTTTCGTT": {
+      "genome5_unique": [
+        507
+      ]
+    },
+    "AATGTCATAATGAGTTAAATCTTTTTCGTTC": {
+      "genome5_unique": [
+        508
+      ]
+    },
+    "ATGTCATAATGAGTTAAATCTTTTTCGTTCA": {
+      "genome5_unique": [
+        509
+      ]
+    },
+    "TGTCATAATGAGTTAAATCTTTTTCGTTCAG": {
+      "genome5_unique": [
+        510
+      ]
+    },
+    "GTCATAATGAGTTAAATCTTTTTCGTTCAGT": {
+      "genome5_unique": [
+        511
+      ]
+    },
+    "TCATAATGAGTTAAATCTTTTTCGTTCAGTT": {
+      "genome5_unique": [
+        512
+      ]
+    },
+    "CATAATGAGTTAAATCTTTTTCGTTCAGTTT": {
+      "genome5_unique": [
+        513
+      ]
+    },
+    "ATAATGAGTTAAATCTTTTTCGTTCAGTTTT": {
+      "genome5_unique": [
+        514
+      ]
+    },
+    "TAATGAGTTAAATCTTTTTCGTTCAGTTTTG": {
+      "genome5_unique": [
+        515
+      ]
+    },
+    "AATGAGTTAAATCTTTTTCGTTCAGTTTTGA": {
+      "genome5_unique": [
+        516
+      ]
+    },
+    "ATGAGTTAAATCTTTTTCGTTCAGTTTTGAA": {
+      "genome5_unique": [
+        517
+      ]
+    },
+    "TGAGTTAAATCTTTTTCGTTCAGTTTTGAAG": {
+      "genome5_unique": [
+        518
+      ]
+    },
+    "GAGTTAAATCTTTTTCGTTCAGTTTTGAAGT": {
+      "genome5_unique": [
+        519
+      ]
+    },
+    "AGTTAAATCTTTTTCGTTCAGTTTTGAAGTA": {
+      "genome5_unique": [
+        520
+      ]
+    },
+    "GTTAAATCTTTTTCGTTCAGTTTTGAAGTAA": {
+      "genome5_unique": [
+        521
+      ]
+    },
+    "TTAAATCTTTTTCGTTCAGTTTTGAAGTAAG": {
+      "genome5_unique": [
+        522
+      ]
+    },
+    "TAAATCTTTTTCGTTCAGTTTTGAAGTAAGC": {
+      "genome5_unique": [
+        523
+      ]
+    },
+    "AAATCTTTTTCGTTCAGTTTTGAAGTAAGCA": {
+      "genome5_unique": [
+        524
+      ]
+    },
+    "AATCTTTTTCGTTCAGTTTTGAAGTAAGCAA": {
+      "genome5_unique": [
+        525
+      ]
+    },
+    "ATCTTTTTCGTTCAGTTTTGAAGTAAGCAAT": {
+      "genome5_unique": [
+        526
+      ]
+    },
+    "TCTTTTTCGTTCAGTTTTGAAGTAAGCAATT": {
+      "genome5_unique": [
+        527
+      ]
+    },
+    "CTTTTTCGTTCAGTTTTGAAGTAAGCAATTC": {
+      "genome5_unique": [
+        528
+      ]
+    },
+    "TTTTTCGTTCAGTTTTGAAGTAAGCAATTCT": {
+      "genome5_unique": [
+        529
+      ]
+    },
+    "TTTTCGTTCAGTTTTGAAGTAAGCAATTCTT": {
+      "genome5_unique": [
+        530
+      ]
+    },
+    "TTTCGTTCAGTTTTGAAGTAAGCAATTCTTC": {
+      "genome5_unique": [
+        531
+      ]
+    },
+    "TTCGTTCAGTTTTGAAGTAAGCAATTCTTCC": {
+      "genome5_unique": [
+        532
+      ]
+    },
+    "TCGTTCAGTTTTGAAGTAAGCAATTCTTCCA": {
+      "genome5_unique": [
+        533
+      ]
+    },
+    "CGTTCAGTTTTGAAGTAAGCAATTCTTCCAT": {
+      "genome5_unique": [
+        534
+      ]
+    },
+    "GTTCAGTTTTGAAGTAAGCAATTCTTCCATT": {
+      "genome5_unique": [
+        535
+      ]
+    },
+    "TTCAGTTTTGAAGTAAGCAATTCTTCCATTG": {
+      "genome5_unique": [
+        536
+      ]
+    },
+    "TCAGTTTTGAAGTAAGCAATTCTTCCATTGT": {
+      "genome5_unique": [
+        537
+      ]
+    },
+    "CAGTTTTGAAGTAAGCAATTCTTCCATTGTT": {
+      "genome5_unique": [
+        538
+      ]
+    },
+    "AGTTTTGAAGTAAGCAATTCTTCCATTGTTT": {
+      "genome5_unique": [
+        539
+      ]
+    },
+    "GTTTTGAAGTAAGCAATTCTTCCATTGTTTT": {
+      "genome5_unique": [
+        540
+      ]
+    },
+    "TTTTGAAGTAAGCAATTCTTCCATTGTTTTA": {
+      "genome5_unique": [
+        541
+      ]
+    },
+    "TTTGAAGTAAGCAATTCTTCCATTGTTTTAT": {
+      "genome5_unique": [
+        542
+      ]
+    },
+    "TTGAAGTAAGCAATTCTTCCATTGTTTTATT": {
+      "genome5_unique": [
+        543
+      ]
+    },
+    "TGAAGTAAGCAATTCTTCCATTGTTTTATTC": {
+      "genome5_unique": [
+        544
+      ]
+    },
+    "GAAGTAAGCAATTCTTCCATTGTTTTATTCT": {
+      "genome5_unique": [
+        545
+      ]
+    },
+    "AAGTAAGCAATTCTTCCATTGTTTTATTCTC": {
+      "genome5_unique": [
+        546
+      ]
+    },
+    "AGTAAGCAATTCTTCCATTGTTTTATTCTCT": {
+      "genome5_unique": [
+        547
+      ]
+    },
+    "GTAAGCAATTCTTCCATTGTTTTATTCTCTA": {
+      "genome5_unique": [
+        548
+      ]
+    },
+    "TAAGCAATTCTTCCATTGTTTTATTCTCTAG": {
+      "genome5_unique": [
+        549
+      ]
+    },
+    "AAGCAATTCTTCCATTGTTTTATTCTCTAGC": {
+      "genome5_unique": [
+        550
+      ]
+    },
+    "AGCAATTCTTCCATTGTTTTATTCTCTAGCG": {
+      "genome5_unique": [
+        551
+      ]
+    },
+    "GCAATTCTTCCATTGTTTTATTCTCTAGCGA": {
+      "genome5_unique": [
+        552
+      ]
+    },
+    "CAATTCTTCCATTGTTTTATTCTCTAGCGAA": {
+      "genome5_unique": [
+        553
+      ]
+    },
+    "AATTCTTCCATTGTTTTATTCTCTAGCGAAC": {
+      "genome5_unique": [
+        554
+      ]
+    },
+    "ATTCTTCCATTGTTTTATTCTCTAGCGAACT": {
+      "genome5_unique": [
+        555
+      ]
+    },
+    "TTCTTCCATTGTTTTATTCTCTAGCGAACTT": {
+      "genome5_unique": [
+        556
+      ]
+    },
+    "TCTTCCATTGTTTTATTCTCTAGCGAACTTT": {
+      "genome5_unique": [
+        557
+      ]
+    },
+    "CTTCCATTGTTTTATTCTCTAGCGAACTTTC": {
+      "genome5_unique": [
+        558
+      ]
+    },
+    "TTCCATTGTTTTATTCTCTAGCGAACTTTCA": {
+      "genome5_unique": [
+        559
+      ]
+    },
+    "TCCATTGTTTTATTCTCTAGCGAACTTTCAT": {
+      "genome5_unique": [
+        560
+      ]
+    },
+    "CCATTGTTTTATTCTCTAGCGAACTTTCATA": {
+      "genome5_unique": [
+        561
+      ]
+    },
+    "CATTGTTTTATTCTCTAGCGAACTTTCATAA": {
+      "genome5_unique": [
+        562
+      ]
+    },
+    "ATTGTTTTATTCTCTAGCGAACTTTCATAAA": {
+      "genome5_unique": [
+        563
+      ]
+    },
+    "TTGTTTTATTCTCTAGCGAACTTTCATAAAG": {
+      "genome5_unique": [
+        564
+      ]
+    },
+    "TGTTTTATTCTCTAGCGAACTTTCATAAAGA": {
+      "genome5_unique": [
+        565
+      ]
+    },
+    "GTTTTATTCTCTAGCGAACTTTCATAAAGAG": {
+      "genome5_unique": [
+        566
+      ]
+    },
+    "TTTTATTCTCTAGCGAACTTTCATAAAGAGC": {
+      "genome5_unique": [
+        567
+      ]
+    },
+    "TTTATTCTCTAGCGAACTTTCATAAAGAGCT": {
+      "genome5_unique": [
+        568
+      ]
+    },
+    "TTATTCTCTAGCGAACTTTCATAAAGAGCTT": {
+      "genome5_unique": [
+        569
+      ]
+    }
+  },
+  "Summary": {
+    "genome1_unique": {
+      "total_bases": 200,
+      "unique_kmers": 170,
+      "multi_mapping_kmers": 0
+    },
+    "genome2_unique": {
+      "total_bases": 300,
+      "unique_kmers": 270,
+      "multi_mapping_kmers": 0
+    },
+    "genome3_unique": {
+      "total_bases": 400,
+      "unique_kmers": 370,
+      "multi_mapping_kmers": 0
+    },
+    "genome4_unique": {
+      "total_bases": 500,
+      "unique_kmers": 470,
+      "multi_mapping_kmers": 0
+    },
+    "genome5_unique": {
+      "total_bases": 600,
+      "unique_kmers": 570,
+      "multi_mapping_kmers": 0
+    }
+  }
+}
